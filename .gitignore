@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.python_env/
+venv/
+.env
+
+# Temporary / cache
+*.tmp
+*.log
+
+# Large generated outputs – ignore per‑trial trial logs
+results_corridor/**/*trials.csv
+results_corridor/**/*.kml
+
+# But track summary results
+!results_corridor/**/*.json
+
+# Raw downloaded JSON caches
+data/raw/*.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
