@@ -1,0 +1,755 @@
+id,name,lat,lon,strategy,source
+node/262942557,St. Michael and All Angels,51.4675654,-3.5279558,A4,osm
+node/299443678,St Michael,51.4367978,-3.4669312,A4,osm
+node/315875697,St Michael The Archangel,53.3308181,-1.6566965,A4,osm
+node/387530409,The Greek Orthodox Cathedral of the Holy Cross and St Michael,51.5739433,-0.201678,A4,osm
+node/410268977,St. Michael's,51.956138,-3.7879068,A4,osm
+node/440149684,English Orthodox Church of St Michael Chapel,51.2317195,-0.5821197,A4,osm
+node/577449445,Saint Michael,51.7129002,-2.7772154,A4,osm
+node/582437696,Saint Michael,51.9470569,-3.2901045,A4,osm
+node/702420829,St George & St Michael Church,51.2439721,-0.9482296,A4,osm
+node/720957043,St Michael's Church,51.0834944,-0.7481939,A4,osm
+node/1040906535,Church of St. Michael,51.6497938,-5.021561,A4,osm
+node/1271509803,St Michael and All Angels Church,53.3020564,-0.1588686,A4,osm
+node/1303944058,St Michael's Church,53.0926397,-3.7993803,A4,osm
+node/1407363462,"St Michael's Church, Penrhoslligwy",53.3482971,-4.2841742,A4,osm
+node/1417494819,St Michael's Church,53.2483927,0.0794156,A4,osm
+node/1604211995,St Michael & All Angels,51.7117873,-2.8479177,A4,osm
+node/1711236143,St. Michael & All Angels,51.5555753,-3.3572881,A4,osm
+node/5180539454,Saint Michael,52.6423083,1.2413987,A4,osm
+node/5866292256,St Michael & All Angels,50.8694842,-0.9893492,A4,osm
+node/7498934496,St Michael,51.2333835,-0.5582978,A4,osm
+node/10611345171,"St Michael's Priory Church, Ewenny Priory",51.4888049,-3.5676039,A4,osm
+node/12111171250,Saint Michael The Archangel,50.7401308,-3.3189999,A4,osm
+node/13284840865,St Michael,51.5401367,-0.141503,A4,osm
+way/4348220,St. Michael & All Angels Church,52.2099103,-1.0150294,A4,osm
+way/22756406,"St Michael's, Two Mile Hill",51.4618957,-2.5211321,A4,osm
+way/23349620,St. Michael's,52.1312286,-1.0556909,A4,osm
+way/23597410,St Michael,52.0516219,-2.76924,A4,osm
+way/25312607,Coventry Cathedral Church of St Michael,52.4086393,-1.5070982,A4,osm
+way/27334243,St Michael's Church,50.8995838,-1.4051515,A4,osm
+way/28145937,St Michael & All Angels,51.0827798,-1.8236489,A4,osm
+way/30640492,St Michael and All Angels,51.5625182,-0.0665486,A4,osm
+way/31437015,St Michael and All Angels,52.0369612,-2.4200872,A4,osm
+way/34212613,St Michael and St George,51.5124651,-0.2306348,A4,osm
+way/37096410,"St. Michael, Kirby-le-Soken",51.8527261,1.2214937,A4,osm
+way/37854098,St Michael,52.3074174,-2.075721,A4,osm
+way/37957792,St Michael The Archangel,53.3240978,-0.9470406,A4,osm
+way/38769709,"Parish Church of St Michael, Wood Green",51.599466,-0.1116148,A4,osm
+way/42194824,St. Michael's Parish Church,51.576096,-2.98532,A4,osm
+way/43390897,St Michael and All Angels,51.8140852,-2.0854257,A4,osm
+way/45775334,Saint Michael and All Angels Church,51.4960404,-0.2547354,A4,osm
+way/46031574,Saint Michael's and All Angels,51.3808773,-2.3980582,A4,osm
+way/49166045,St Michael and All Angels,53.337243,-2.7359496,A4,osm
+way/49264083,Saint Michael's,51.509117,-0.7021122,A4,osm
+way/50668574,St Michael & All Angels Church,52.9386728,-1.3098637,A4,osm
+way/51832538,St Michael & All Angels,52.0605922,1.2713078,A4,osm
+way/52128420,St Mary and St Michael Church,51.5136904,-0.0520554,A4,osm
+way/54441788,St Michael & All Angels,52.3401747,-0.9647135,A4,osm
+way/58614385,St Michael and All Angels,51.6713056,-1.2912065,A4,osm
+way/58693066,St Michael's,53.2928509,-6.1359917,A4,osm
+way/59428955,St Michael and All Angels,51.6611028,-0.0873135,A4,osm
+way/59539222,Saint Michael's Church,53.1055516,-0.175544,A4,osm
+way/59696219,Saint Michael's and All Angels,53.0221174,-2.23061,A4,osm
+way/60892010,St Michael and All Angels,52.4636404,-1.8073683,A4,osm
+way/62356741,"Saint Michael's, Thorpe",51.8566841,1.1632235,A4,osm
+way/63703061,St Michael's Chapel,52.4243733,-1.8016631,A4,osm
+way/67888622,Debre Sahl Eritrean Orthodox Christian Saint Michael's Community Church in UK,51.4788909,-0.0888393,A4,osm
+way/68996733,Saint Michael's,51.4513702,-1.0319822,A4,osm
+way/70369478,St Michael and all Angels,52.896203,-1.4182325,A4,osm
+way/70461910,Saint Michael's Church Hall,51.4527306,-1.0315248,A4,osm
+way/70923510,St Michael & All Angels,51.478489,-0.0993298,A4,osm
+way/71117917,St Michael,52.1409128,-4.494986,A4,osm
+way/71333099,St Michael the Archangel,50.7012873,-1.4153901,A4,osm
+way/72765510,St Michael's,52.4800635,-1.8927167,A4,osm
+way/73216933,St Michael and All Angels,52.8164591,-1.32812,A4,osm
+way/76089824,St Michael & All Angels,52.6691027,-0.6354807,A4,osm
+way/78324312,Saint Michael's Ukrainian Catholic Church,52.9063248,-1.4717944,A4,osm
+way/78613068,St Michael and All Angels,51.52087,-0.2115556,A4,osm
+way/79000723,St Michael-at-Bowes,51.6097268,-0.11464,A4,osm
+way/79046538,St Michael's,51.8708344,0.1574916,A4,osm
+way/80373194,Saint Michael's Church,53.2006659,-1.865675,A4,osm
+way/80478017,St. Michael's Church,52.343564,-2.2731468,A4,osm
+way/81529157,St Michael's Convent and Care Home,51.7924108,1.1658576,A4,osm
+way/82489307,St Michael and All Angels,51.6148959,-0.2444261,A4,osm
+way/87499690,St. Michael's Church and Community Centre,51.4807105,-0.0373016,A4,osm
+way/88733381,St Michael & All Angels,51.1459846,-0.1797408,A4,osm
+way/92228109,St. Michael's Without,51.3836529,-2.3598305,A4,osm
+way/93107026,St Michael,52.1241699,-1.4028882,A4,osm
+way/93334117,St Michael and All Angels,52.7250535,-2.1177301,A4,osm
+way/94560134,St Michael and All Angels Church,51.6658839,-0.280546,A4,osm
+way/94831930,St Michael and All Angels,51.1744422,0.4937731,A4,osm
+way/94912482,"Saint Michael, All Angels and Holy Cross",52.680099,0.4751412,A4,osm
+way/95236117,St Michael,52.2750745,0.8946499,A4,osm
+way/95406730,St Michael,52.2060122,0.1183505,A4,osm
+way/95811525,"St Michael and All Angels, Colwich",52.7877062,-1.9853222,A4,osm
+way/96550110,St Michael,52.3399255,-1.7040027,A4,osm
+way/96620127,Saint Michael's Church,52.7862483,1.3587866,A4,osm
+way/97172593,St Michael & All Angels,51.7993299,-0.7262217,A4,osm
+way/97441020,Saint Michael's Church,52.5487774,-1.2794498,A4,osm
+way/98510574,St Michael's Chapel of Ease,51.2547651,-0.3293128,A4,osm
+way/98874543,Saint Michael's Church,51.3559622,-2.3285616,A4,osm
+way/99095132,Saint Michael,52.7961157,1.2507042,A4,osm
+way/100060915,St Michael and All Angels Mickleham,51.2675189,-0.3232749,A4,osm
+way/101077819,St Michael and All Angels Uffington,52.6570537,-0.4319842,A4,osm
+way/102917180,St Michael & All Angels,51.6519065,-0.7521764,A4,osm
+way/103970814,The Catholic Church of St Michael The Archangel,52.332187,-0.1731439,A4,osm
+way/104182637,Saint Michael's,52.7300389,1.5018942,A4,osm
+way/104381218,St Michael's,52.8240321,-1.2530779,A4,osm
+way/104867865,St Michael,52.0024915,1.1894309,A4,osm
+way/104888762,St Michael,51.0817188,-2.3493838,A4,osm
+way/105738218,St. Michael and All Angels,52.0841061,-2.9391305,A4,osm
+way/106084477,Chapel of St Michael,50.7267581,-3.0659459,A4,osm
+way/106784516,St Michael's Parish Handsworth,52.5003234,-1.9239154,A4,osm
+way/107063680,Church of Saint Michael and All Angels,51.6329387,-3.002705,A4,osm
+way/107382010,Saint Michael and All Angels,52.7249458,0.9747965,A4,osm
+way/107501762,"St Michael's, Kirk Langley",52.9463121,-1.5751491,A4,osm
+way/108048205,St Michael and All Angels,51.5852924,-0.0296003,A4,osm
+way/108520129,St Michael's Church,53.184207,-0.1467448,A4,osm
+way/108818942,"St Michael's, Leaden Roding",51.7952933,0.3042856,A4,osm
+way/109187564,"St Michael's, Churchill",52.1800958,-2.1143015,A4,osm
+way/109775456,"St Michael, North Piddle",52.1890776,-2.0483439,A4,osm
+way/109883540,St Michael And All Angels,52.3762372,-1.9841073,A4,osm
+way/110137115,Saint Michael and All Angels,52.7435891,1.4703902,A4,osm
+way/111142409,St Michael,52.0094869,-1.5467574,A4,osm
+way/111868876,Saint Michael,51.6748487,-0.5324706,A4,osm
+way/112810639,St Michael and All Angels,51.0999075,0.1323285,A4,osm
+way/113953448,St Michael's,52.4586113,1.5621162,A4,osm
+way/114938804,St Michael's Church,51.2336919,-0.2674017,A4,osm
+way/115376120,Parish Church of Saint Michael's and All Angels,53.3642284,0.0012236,A4,osm
+way/115565965,St Michael,52.2567495,-2.1851316,A4,osm
+way/115600633,"Saint Michael and All Saints, Wadenhoe",52.4382609,-0.5177095,A4,osm
+way/116406472,St Michael's Church,51.5688676,-0.1502814,A4,osm
+way/117628054,Saint Michael's Church,52.2637967,-0.6417455,A4,osm
+way/117858087,St Mary and St Michael,51.944356,1.0742543,A4,osm
+way/118979756,St Michael the Archangel,51.0892872,-2.271076,A4,osm
+way/119353329,St Michael's Church,50.7203095,-1.8888583,A4,osm
+way/119495948,Saint Michael,52.7624434,1.1126486,A4,osm
+way/121519683,St Michael & All Angels,50.9931607,-2.2948541,A4,osm
+way/121635941,"St. Michael's Church, Stoke Gifford",51.5150053,-2.5452532,A4,osm
+way/122365422,St Michael and All Angels Church,51.0546325,-2.7283889,A4,osm
+way/122750100,St Michael & All Angels,52.2842201,-2.8078571,A4,osm
+way/123090965,St Michael at the Northgate,51.7537615,-1.2583589,A4,osm
+way/123372766,St. Michael,51.3865418,-2.4828512,A4,osm
+way/124549175,Saint Michael and All Angels,52.9073498,1.3588258,A4,osm
+way/124635745,Saint Michael and All Angels,52.7680109,1.303776,A4,osm
+way/124760360,St Michael's Catholic Church,50.6855594,-1.0815585,A4,osm
+way/124809185,St Michael,53.2476542,-3.6397348,A4,osm
+way/124896770,Church of St Michael,53.3058025,-3.3685832,A4,osm
+way/126063767,Saint Michael and All Angels,51.6396611,-3.9496386,A4,osm
+way/126129758,Saint Michael and All Angels,51.4400891,-2.5915162,A4,osm
+way/126358541,Saint Michael & All Angels,51.7899553,-2.7376569,A4,osm
+way/127643023,St Michael & All Angels,51.2600195,-2.3524899,A4,osm
+way/131296639,Saint Michael and All Angels,51.7629862,-1.2349427,A4,osm
+way/131614415,St Michael and All Angels,51.8464733,-0.9268173,A4,osm
+way/132766199,Church of St Michael & All Angels,52.3387003,-2.1709105,A4,osm
+way/135039478,St Michael & All Angels,50.7449146,-3.4822032,A4,osm
+way/136141463,Old Church of St Michael,52.3083697,-2.3630283,A4,osm
+way/136173349,St Michael & All Angels,50.7190726,-1.1688042,A4,osm
+way/136287476,Saint Michael and All Angels,51.9569275,-1.4204264,A4,osm
+way/136326077,Saint Michael and All Angels,51.8357321,-1.5390203,A4,osm
+way/136620601,Saint Michael's Church,51.7035374,-2.6794055,A4,osm
+way/136789257,St. Michael's and All Angels' Church,51.5086441,-1.5316041,A4,osm
+way/137211780,Church of Saint Michael on Greenhill,52.6831517,-1.8183009,A4,osm
+way/137701549,St Michael,51.0700539,-1.9597922,A4,osm
+way/138265820,Saint Michael & All Angels,51.8797428,-2.9820087,A4,osm
+way/138704317,St Michael's Church,52.6611994,-3.965844,A4,osm
+way/139098528,St Michael and All Angels,51.750942,0.3823762,A4,osm
+way/139787283,Saint Michael's Church,52.529273,1.2261224,A4,osm
+way/139806967,Parish Church of St Michael,50.7309965,-2.6674417,A4,osm
+way/140996760,St Michael's Church,51.7480475,-1.39774,A4,osm
+way/141872698,St Michael's Church,51.9168605,-0.6103017,A4,osm
+way/142459446,St Michael,50.706704,-2.5265517,A4,osm
+way/142817514,St Michael & All Angels,51.0361401,-1.8472844,A4,osm
+way/143025383,St Michael and All Angels' Church,51.6992657,0.4641931,A4,osm
+way/143137275,Saint Michael & All Angels,50.8778947,-1.8808423,A4,osm
+way/143263765,St Michael and St George,50.7264155,-2.9398557,A4,osm
+way/143263767,St Michael the Archangel,50.7257042,-2.9316924,A4,osm
+way/143311290,Saint Michael,52.4751631,1.1736712,A4,osm
+way/143328889,"Saint Michael, Great Sampford",51.9923655,0.3906917,A4,osm
+way/143486345,St Michael's Church Porthilly,50.5416155,-4.9131167,A4,osm
+way/143681116,Saint Michael's Church,52.472043,1.1874514,A4,osm
+way/143779816,Saint Michael's Church,52.6748404,-6.2897194,A4,osm
+way/144024754,"St Michael the Archangel, Woodham Walter",51.7299067,0.6180499,A4,osm
+way/144588110,St Michael's Church,52.8970463,-1.3175624,A4,osm
+way/144630532,"St Michael's,Stowe Nine Churches",52.2137034,-1.0663441,A4,osm
+way/145183701,"St Michael, Aveley",51.4980065,0.2569591,A4,osm
+way/145482410,"St Michael and All Angels, Copford",51.8692939,0.8093007,A4,osm
+way/146420927,"St Michael, Ramsey",51.9282483,1.2248373,A4,osm
+way/146590007,"St. Michael And All Angels, Claverdon",52.2789888,-1.7107688,A4,osm
+way/146810901,"St Michael, Fobbing",51.5278716,0.4752581,A4,osm
+way/147607784,"St Michael, Theydon Mount",51.6720584,0.1572618,A4,osm
+way/147770275,Our Lady and Saint Michael,52.0664453,-1.6297823,A4,osm
+way/147981336,St Michael's Church,50.719836,-2.0098568,A4,osm
+way/148010286,Saint Michael and All Angels,50.6994073,-2.5852042,A4,osm
+way/148045428,St Michael,50.6670626,-2.3284097,A4,osm
+way/148345800,St Michael and All Angels,50.6993714,-3.5329618,A4,osm
+way/148894612,"St Michael and All Angels, Loughton",51.639094,0.060167,A4,osm
+way/149358507,Saint Michael and Saint Wulfad's,52.9016654,-2.143311,A4,osm
+way/149362701,St Michael de Rupe,50.6032295,-4.1623325,A4,osm
+way/150411189,"St Michael’s, Rayleigh",51.5945501,0.5973606,A4,osm
+way/150907265,St Mary and St Michael (Trumpington Parish Church),52.1739509,0.1084818,A4,osm
+way/150928303,Myland Saint Michael's,51.9108252,0.8920237,A4,osm
+way/150997743,"St Michael and All Angels, Westcliff",51.543148,0.6699488,A4,osm
+way/151096703,St Michael & All Angels,53.2799096,-3.8317602,A4,osm
+way/151294752,Saint Michael's Church,53.3399263,-6.3161251,A4,osm
+way/151528204,Saint Michael and All Angels,52.2145673,-2.5207376,A4,osm
+way/152177446,St Michael,52.282467,-2.3393306,A4,osm
+way/152536884,"St Michael the Archangel, Laxton",53.1958233,-0.9207736,A4,osm
+way/155032499,St Michael & All Angels,52.7238248,-2.9511068,A4,osm
+way/156265417,St Michael's,52.4119672,-1.4749426,A4,osm
+way/156358443,St Michael and All Angels,52.4344344,-2.0039456,A4,osm
+way/156778688,"St Michael and All Angels, Butcombe",51.3538676,-2.6973304,A4,osm
+way/156889901,St Michael and All Angels,51.6884801,-4.1317219,A4,osm
+way/157309817,St Michael's,51.3794896,0.5212838,A4,osm
+way/157707083,St Michael and All Angels' Church,53.0362717,-0.5073055,A4,osm
+way/157862005,St Michael the Archangel,51.5268312,-2.5183324,A4,osm
+way/160628262,St Michael Paternoster Royal,51.5111967,-0.092077,A4,osm
+way/164039944,St Michael,50.2444134,-4.8572031,A4,osm
+way/164380533,St. Michael and All Angels with St. James,51.3782756,-0.1011161,A4,osm
+way/165069521,Saint Michael and All Angels,52.0539066,-1.2194893,A4,osm
+way/165944701,St Michael's Church,51.7529274,-0.3560585,A4,osm
+way/166436974,St Michael's Cornhill,51.5132207,-0.0854215,A4,osm
+way/167591552,"St Michael's, Chesterton",52.5451629,-0.3403488,A4,osm
+way/168255637,St Michael's,51.9044604,-2.0561026,A4,osm
+way/170871089,St Michael,51.4807836,-1.6214255,A4,osm
+way/171288325,St Michael's,51.4718103,-0.1172108,A4,osm
+way/171667265,St Michael,52.0771104,-2.0671469,A4,osm
+way/172919510,St Michael's Healing Centre,52.4631823,-1.8123776,A4,osm
+way/173602571,St Michael's,50.7461265,-3.0280709,A4,osm
+way/174640568,Saint Michael,51.8221459,-1.321807,A4,osm
+way/175306971,St Michael and All Angels' Church,50.7238324,-3.5375545,A4,osm
+way/175418217,"St Michael, Framlingham",52.2223644,1.3445422,A4,osm
+way/175516023,St Michael and All Angels' Church,50.9524952,-4.1440281,A4,osm
+way/176085822,Saint Michael and all Angels,52.8769584,-0.7556529,A4,osm
+way/176380181,Saint Michael,51.9903269,-1.3712569,A4,osm
+way/177944731,Saint Michael,51.0527639,-1.1711263,A4,osm
+way/178539385,St Michael's Church,50.909074,-0.5394161,A4,osm
+way/179213938,St Michael,52.4153474,-2.5585183,A4,osm
+way/179646434,St Michael's,52.0233397,-0.7118524,A4,osm
+way/181348610,St Michael & All Angels,53.1080171,-1.3408467,A4,osm
+way/183035439,"St Michael & All Angels, Kingsnorth",51.1173448,0.8650258,A4,osm
+way/185245245,Saint Michael's,51.4541925,-0.166953,A4,osm
+way/185704725,St. Michael's Church Cumnor,51.7340167,-1.3331003,A4,osm
+way/185786783,St Michael's,51.025503,-3.2537209,A4,osm
+way/186236598,"St Michael & All Angels, Guiting Power",51.9192709,-1.8623939,A4,osm
+way/186524185,Church of St Michael Archangel,51.3401292,-1.369473,A4,osm
+way/188982667,St Michael's Church,52.4140692,-4.0882536,A4,osm
+way/190004522,Church of St Michael and St Felix,52.384588,1.4467642,A4,osm
+way/190005326,"Saint Michael, South Elmham",52.4033734,1.440752,A4,osm
+way/190332742,St Michael & All Angels,51.046246,0.1903731,A4,osm
+way/191204038,Saint Michael,52.0834,-1.4509473,A4,osm
+way/191743221,St Michael and All Angels,51.6309733,-1.7107339,A4,osm
+way/193105945,Saint Michael,52.582049,0.7322894,A4,osm
+way/194765062,Saint Michael and All Angels,52.4913989,1.1295412,A4,osm
+way/195364672,Saint Michael,51.9574041,-1.1189846,A4,osm
+way/196011197,St Michael,53.1555666,-1.6488966,A4,osm
+way/196522883,St. Michael and All Angels,52.1267958,-0.4552021,A4,osm
+way/199113345,St. Michael and All Angels Church,53.1925118,-2.4446541,A4,osm
+way/201719084,St Michael & All Angels,52.4469743,-2.1672934,A4,osm
+way/202164403,Saint Michael & All Angels,52.0257594,-2.4809811,A4,osm
+way/202270693,St Michael's,51.5707814,-1.1976571,A4,osm
+way/202308065,St Michael's,50.3115673,-3.6304821,A4,osm
+way/203309464,St Michael and all Angels,52.7835984,-0.4266165,A4,osm
+way/203477515,St Michael and All Angels' Church,50.2733657,-3.6736239,A4,osm
+way/204549684,St Michael's Church,52.5691527,-2.1609757,A4,osm
+way/204985087,Saint Michael,51.9348016,-2.5817919,A4,osm
+way/205052257,St Michael,52.2877167,-1.6225091,A4,osm
+way/205329276,St Michael & All Angels with St Catherine,53.476979,-2.371227,A4,osm
+way/206680067,St. Michael & All Angels,51.5876258,0.2015475,A4,osm
+way/207249928,St Michael & All Angels,50.762356,-1.7001837,A4,osm
+way/207483033,Saint Michael and All Angels,52.6003456,-2.1619595,A4,osm
+way/207522971,"St Michael’s, Sollers Hope",51.995143,-2.5657751,A4,osm
+way/207705077,St. Michael and All Angels,50.9446203,-1.405341,A4,osm
+way/209243851,Church of Saint Michael and All Angels,52.2883099,-2.6132992,A4,osm
+way/209432008,St Michael,50.6778233,-3.5919869,A4,osm
+way/211045575,St Michael and All Angels,51.3982338,-0.972413,A4,osm
+way/211655553,Saint Michael,51.7778758,-2.9492551,A4,osm
+way/211807336,Saint Michael's Church,51.0576664,-1.3161544,A4,osm
+way/214782401,Saint Michael's Church,51.7925304,-3.9895239,A4,osm
+way/215524555,St Michael's,52.7982108,-3.129538,A4,osm
+way/217043145,St Michael,52.2935969,1.1598721,A4,osm
+way/217387693,Saint Michael and All Angels,52.7573855,1.1446639,A4,osm
+way/217470569,St Michael's,52.3892146,-0.9555197,A4,osm
+way/217777898,St Michael & All Angels,52.5594774,-1.2484393,A4,osm
+way/217803097,St Michael & All Angels,52.2564442,-1.4467217,A4,osm
+way/217814580,Church of St Michael,50.9014476,-2.0214885,A4,osm
+way/218277622,St. Michael and All Angels,51.3318082,-2.1869102,A4,osm
+way/218725800,St. Michael & All Angels (Abington Pigotts Parish Church),52.0849627,-0.0977524,A4,osm
+way/219036714,St Michael & All Angels,52.5707242,-1.4844367,A4,osm
+way/219246968,St Michael's,51.4582933,-2.7674106,A4,osm
+way/219474659,Our Lady and St. Michael's Catholic Church,51.6914479,-0.3880128,A4,osm
+way/219554151,Our Lady & St. Michael,53.0256718,-2.1620159,A4,osm
+way/219691605,Saint Michael and All Angels,51.948133,-2.0584789,A4,osm
+way/219895855,St Michael,52.2729208,0.0548058,A4,osm
+way/223118090,St Michael & All Angels,52.5609388,-0.8411367,A4,osm
+way/223213983,St. Michael's,51.9347355,-0.9755448,A4,osm
+way/224081896,St Michael's Church,50.9892651,-3.0788943,A4,osm
+way/225923397,St Michael and All Angels,52.3857134,-2.5343206,A4,osm
+way/228735000,Saint Michael & All Angels,51.6862242,-2.6435242,A4,osm
+way/228784219,Saint Michael,52.6770583,1.062722,A4,osm
+way/230114422,St Michael's Church,50.672724,-3.8390625,A4,osm
+way/231364954,"St Michael's, Hernhill",51.3077662,0.9612475,A4,osm
+way/231815453,St Michael & All Angels,52.8559645,-0.9079557,A4,osm
+way/232644303,Saint Michael (Great Gidding Parish Church),52.4347744,-0.3589178,A4,osm
+way/235587802,St Michael & All Angels,52.0359285,-0.5236918,A4,osm
+way/237456805,St Michael and All Angels,50.8274934,-0.1498064,A4,osm
+way/237671512,Saint Michael's,51.2652718,-1.0889217,A4,osm
+way/237855813,St Michael,52.5021086,-3.2578325,A4,osm
+way/238071045,St Michael's,50.346315,-3.6812682,A4,osm
+way/238431676,St Michael,53.3330848,-1.6501089,A4,osm
+way/241923636,St Michael's Church,51.3368279,-0.7595215,A4,osm
+way/242595095,St Michael & All Angels,51.6135398,-0.6426323,A4,osm
+way/243055461,Saint Michael's,52.7603018,1.5384429,A4,osm
+way/245630602,St. Michael,50.9625099,0.7331059,A4,osm
+way/245915949,St Michael's,52.2698235,-2.4663161,A4,osm
+way/246164614,St. Michael,52.0091483,-1.6367768,A4,osm
+way/247095017,St. Michael & All Angels,53.0931319,-1.7623041,A4,osm
+way/248280463,"Parish Church of St Michael and All Angels, Cuxton",51.3713793,0.4547553,A4,osm
+way/250911340,St Michael's,53.2602701,-2.1244598,A4,osm
+way/256632945,St Michael & All Angels,52.4537406,-2.5421876,A4,osm
+way/256948864,"Orthodox Church of St. Michael, Dresden",52.9781473,-2.1317484,A4,osm
+way/257070093,Parish Church of Saint Michael,51.3940698,-1.5827522,A4,osm
+way/257351104,St Michael's,50.89541,-2.7530291,A4,osm
+way/257441386,St Michael,52.1144084,-1.8909133,A4,osm
+way/258584214,St Michael's Church,51.0697604,-2.9176711,A4,osm
+way/260989514,St Michael,51.1475039,-2.1958398,A4,osm
+way/261083501,St Michael & All Angels,51.151751,-2.9428737,A4,osm
+way/263834627,St. Michael's Church,52.0920306,-1.0263365,A4,osm
+way/265339171,St Michael's,50.7783882,-3.2300579,A4,osm
+way/267262268,St Michael and All Angels,52.5177554,-2.1739085,A4,osm
+way/267877694,St Michael's,50.6674275,-3.6179278,A4,osm
+way/268977343,St Michael in the City,53.3990656,-2.9804294,A4,osm
+way/272180466,St Michael and All Angels,50.8558263,-4.0641935,A4,osm
+way/275547155,"Saint Michael & All Angels Church, Bussage",51.7301243,-2.171572,A4,osm
+way/276020739,St Michael and All Angels,52.0387729,-1.770539,A4,osm
+way/276371905,"St. Michael's Parish Church, Wincle",53.1917542,-2.0633038,A4,osm
+way/277338848,St. Michael and All Angels,51.3725295,-2.1409104,A4,osm
+way/280706005,St Michael and All Angels,51.1944343,-1.6109334,A4,osm
+way/281326106,St Michael's,52.3570016,-3.0144483,A4,osm
+way/282109582,St Michael the Archangel Church,51.005532,-3.1219104,A4,osm
+way/284377697,Saint Michael,52.5412941,0.6218586,A4,osm
+way/286523142,St Michael the Archangel,53.0822296,-0.9890749,A4,osm
+way/286810626,St Michael & All Angels,53.2372765,-1.7897828,A4,osm
+way/288188163,St Michael,53.2388297,-2.9951869,A4,osm
+way/289406888,Church of St Michael,52.2441038,-3.3416911,A4,osm
+way/290138741,Saint Michael and All Angels Church,53.2175879,-3.2494172,A4,osm
+way/290618197,Saint Michael and All Angels Church,53.3633161,-2.1641691,A4,osm
+way/291321156,Our Lady And St Michael's Catholic Church,51.825974,-3.0216921,A4,osm
+way/293524090,St Michael and All Angels,51.6154374,-4.9392799,A4,osm
+way/293797459,St Michael & All Angels,50.3238563,-3.7981454,A4,osm
+way/295099589,St Michael's Church,53.2604969,-3.23296,A4,osm
+way/295170279,St Michael's Church,52.1844472,-4.1597912,A4,osm
+way/296746106,St. Michael and All Angels Church,52.5773063,-1.9803243,A4,osm
+way/299205260,St Michael & All Angels,52.5753774,-0.3852239,A4,osm
+way/299482773,St Michael,52.5141258,-2.0565862,A4,osm
+way/302432243,"St Michael & All Angels, Church Broughton",52.9009521,-1.6960996,A4,osm
+way/303089091,Saint Mary and Saint Michael,52.9341692,-6.2322084,A4,osm
+way/304370963,Saint Michael and All Angels,51.230705,-1.4832269,A4,osm
+way/307127226,St Michael's,51.9770361,-3.9923711,A4,osm
+way/312507334,St Michael & All Angels,51.109457,-1.7516247,A4,osm
+way/314934279,St Michael and All Angels,52.4683366,-2.9551809,A4,osm
+way/315717537,Saint Michael,52.6255426,1.4521126,A4,osm
+way/317936494,Saint Michael's Church,51.2141635,-1.199029,A4,osm
+way/317995545,New Cross Community Church (St Michael),53.130375,-1.2563714,A4,osm
+way/318313024,St Michael the Archangel,51.1490235,0.6863328,A4,osm
+way/321987731,St Michael's,53.050422,-1.6881656,A4,osm
+way/323240517,St Michael & All Angels,53.3741479,-3.1578232,A4,osm
+way/323486330,St Michael's,50.658885,-3.303054,A4,osm
+way/324258603,St Michael & All Angels,51.1989767,-2.6095216,A4,osm
+way/324602658,"St. Michael & All Angels, Pensby",53.3478002,-3.0940873,A4,osm
+way/326303093,St Michael’s,52.2356405,-0.9508318,A4,osm
+way/329466380,Saint Michael and All Angels,51.4897562,0.1181299,A4,osm
+way/331263958,St Michael & All Angels,50.8642777,-3.6258961,A4,osm
+way/337206467,St Michael and All Angels Church,52.699055,-0.3389412,A4,osm
+way/339006287,Saint Michael,52.6144904,1.0447548,A4,osm
+way/339727606,St Michael and St Bishoy Orthodox Coptic Church,51.3894968,1.3921341,A4,osm
+way/341761438,St Michael and All Angels,52.586945,-0.9582402,A4,osm
+way/342781645,St Michael,52.1045079,-2.0011553,A4,osm
+way/345371355,St Michael's Fulwell,51.4335396,-0.3477488,A4,osm
+way/347509253,Saint Michael's,52.8692662,1.1669941,A4,osm
+way/349858179,St Michael,52.0224075,-1.8822652,A4,osm
+way/350637284,St Michael and All Angels,52.0343833,-1.8631866,A4,osm
+way/351124962,St Michael,52.3201433,-1.4727461,A4,osm
+way/351173002,St Michael and All Angels,52.299256,-2.9315703,A4,osm
+way/352574004,Saint Michael and All Saints,52.555228,1.4727257,A4,osm
+way/356068514,Saint Michael in the Hamlet with Saint Andrew,53.3766378,-2.9498321,A4,osm
+way/356747853,St Michael & All Angels,52.0803794,-2.0282534,A4,osm
+way/359178463,St Michael and All Angels (Chettisham Parish Curch),52.4262363,0.2735644,A4,osm
+way/359361674,Saint Michael's Church,52.5894516,0.3914455,A4,osm
+way/359831940,St Michael & All Angels,50.8273611,-4.5497294,A4,osm
+way/359847690,St Michael and All Angels,51.0289913,-4.1373425,A4,osm
+way/360731620,Saint Michael and All Angels,50.8722293,-1.5778175,A4,osm
+way/360731815,St Michael and All Angels,50.8507308,-1.0933265,A4,osm
+way/360738146,St Michael and All Angels,51.6549883,-0.4090831,A4,osm
+way/360745692,St Michael the Archangel,50.7971354,0.1602889,A4,osm
+way/360792506,St Michael and All Angels,51.4936106,-2.1398721,A4,osm
+way/360863298,St Michael's,52.579402,-3.0915329,A4,osm
+way/360864426,St Michael the Archangel,52.1331811,-2.6164885,A4,osm
+way/360889179,St. Michael and All Angels,52.2469839,-2.8116071,A4,osm
+way/360890761,St Michael,52.2495339,-2.5975589,A4,osm
+way/360891446,St Michael's,52.5894027,-2.8141473,A4,osm
+way/360912135,Saint Michael and All Angels,51.5411264,-0.2592695,A4,osm
+way/361404172,St. Michael's and All Angels,51.3584377,-0.1410328,A4,osm
+way/361404527,St Michael & All Angels,51.4303514,0.211832,A4,osm
+way/361405923,St Michael & All Angels,51.4497205,-0.2021907,A4,osm
+way/362087432,St Michael's,51.5551198,-3.0966479,A4,osm
+way/363651930,Church of Saint Michael,53.0526356,-1.2039982,A4,osm
+way/364164681,St Michael and All Angels' Church,50.8094938,-3.2308648,A4,osm
+way/364774709,St Michael's Church,52.8502145,-1.563642,A4,osm
+way/364858842,Saint Michael,52.4859694,1.4548105,A4,osm
+way/366840237,St. Michael Archangel,51.8831909,-5.2631678,A4,osm
+way/367261690,St Michael's Church,53.2969053,0.0327448,A4,osm
+way/369609250,"St Michael and All Angels, London Fields",51.5407987,-0.0639389,A4,osm
+way/371631322,Saint Michael,52.4330395,1.6690997,A4,osm
+way/372012844,Saint Michael's,52.4958356,1.2466122,A4,osm
+way/373336403,St Michael and All Angels,51.2946136,-0.6499703,A4,osm
+way/373425269,St Michael's Church,51.0223697,-3.0355375,A4,osm
+way/373436775,Creech St Michael Baptist Church,51.025249,-3.0383976,A4,osm
+way/374011981,St. Michael's Church,51.2519627,-2.953694,A4,osm
+way/377071571,St. Michael's Church,52.3129957,-3.9881568,A4,osm
+way/379857289,St. Michael and All Angels Pelsall Parish Church,52.6254456,-1.9710296,A4,osm
+way/379913364,St Michael,51.0805565,-2.882942,A4,osm
+way/384435423,Saint Michael,52.6748198,1.6681769,A4,osm
+way/386820951,St. Michael & All Angels Church,50.9621529,-0.3082427,A4,osm
+way/389332694,St Michael,52.5032758,-1.5704442,A4,osm
+way/389555503,Saint Michael's Catholic Church,51.1875028,-2.5459249,A4,osm
+way/391453269,Saint Michael and All Angels,52.8658155,0.5102178,A4,osm
+way/391478769,St Michael & All Angels,53.091806,-3.3281216,A4,osm
+way/392077308,Saint Michael and All Angels,51.8392473,-1.9561523,A4,osm
+way/392423715,"St Michael and All Angels, Little Leigh",53.2790382,-2.5783034,A4,osm
+way/393288189,St Michael and All Angels,53.0522785,-1.2948547,A4,osm
+way/395340859,"Ewyas Harold, St Michael & All Saints",51.9538785,-2.8924757,A4,osm
+way/396807043,Saint Michael the Archangel,51.9660741,1.0732525,A4,osm
+way/398915655,St Michael,52.3035,-2.6952764,A4,osm
+way/398984510,St. Michael and All Angels Church,50.8470128,0.4966818,A4,osm
+way/398987250,St Michael & All Angels,51.4904864,0.053663,A4,osm
+way/400460285,St Michael's,53.2455478,-3.3091665,A4,osm
+way/400865142,St Michael & All Angels,50.9453296,0.0919271,A4,osm
+way/400994865,"St. Michael, Cardeston",52.7050681,-2.8957625,A4,osm
+way/402122812,St Michael & All Angels,50.8238851,0.1550901,A4,osm
+way/403326364,St Michael and All Angels,52.8482567,-2.3545194,A4,osm
+way/404262384,St Michael Church,51.0650442,-2.9974358,A4,osm
+way/404879758,St Michael,50.9507588,-2.8512753,A4,osm
+way/405335932,Melbourne Parish Church St Michael with St Mary,52.8211012,-1.4241683,A4,osm
+way/406599948,St Michael and All Angels,51.1706588,-2.9735723,A4,osm
+way/406972383,St Michael and All Angels,52.1542728,-2.6885113,A4,osm
+way/406986199,St Michael and All Angels,52.2004567,-2.9803144,A4,osm
+way/406990663,St Michael and All Angels,52.1166561,-3.0256047,A4,osm
+way/407487359,Church of St Michael,50.9953631,-3.3404551,A4,osm
+way/410058193,St Michael,50.8139488,-3.1278748,A4,osm
+way/410366552,"St Michael, Boulge",52.1280979,1.2918635,A4,osm
+way/410662321,St. Michael & All Angels,52.1438675,1.4524804,A4,osm
+way/415305998,St. Michael and All Angels,52.2326905,-1.1506663,A4,osm
+way/415308039,St Michael and All Angels,52.7254778,-1.0373412,A4,osm
+way/415874762,St Michael and All Angels,52.54886,-1.1933118,A4,osm
+way/416427467,Saint Michael & All Angels,52.9200997,-1.8835481,A4,osm
+way/418937443,St Michael's,53.1021856,-1.0364536,A4,osm
+way/419450127,St Michael and All Angels,53.081055,-0.854771,A4,osm
+way/419701493,St. Michael and All Angels Parish Church,53.4544396,-2.0100858,A4,osm
+way/420564951,St Michael and All Angels,52.9411536,-0.8596278,A4,osm
+way/420841105,"Parish Church of Saint Michael's, Garston",53.352087,-2.8969923,A4,osm
+way/420841763,St Michael's Church,53.4140315,-2.8398633,A4,osm
+way/421561948,St Michael,52.9516222,-1.8352118,A4,osm
+way/422110123,St Michael & All Angels Church,50.1625694,-5.077517,A4,osm
+way/425272513,St Michael's Church,50.5723503,-3.7166635,A4,osm
+way/427747584,Church of St Michael,50.8353082,-3.0740838,A4,osm
+way/429486225,St Michael & All Angels,51.6029613,-0.3298368,A4,osm
+way/431564457,Saint Michael and All Angels Hanley Childe,52.2840691,-2.5144031,A4,osm
+way/434844427,St Michael & All Angels,50.6822976,-4.6473604,A4,osm
+way/438215980,Cathedral Church of St. Michael & St. George (RC),51.2598713,-0.7597315,A4,osm
+way/438983949,St Michael's,53.0716167,-2.1963687,A4,osm
+way/440233660,St Michael,52.0124461,-3.4179259,A4,osm
+way/440934025,Saint Michael and All Angels,51.864947,-2.4898836,A4,osm
+way/440937405,Saint Michael and All Angels,51.852762,-2.4326709,A4,osm
+way/441630118,St Michael and All Angels,52.9086866,-2.8433808,A4,osm
+way/442778662,St Michael and All Angels,51.7049881,-1.8581714,A4,osm
+way/442792426,Saint Michael and All Angels,51.9930661,-1.0741572,A4,osm
+way/442808746,Church of St. Michael,53.3116469,-4.1207615,A4,osm
+way/443476578,Saint Michael the Archangel,51.3990269,-2.6374083,A4,osm
+way/444961380,"St Michael's, Cilycwm",52.0446091,-3.8191961,A4,osm
+way/445507637,Saint Michael in Lewes,50.8722372,0.0072004,A4,osm
+way/447020791,"St Michael and All Angels, Walford",51.880846,-2.602524,A4,osm
+way/447215510,St. Michael and All Angels,51.5075566,-1.9670283,A4,osm
+way/448975029,Saint Michael and All Angels,52.4759332,1.5248916,A4,osm
+way/449536239,St Michael,51.8741125,-2.5454929,A4,osm
+way/449858984,Saint Michael and All Angels,51.9723046,-1.0914448,A4,osm
+way/449931829,St Michael and All Angels Church,50.8104701,-1.9661854,A4,osm
+way/453525563,Saint Michael & Saint Martin,51.7453513,-1.7084071,A4,osm
+way/453998414,Saint Piran and Saint Michael's Church,50.1148488,-5.4458708,A4,osm
+way/454016570,St Michael,50.1033808,-5.2765696,A4,osm
+way/454020062,St Michael,50.1158734,-5.1090109,A4,osm
+way/457157061,St Michael,51.7193776,-0.852654,A4,osm
+way/459189421,St Michael and All Angels,50.4175276,-3.9658944,A4,osm
+way/467579908,St Michael's Wartnaby,52.8012609,-0.9447402,A4,osm
+way/467585488,St Michael and All Angels,52.848337,-0.850636,A4,osm
+way/467731314,St Michael and All Angels,51.2210038,-2.481826,A4,osm
+way/469762707,St Michael's & All Angels Church,51.7591771,-0.5500829,A4,osm
+way/472820120,St Michael,52.2689003,-1.3600026,A4,osm
+way/474648659,St Michael and All Angels,51.4647381,0.0136133,A4,osm
+way/486415120,St Michael and All Angels,51.3148298,-1.9429558,A4,osm
+way/492125529,St Michael & All Angels,51.7703834,-0.2242188,A4,osm
+way/493021709,St. Michael & All Angels,50.8241557,-0.323317,A4,osm
+way/494914145,St Michael,52.325883,1.4466081,A4,osm
+way/495657205,St Michael,52.4660554,-2.9044418,A4,osm
+way/495848384,St Michael & All Angels,52.5813294,-2.8098139,A4,osm
+way/495851584,St Michael & All Angels,52.6342767,-2.6995248,A4,osm
+way/495888330,Saint Michael & All Angels,52.4077304,-2.8013337,A4,osm
+way/496085074,St Michael,52.7345542,-2.4032669,A4,osm
+way/496313419,St Michael and All Angels,52.8583773,-2.7861954,A4,osm
+way/497122798,St Michael's Church,51.1110815,-3.0873643,A4,osm
+way/497141723,St Michael and All Angels,51.2264141,-1.782627,A4,osm
+way/498287830,St Michael and All Angels,51.6558871,-1.2103606,A4,osm
+way/498822976,St Michael,52.1086988,-2.6928236,A4,osm
+way/499252521,St Michael & All Angels,52.3260885,-2.5393595,A4,osm
+way/499252522,St Michael,52.3134241,-2.5453118,A4,osm
+way/505279567,St Michael And All Angels' Church,51.7797357,-1.2643872,A4,osm
+way/505838562,St Michael,51.0416565,-2.5213623,A4,osm
+way/506188822,Hackthorn St Michael and All Angels Parish Church,53.3289188,-0.5134558,A4,osm
+way/506925700,St Michael & All Angels,50.9621202,-3.1419492,A4,osm
+way/507342155,St Michael's Church,53.3712249,-2.7758127,A4,osm
+way/507342224,St Michael’s Catholic Church,53.3624378,-2.7609585,A4,osm
+way/512065892,St. Michael's Abbey Church,51.2971621,-0.7496453,A4,osm
+way/512635043,St Michael and All Angels' Church,50.9073157,-2.6573322,A4,osm
+way/512916360,Church of St Michael,53.3813749,-0.579432,A4,osm
+way/513398360,St Michael,52.4852765,-2.7066137,A4,osm
+way/514111321,St Michael,52.7451163,-1.9227005,A4,osm
+way/514722749,St Michael's Church,53.0325547,-3.5080744,A4,osm
+way/517728535,St Michael,53.2233727,-4.2807518,A4,osm
+way/517951569,St Michael,52.2705654,1.4509158,A4,osm
+way/518529924,The Chantry Chapel of Saint Michael and the Holy Souls,52.8945712,0.8755586,A4,osm
+way/523221403,Saint Michael,52.4511804,0.9891931,A4,osm
+way/523431715,St Michael & All Angels,51.3036321,-1.3920381,A4,osm
+way/524122172,Saint Michael's,50.7231855,-3.4522436,A4,osm
+way/529257137,St Michael,53.216744,-1.7385001,A4,osm
+way/532961374,Axmouth church (St Michael),50.7141662,-3.0546452,A4,osm
+way/532961377,St Michael,50.6987422,-3.0923338,A4,osm
+way/534859208,St Michael and All Angels,52.5576956,-2.7949879,A4,osm
+way/536393430,St Michael and All Angels,51.3908682,-2.2041859,A4,osm
+way/537400005,St Michael and All Angels,51.3697327,-1.5478527,A4,osm
+way/537400934,St Michael,51.3719361,-1.4875239,A4,osm
+way/537756481,St Michael and All Angels,51.4120644,-1.8089664,A4,osm
+way/546886098,St Michael's Church,51.4942245,-0.1510274,A4,osm
+way/548341364,Church of St Michael & All Angels,50.1965792,-5.1414919,A4,osm
+way/558772950,St Michael,51.7763924,-1.8699003,A4,osm
+way/558774669,St Michael,51.8778436,-1.9996532,A4,osm
+way/560699557,St Michael and All Angels,52.721435,-1.4062021,A4,osm
+way/560764048,St Michael and All Angels,52.4636819,-0.719015,A4,osm
+way/560792951,St Michael,51.9260727,-2.6972803,A4,osm
+way/561271177,St Michael's Church,51.5696315,-1.2345545,A4,osm
+way/566389978,St Michael's Church,52.0087888,-0.648565,A4,osm
+way/570760255,St Michael & All Angels,52.1054587,-2.8400728,A4,osm
+way/574565134,St Michael's Church,53.1020457,-3.0771942,A4,osm
+way/579661393,St. Michael's Church,50.9210062,-0.8699427,A4,osm
+way/581938574,St Michael,52.3250008,-2.198675,A4,osm
+way/583279240,St. Michael's Church,53.4844989,-2.8989721,A4,osm
+way/584988804,St Michael & All Angels,52.5491956,-0.2173758,A4,osm
+way/590735783,St Michael & All Angels Church,52.5812196,-1.6456931,A4,osm
+way/591343226,St Michael and All Angels Church,52.3592908,-1.0826086,A4,osm
+way/596962685,St Michael,52.1735262,-0.6618044,A4,osm
+way/598613656,St Michael and All Angels,51.6197793,-1.3305705,A4,osm
+way/598625096,St Michael and All Angels,50.8348779,-0.2412392,A4,osm
+way/598927002,St Michael's Church,52.2162891,-1.4335012,A4,osm
+way/602254652,St Michael,51.7644682,-0.9052647,A4,osm
+way/608463703,Saint Michael & All Angels,52.0167263,-2.840079,A4,osm
+way/608877224,St Michael & All Angels,52.2364223,-2.1818924,A4,osm
+way/609713408,St. Michael's,51.6622951,-4.0783786,A4,osm
+way/636848653,St Michael,52.7191641,-2.8716481,A4,osm
+way/636898015,St Michael,52.0072933,-1.9010356,A4,osm
+way/637199184,Saint Michael,51.7532176,-2.0226189,A4,osm
+way/638858315,St Michael & All Angels,51.4212312,-2.7110782,A4,osm
+way/640401983,St Michael the Archangel,50.5474994,-3.4921498,A4,osm
+way/642683211,St. Michael,50.6280165,-3.6188836,A4,osm
+way/660192384,St. Michael's and All Angels,52.0872354,-3.1494713,A4,osm
+way/662299186,St Michael,52.0361195,-4.2522683,A4,osm
+way/664098035,St Michael & All Angels,50.9901131,-3.4879518,A4,osm
+way/664099547,St Michael and All Angels,50.9341786,-3.5499684,A4,osm
+way/664104217,St Michael,51.0269298,-3.616595,A4,osm
+way/664106732,St Michael's Church,51.0660327,-3.8890663,A4,osm
+way/664116551,St Michael And All Angels,51.118797,-4.0816921,A4,osm
+way/664119808,St Michael's Church,50.904775,-4.2844638,A4,osm
+way/664123041,St Michael,50.7554251,-3.8481309,A4,osm
+way/664139045,St Michael,50.8614176,-4.22025,A4,osm
+way/664164322,St Michael's Church,50.8728658,-3.9017832,A4,osm
+way/665064506,"The Parish Church of St. Michael, Flixton",53.4418534,-2.3819833,A4,osm
+way/665160449,St Michael,50.8938769,-2.8926808,A4,osm
+way/665985312,St Michael's,50.905072,-0.0715992,A4,osm
+way/668212549,St Michael & All Angels,52.678526,-1.0987389,A4,osm
+way/672861658,St Michael and All Angels,51.1313371,-3.9781475,A4,osm
+way/672927247,St Michael,52.2693067,-2.3199489,A4,osm
+way/672938493,St Michael,51.8254032,-4.4688122,A4,osm
+way/680376444,Saint Michael and All Angels,50.9383378,-0.9595765,A4,osm
+way/681824347,St Michael & All Angels Church,50.8874955,-2.9198194,A4,osm
+way/686855175,Holy Family and St Michael,52.0664349,1.249852,A4,osm
+way/699138096,"Parish Church of Saint Michael & All Angels, Enborne",51.389347,-1.3749898,A4,osm
+way/711530489,St Michael and All Angels Church,51.3498507,-0.8155414,A4,osm
+way/711647409,Saint Michael & All Angels,52.0475296,-2.8136021,A4,osm
+way/713422792,St Michael,52.8205454,-2.9790658,A4,osm
+way/713894446,St Michael and All Angels,51.2180939,-1.5465918,A4,osm
+way/720187303,St Michael,50.4218283,-4.2903201,A4,osm
+way/724702192,St. Michael's Church,53.1658779,-0.5411846,A4,osm
+way/727235467,St. Michael's Catholic Church,51.9469908,-3.3923236,A4,osm
+way/736906308,Saint Michael,53.0791577,-0.274467,A4,osm
+way/742432648,St Michael,52.2476069,-0.184849,A4,osm
+way/745491155,St Michael and All Angels,51.5189198,-0.6089796,A4,osm
+way/745790790,Saint Michael,51.8982688,-2.7933544,A4,osm
+way/747412443,St Michael's,51.4325092,-0.4626246,A4,osm
+way/749016501,St Michael,52.7713283,-2.5438978,A4,osm
+way/760917999,St Michael and All Angels,51.5443734,-2.2799352,A4,osm
+way/765368825,St Michael,50.9309573,-2.8407469,A4,osm
+way/765653254,St Michael,51.1965615,-0.4835204,A4,osm
+way/765670512,St Michael's,51.322605,-1.5850874,A4,osm
+way/765688494,Halton: St Michael & All Angels,51.7827884,-0.7337448,A4,osm
+way/765689690,St Michael's,50.7917855,0.0454549,A4,osm
+way/766048907,St Michael's Church,51.2154049,0.5821908,A4,osm
+way/766188524,St Michael,51.0867894,0.6894288,A4,osm
+way/767304735,St Michael and All Angels.,50.6277762,-2.1267565,A4,osm
+way/767460464,St Michael and All Angels,50.8337418,-3.5479896,A4,osm
+way/767620633,Saint Michael's Sutton-on-the-Hill,52.9050467,-1.6484225,A4,osm
+way/770307846,St Michael's Church,51.6547634,-2.5081643,A4,osm
+way/770410520,Saint Michael and All Angels,53.0947607,-2.4092455,A4,osm
+way/770412310,"St Michael, North Rode",53.1957738,-2.1670295,A4,osm
+way/770418538,"St Michael, Shirley",52.9718284,-1.6754904,A4,osm
+way/770658890,Saint Michael,51.9974732,-2.7498483,A4,osm
+way/772162619,"St Michael, North Chapel",51.0561473,-0.6426987,A4,osm
+way/777259901,St Michael & All Angels,52.3908914,-0.7249213,A4,osm
+way/777689129,St Michael & All Angels,53.2573016,-1.3943169,A4,osm
+way/779099605,St Michael,53.0123988,-0.9603518,A4,osm
+way/779605477,St Michael & All Angels,52.6981933,-0.9181138,A4,osm
+way/779870014,St Michael & All Angels,52.6101309,-0.840273,A4,osm
+way/779963361,St Michael,52.5502799,-0.8783083,A4,osm
+way/780655644,Church of St Michael and All Angels,51.4978365,-3.1836797,A4,osm
+way/781127823,St Michael's Church,50.9502623,-2.8055125,A4,osm
+way/781765715,St Michael & All Angels,53.1270283,-0.644392,A4,osm
+way/782175029,St Michael & All Angels,53.1697341,-0.6000157,A4,osm
+way/782372734,St Michael,53.0612072,-0.6385252,A4,osm
+way/783104503,St Michael,53.327555,-0.5781443,A4,osm
+way/784874696,St Michael,52.0019149,-2.9967664,A4,osm
+way/785386465,St Michael,53.3726878,-0.421669,A4,osm
+way/785389968,St Michael,53.3350119,-0.2791449,A4,osm
+way/787575993,St Michael & All Angels,51.8936554,-0.6347225,A4,osm
+way/789260391,St Michael,53.1820463,-2.2320167,A4,osm
+way/793516854,St Michael's,50.8417822,-0.4053485,A4,osm
+way/795653658,Saint Michael,52.0846917,-2.8272384,A4,osm
+way/797013169,St Michael's Church Centre,51.0706567,1.0824921,A4,osm
+way/798977206,St. Michael & All Angels Church,51.9552625,-2.2340127,A4,osm
+way/801713813,St Michael's Chapel,51.3109072,-0.4061695,A4,osm
+way/801726878,St Michael,51.2086432,-0.5813437,A4,osm
+way/804653074,St Michael,50.2404425,-5.0055392,A4,osm
+way/804875712,St Michael and All Angels,50.6254391,-4.4727688,A4,osm
+way/804903617,St Michael Mission Church,50.3422463,-5.1550633,A4,osm
+way/807279246,St Michael,50.3789405,-4.1720714,A4,osm
+way/808380250,St Michael,50.9500466,-2.5785028,A4,osm
+way/808407306,St Michael & All Angels,50.8177312,-2.6235615,A4,osm
+way/808819856,St Michael,51.1573243,-1.8086923,A4,osm
+way/808827567,St Michael,51.0799774,-2.0134989,A4,osm
+way/809906911,St Michael,51.428692,-1.6654464,A4,osm
+way/813192633,St Michael & All Angels,51.5568178,-2.2874315,A4,osm
+way/813376393,St Michael,51.0337438,-2.4890901,A4,osm
+way/813384662,St Michael & All Angels,51.1239807,-2.8407464,A4,osm
+way/813630139,St Michael & All Angels,50.9475744,-2.6200155,A4,osm
+way/813634003,St Michael The Archangel,51.3101131,-2.6541891,A4,osm
+way/813908772,St Michael & All Angels,50.8563186,-2.8469574,A4,osm
+way/814142491,St Michael the Archangel,51.1961969,-3.4668801,A4,osm
+way/814935838,St Michael's Church,51.210911,-3.4805147,A4,osm
+way/815463090,St Michael,51.0250739,-3.3983031,A4,osm
+way/816216505,St Michael & All Angels,51.5586375,-1.9827636,A4,osm
+way/818298674,St Michael And All Angels,51.4706274,-0.2528449,A4,osm
+way/818719009,St Michael,52.1101451,-2.4868043,A4,osm
+way/819066013,St Michael & All Angels,52.2377826,-3.039529,A4,osm
+way/819497504,St Michael & All Angels,52.5126414,-2.6326244,A4,osm
+way/819862101,St Michael & All Angels,52.5282879,-2.9099464,A4,osm
+way/822219102,"St Michael & All Angels, Eastbourne",50.778355,0.2644505,A4,osm
+way/822227141,St Michael and All Angels,51.8995898,-1.0130657,A4,osm
+way/822359302,St Michael,51.4722481,-0.5403665,A4,osm
+way/822816958,Catholic Church of Saint Michael,51.5208553,-0.9813129,A4,osm
+way/824557375,St Michael & All Angels,51.6851937,-1.6212235,A4,osm
+way/824813065,St Michael & All Angels,51.5619207,-1.4621494,A4,osm
+way/830315932,"St Michael & All Angels, Horton",53.1135536,-2.0878968,A4,osm
+way/831986429,Saint Michael,51.8235257,-1.8864459,A4,osm
+way/833136634,St Michael and All Angels,52.7958392,-1.6967062,A4,osm
+way/833138529,St Michael & All Angels,52.7717165,-1.84486,A4,osm
+way/833893012,St Michael & All Angels,52.752235,-2.6020193,A4,osm
+way/835703412,St. Michael,53.1788405,0.0387981,A4,osm
+way/835902821,St Michael & All Angels Church,52.9352082,-1.2462416,A4,osm
+way/836369551,St Michael & All Angels,53.4161079,-2.7200707,A4,osm
+way/839721156,St Michael & All Angels Church,51.449434,-3.2220192,A4,osm
+way/840695859,St Michael & All Angels,52.1427968,-0.8831743,A4,osm
+way/849768796,Catholic Church of Our Lady Immaculate and Saint Michael,50.9182412,0.4841216,A4,osm
+way/852424587,St Michael,51.4873149,-0.2717424,A4,osm
+way/852438680,St Michael the Archangel,51.5493341,-0.278846,A4,osm
+way/855294261,"St Michael & All Angels, Brookenby",53.4414548,-0.1927451,A4,osm
+way/856322285,St Michael's Church,52.8406201,-1.456091,A4,osm
+way/858997334,St Michael,53.1759039,-1.2469719,A4,osm
+way/860043359,St Michael and St Mary Magdalene,51.4013188,-0.7601611,A4,osm
+way/860097734,St Michael & All Angels,52.7375349,-1.0076521,A4,osm
+way/860588638,St Michael & All Angels,52.0383347,-0.3342496,A4,osm
+way/860652135,St. Michael The Archangel,51.241683,-0.7558626,A4,osm
+way/860954717,St Michael and All Angels,51.1465913,-0.713283,A4,osm
+way/860963026,St Michael,50.7718081,-3.0610409,A4,osm
+way/861112926,St Michael,50.904005,-2.5703116,A4,osm
+way/863159389,"St Michael, Offham",51.2975073,0.3800543,A4,osm
+way/863271748,"St Michael's, Discoed",52.276043,-3.0616269,A4,osm
+way/865698197,Saint Michael,51.6578687,-2.0024713,A4,osm
+way/865700876,"St Michael's, Stanley Pontlarge",51.9703077,-2.0025112,A4,osm
+way/865977675,St. Michael,52.944469,-0.4988457,A4,osm
+way/865984513,Saint Michael & All Angels,53.4306405,-2.655932,A4,osm
+way/868584071,St Mary and St Michael,51.1506364,-1.3026,A4,osm
+way/868587069,Church of St Michael and All Angels,50.769774,-1.7794868,A4,osm
+way/870471571,St. Michael,52.9231857,-0.3161705,A4,osm
+way/870475068,"St Michael, Sibdon Carwood",52.4431746,-2.8650421,A4,osm
+way/870883745,St. Michael & All Angels,51.2825584,1.0556395,A4,osm
+way/871152861,St Michael the Archangel,50.4127204,-5.0820584,A4,osm
+way/871352998,St Michael,50.6176618,-4.3260714,A4,osm
+way/871368058,St Michael's & All Angels,50.7618155,-3.1748047,A4,osm
+way/871868282,St Michael's,52.1933123,-2.2545138,A4,osm
+way/878591266,St Michael's Church Of England,51.2073249,-1.5014713,A4,osm
+way/878871061,St Michael & All Angels,52.7887171,-2.3934508,A4,osm
+way/878882588,St Michael & All Angels,51.8152429,-0.0970989,A4,osm
+way/878914351,Saint Michael's Beckenham Church,51.4077178,-0.0518482,A4,osm
+way/879339167,St Michael's,51.2697594,0.5057685,A4,osm
+way/879340897,St. Michael's,53.2102376,-2.8707905,A4,osm
+way/879586811,St Michael & All Angels,51.7027242,-1.9009294,A4,osm
+way/879588080,St Michael & All Angels,53.1785342,-0.6420579,A4,osm
+way/879842685,St Michael & All Angels,53.4098804,-2.2820703,A4,osm
+way/881111609,St Michael's,53.1647339,-1.7087115,A4,osm
+way/881239644,Saint Michael the Archangel,51.4420225,-0.735133,A4,osm
+way/881241186,St Michael's,51.4719858,0.1126942,A4,osm
+way/881241434,St Michael's and All Angels,51.4292137,-0.0418875,A4,osm
+way/881276055,St Michael,52.6858661,-1.2809682,A4,osm
+way/881279570,St Michael and All Angels,51.9269444,-0.7622203,A4,osm
+way/881296611,St Michael's,51.8505558,-0.1802847,A4,osm
+way/882367923,St. Michael's,53.0062743,-2.6563639,A4,osm
+way/882409244,St Mary & St Michael,52.9790817,-2.5869175,A4,osm
+way/882442687,Saint Michael's,53.0489112,-2.5904923,A4,osm
+way/882453004,Parish Church of St Michael,52.9980022,-1.459336,A4,osm
+way/882716639,Saint Michael,51.8544975,-2.4786521,A4,osm
+way/882716748,Saint Michael & All Angels,51.8758654,-2.3475432,A4,osm
+way/882764953,St Michael and All Angels,52.9463639,-0.0643037,A4,osm
+way/882868415,"St. Michael's, Wainfleet St. Mary Community Hall",53.0959211,0.2341669,A4,osm
+way/882869190,St Michael's,53.4946359,-3.0432805,A4,osm
+way/883299540,St Michael & All Angels w St Edmund,52.2453651,-0.8810633,A4,osm
+way/884301014,"St Michael's Church, Bullington",51.168491,-1.3507981,A4,osm
+way/884344197,Saint Michael,52.3053231,-2.1030806,A4,osm
+way/893794758,St Michael,52.2010928,-4.1927715,A4,osm
+way/918166717,St Michael's Church,51.8462911,-4.9626893,A4,osm
+way/929539402,Church of St. Michael,52.1376627,-3.1898126,A4,osm
+way/936766103,Church of St Michael and All Angels,52.7291389,-3.0440806,A4,osm
+way/939363057,Saint Michael,51.821347,-2.8242635,A4,osm
+way/943838132,St Michael and All Angels Church,52.1986771,-3.4878905,A4,osm
+way/955495286,St Michael & All Angels,51.3669151,0.0537601,A4,osm
+way/981053060,St Michael,51.893506,-4.3501672,A4,osm
+way/982145877,Our Lady of Lourdes & St. Michael,51.5467529,-0.4827233,A4,osm
+way/988370979,St Michael's Church,51.479195,-3.275609,A4,osm
+way/1000528486,St. Michael's,51.7154402,-4.0431328,A4,osm
+way/1002072542,St Michael's Church,51.730585,-3.1348901,A4,osm
+way/1012796983,St Michael and All Angels,52.602307,-3.14247,A4,osm
+way/1056478910,Saint Michael & All Angels,51.5539529,0.0560604,A4,osm
+way/1059974834,St. Michael's Church,52.7422761,-3.3637713,A4,osm
+way/1108360627,St Michael's,51.7042881,-3.0124657,A4,osm
+way/1135904370,St Michael's Church,52.9015615,-2.8804466,A4,osm
+way/1208014607,St Michael and All Angels,51.696014,-4.8943337,A4,osm
+way/1210090595,Saint Michael's Cherubim and Seraphim Church,51.4791925,0.0778931,A4,osm
+way/1318788405,Catholic Church of St Michael and the Holy Angels,52.5187742,-1.9948508,A4,osm
+way/1354532851,St Michael's Church,51.8581461,-4.0492665,A4,osm
+way/1504592508,St. Michael's,50.7773035,-2.1711996,A4,osm

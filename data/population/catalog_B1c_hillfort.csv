@@ -1,0 +1,637 @@
+id,name,lat,lon,type,source
+node/4118137,Bedford Castle,52.1354363,-0.4633704,fortification,osm
+node/28932430,Park Hill,51.1112289,-2.3392111,fortification,osm
+node/193715284,Abinger Motte,51.2021604,-0.406891,fortification,osm
+node/255173948,Carl Wark,53.3291918,-1.6118875,fortification,osm
+node/255174021,Navio Roman Fort,53.3410496,-1.7292351,fortification,osm
+node/257598905,Ivinghoe Beacon,51.8419,-0.6076,fortification,osm
+node/265758477,Castle Hill,50.8340445,-1.7199091,fortification,osm
+node/269467660,Bastion 1 Hilsea Lines,50.8352113,-1.0748613,fortification,osm
+node/324378023,Dane's Camp,51.7107392,-0.7749567,fortification,osm
+node/415265540,Castle Grove Camp,51.5243889,-1.0167586,fortification,osm
+node/428161418,Bakewell Castle,53.2157713,-1.6700907,fortification,osm
+node/441705169,Dolbury Hillfort,50.7942984,-3.4582785,fortification,osm
+node/443265229,node/443265229,53.2388263,-3.8831268,fortification,osm
+node/568548196,Nattadon Hill fort,50.6648882,-3.8337755,fortification,osm
+node/603320187,Llys Rhosyr,53.1616692,-4.3657561,fortification,osm
+node/609723224,node/609723224,52.7581199,-1.5875489,fortification,osm
+node/669244238,Bryn Amlwg Castle,52.4528697,-3.2267706,fortification,osm
+node/843796817,Cockroad Wood Castle,51.0887558,-2.3630692,fortification,osm
+node/875417704,Hen Castell,51.8423293,-3.14396,fortification,osm
+node/1232813315,Woolbury Rings,51.1158714,-1.4570411,fortification,osm
+node/1371091086,Croft Ambrey,52.2965516,-2.8161808,fortification,osm
+node/1475445837,Burgh Castle Roman Site,52.5826152,1.6515652,fortification,osm
+node/1583568220,Castle Naze,53.302911,-1.9213455,fortification,osm
+node/1585680425,Bury Castle,50.4965543,-4.6305735,fortification,osm
+node/1650541974,Annesley Castle,53.0619813,-1.2412158,fortification,osm
+node/1716361748,Castell Cawr,53.2766042,-3.5977159,fortification,osm
+node/1753100929,node/1753100929,52.6841415,-4.0507696,fortification,osm
+node/1766427987,Ringarounds,50.2123283,-4.9320277,fortification,osm
+node/1767513142,Sully Island,51.3956979,-3.1959776,fortification,osm
+node/1767749620,Prideaux Castle,50.3689456,-4.7304618,fortification,osm
+node/1893898289,Castell Cynfal,52.5945951,-4.0461617,fortification,osm
+node/1928071669,node/1928071669,51.9555082,-0.3624204,fortification,osm
+node/1976319790,node/1976319790,53.2473282,-6.3261712,fortification,osm
+node/2095340484,Castle Cob,53.2557305,-2.7000458,fortification,osm
+node/2152108187,node/2152108187,50.9219872,-1.3256592,fortification,osm
+node/2232565090,node/2232565090,53.1969623,-0.215364,fortification,osm
+node/2232575515,node/2232575515,53.1932048,-0.2010055,fortification,osm
+node/2232576878,Halstead Hall,53.1802249,-0.2237391,fortification,osm
+node/2232578512,Wood Hall,53.1906679,-0.1755881,fortification,osm
+node/2232579868,White Hall (Martin Grange),53.1759744,-0.1637657,fortification,osm
+node/2232584247,node/2232584247,53.1888399,-0.3046107,fortification,osm
+node/2286175154,node/2286175154,53.151954,-0.1565164,fortification,osm
+node/2293579939,Cow Castle,51.1227424,-3.7237338,fortification,osm
+node/2304013486,North Tawton Roman Fort,50.7829186,-3.9002443,fortification,osm
+node/2309297991,Eddisbury Hill Fort,53.2192693,-2.6708796,fortification,osm
+node/2355768818,Maen Castle,50.0727155,-5.7080356,fortification,osm
+node/2382637991,Grim's Ditch,50.9663475,-1.8601877,fortification,osm
+node/2410452208,node/2410452208,51.6390134,-4.9782469,fortification,osm
+node/2431294057,Castle Neroche,50.9358859,-3.0358751,fortification,osm
+node/2560770234,node/2560770234,52.2860041,-3.8457031,fortification,osm
+node/2592989021,node/2592989021,53.1329773,-0.2145316,fortification,osm
+node/2627178700,node/2627178700,51.3660492,-1.6138948,fortification,osm
+node/2659815363,node/2659815363,53.2228619,-0.1921849,fortification,osm
+node/2659834775,node/2659834775,53.1437589,-0.2267928,fortification,osm
+node/2659834781,node/2659834781,53.2040635,-0.1490366,fortification,osm
+node/2659834784,node/2659834784,53.2628787,-0.2041743,fortification,osm
+node/2659944126,node/2659944126,53.2607972,0.2275085,fortification,osm
+node/2659944139,node/2659944139,53.3140945,0.249622,fortification,osm
+node/2659945983,node/2659945983,53.2053366,0.1942624,fortification,osm
+node/2659945998,node/2659945998,53.2391418,0.2631962,fortification,osm
+node/2660030625,node/2660030625,53.1702014,0.3317219,fortification,osm
+node/2660055852,node/2660055852,53.2411378,0.055684,fortification,osm
+node/2660055853,node/2660055853,53.2422681,0.0562664,fortification,osm
+node/2660055854,node/2660055854,53.2440849,0.0576752,fortification,osm
+node/2660055855,node/2660055855,53.2961548,0.1338737,fortification,osm
+node/2660066125,node/2660066125,53.1392148,0.0419217,fortification,osm
+node/2660066133,node/2660066133,53.2518951,-0.004727,fortification,osm
+node/2660066138,node/2660066138,53.288979,-0.0844192,fortification,osm
+node/2660066158,node/2660066158,53.3280025,0.1101623,fortification,osm
+node/2660066163,node/2660066163,53.3335152,-0.0253517,fortification,osm
+node/2660066167,node/2660066167,53.3386426,-0.0339078,fortification,osm
+node/2660066171,node/2660066171,53.3406279,-0.0367491,fortification,osm
+node/2660066173,node/2660066173,53.3446909,-0.0367242,fortification,osm
+node/2660066174,node/2660066174,53.3511827,0.0919062,fortification,osm
+node/2660066177,node/2660066177,53.3598883,0.1053479,fortification,osm
+node/2660066187,node/2660066187,53.4180855,-0.0776004,fortification,osm
+node/2660066194,node/2660066194,53.4253492,-0.0275507,fortification,osm
+node/2660076542,Birkwood Hall,53.1351245,-0.0846462,fortification,osm
+node/2660076550,node/2660076550,53.1161352,-0.1074966,fortification,osm
+node/2660076552,node/2660076552,53.1498851,0.1499736,fortification,osm
+node/2660076554,node/2660076554,53.1660656,0.2005432,fortification,osm
+node/2660076555,node/2660076555,53.1698889,0.1668165,fortification,osm
+node/2660076557,node/2660076557,53.2013142,-0.2167323,fortification,osm
+node/2660076558,node/2660076558,53.2018643,-0.2543924,fortification,osm
+node/2660076559,node/2660076559,53.2115606,-0.2752668,fortification,osm
+node/2660076566,node/2660076566,53.2732832,-0.3432165,fortification,osm
+node/2660076573,node/2660076573,53.2845316,0.1020065,fortification,osm
+node/2660076574,node/2660076574,53.2846712,-0.2984329,fortification,osm
+node/2660076575,node/2660076575,53.2974105,-0.3421075,fortification,osm
+node/2660076576,node/2660076576,53.3003001,-0.3554001,fortification,osm
+node/2660076577,node/2660076577,53.3815119,0.0183354,fortification,osm
+node/2660076578,node/2660076578,53.3830365,0.0169094,fortification,osm
+node/2660076579,North Cockerington Hall,53.3900908,0.0672867,fortification,osm
+node/2660077858,node/2660077858,53.2957464,-0.1200338,fortification,osm
+node/2660077863,node/2660077863,53.3070454,-0.2619914,fortification,osm
+node/2660077867,node/2660077867,53.310189,-0.2839732,fortification,osm
+node/2660077871,node/2660077871,53.3237719,-0.3681954,fortification,osm
+node/2660077874,node/2660077874,53.3274039,-0.4243698,fortification,osm
+node/2660077878,node/2660077878,53.3481064,-0.302653,fortification,osm
+node/2660077882,node/2660077882,53.3568064,-0.3255178,fortification,osm
+node/2660077886,node/2660077886,53.3699089,-0.2531017,fortification,osm
+node/2660077890,node/2660077890,53.3902297,-0.4979227,fortification,osm
+node/2660077891,node/2660077891,53.3913183,-0.3997141,fortification,osm
+node/2660077892,node/2660077892,53.3960942,-0.4941462,fortification,osm
+node/2663545119,node/2663545119,53.2011823,-0.4106014,fortification,osm
+node/2663577840,node/2663577840,53.2553719,-0.3836036,fortification,osm
+node/2663599710,node/2663599710,53.1322311,-0.3259227,fortification,osm
+node/2669098539,node/2669098539,53.2129511,-0.2411144,fortification,osm
+node/2684426962,Beaudesert Castle,52.2931797,-1.772689,fortification,osm
+node/2692611603,node/2692611603,53.1636964,0.0169912,fortification,osm
+node/2692611608,node/2692611608,53.1759319,-0.1005125,fortification,osm
+node/2692611612,node/2692611612,53.179565,-0.101748,fortification,osm
+node/2692611615,node/2692611615,53.2068979,0.1120624,fortification,osm
+node/2692611619,node/2692611619,53.2108682,0.0813594,fortification,osm
+node/2692611627,node/2692611627,53.2324439,0.0106658,fortification,osm
+node/2692611630,node/2692611630,53.2385849,-0.1080769,fortification,osm
+node/2692611634,node/2692611634,53.2404421,-0.1089768,fortification,osm
+node/2776565791,Pen Llystyn Roman Fort,52.9804844,-4.2642154,fortification,osm
+node/2785278183,Roman hill fort,50.7298663,-3.9777153,fortification,osm
+node/2818249891,Uley Bury,51.6885483,-2.3131421,fortification,osm
+node/2819447644,Goltho Hall (archaeological site),53.2744781,-0.3286758,fortification,osm
+node/2819447646,node/2819447646,53.303597,-0.4009968,fortification,osm
+node/2844566712,Brean Down Fort,51.3281173,-3.0344457,fortification,osm
+node/2844566724,Ancient Field Systems,51.3253183,-3.0265734,fortification,osm
+node/2980863583,node/2980863583,52.9131176,-0.0689788,fortification,osm
+node/2980863584,node/2980863584,52.9222722,-0.0098483,fortification,osm
+node/2980863585,Estovening Hall,52.94297,-0.1682732,fortification,osm
+node/2980863586,node/2980863586,52.9474291,-0.0227283,fortification,osm
+node/2980863587,node/2980863587,52.9475323,-0.0255473,fortification,osm
+node/2980893333,Bulby Hall,52.8291349,-0.4503277,fortification,osm
+node/2980893336,Hambleton Moat,52.9474657,-0.368803,fortification,osm
+node/2980893338,node/2980893338,52.8143071,-0.3576256,fortification,osm
+node/2980893339,node/2980893339,52.8144116,-0.5178395,fortification,osm
+node/2980893340,node/2980893340,52.8487557,-0.3492044,fortification,osm
+node/2980893341,node/2980893341,52.8603755,-0.5208322,fortification,osm
+node/2980893342,Aslaackby Castle,52.8612603,-0.3893978,fortification,osm
+node/2980893345,node/2980893345,52.9227241,-0.3233653,fortification,osm
+node/2980893346,node/2980893346,52.9534488,-0.3733833,fortification,osm
+node/2980893347,node/2980893347,52.9571589,-0.3694958,fortification,osm
+node/2980893350,node/2980893350,52.992179,-0.2898694,fortification,osm
+node/2980893351,node/2980893351,53.0026182,-0.3061663,fortification,osm
+node/2980893354,node/2980893354,53.1315189,-0.0946213,fortification,osm
+node/2980893356,node/2980893356,53.3524426,-0.3782997,fortification,osm
+node/2980893357,node/2980893357,53.4165375,-0.2945425,fortification,osm
+node/2980893359,node/2980893359,53.4869211,-0.5329358,fortification,osm
+node/3074122081,Bryn Castell Hillfort,52.7645293,-4.0011848,fortification,osm
+node/3074732264,Craig y Dinas Hillfort,52.7871484,-4.0412466,fortification,osm
+node/3109410988,Bloody Acre Hill Fort,51.6215393,-2.4499118,fortification,osm
+node/3153973098,node/3153973098,53.1818538,-6.4827748,fortification,osm
+node/3202263280,Caer Llugwy Roman Fort,53.0978385,-3.8739315,fortification,osm
+node/3273865172,Roman Fort,53.2666075,-3.3754577,fortification,osm
+node/3403733467,node/3403733467,53.2352262,-0.2659686,fortification,osm
+node/3403733469,node/3403733469,53.2447898,-0.333277,fortification,osm
+node/3403733470,node/3403733470,53.2767214,-0.2788841,fortification,osm
+node/3403762482,node/3403762482,53.2707116,-0.7291812,fortification,osm
+node/3403762483,node/3403762483,53.2878643,-0.5872398,fortification,osm
+node/3403762484,node/3403762484,53.3157839,-0.1135398,fortification,osm
+node/3403762485,node/3403762485,53.3180042,-0.7013,fortification,osm
+node/3403762486,node/3403762486,53.3272112,-0.678403,fortification,osm
+node/3403762488,node/3403762488,53.4214078,-0.4117134,fortification,osm
+node/3406767530,The Bulwark (Civil War fort),52.355421,0.0436552,fortification,osm
+node/3473269423,Roman Camp,52.9170543,-0.5349273,fortification,osm
+node/3473269425,Sempringham Hall,52.8789849,-0.3582383,fortification,osm
+node/3528492297,Castell Bach,52.2984929,-4.1441006,fortification,osm
+node/3528492332,Castell-Mawr,52.2965245,-4.1461177,fortification,osm
+node/3649631054,Bailey Hill,53.4302885,-1.600753,fortification,osm
+node/3815790812,Goltho village (historic),53.2820941,-0.32737,fortification,osm
+node/3816374614,Site of Bangor Castle,53.2276077,-4.1173991,fortification,osm
+node/3900024115,Friskney Hall,53.0738926,0.180423,fortification,osm
+node/3900024116,Moat House,53.0204927,0.1147618,fortification,osm
+node/3934284201,node/3934284201,53.1379379,-0.397817,fortification,osm
+node/3974366994,Norton Fitzwarren Roman Temporary Camp,51.0271813,-3.1687191,fortification,osm
+node/3986902052,node/3986902052,53.3360569,-0.0739918,fortification,osm
+node/4009569077,node/4009569077,53.2671053,0.1624591,fortification,osm
+node/4018325881,Moel-y-Gaer Hillfort,53.2124104,-3.1836874,fortification,osm
+node/4081682636,Pen-y-gaer,52.2288907,-3.9929252,fortification,osm
+node/4081682637,Castell Flemish,52.2505045,-3.9729139,fortification,osm
+node/4081920506,Gaer Fawr Hillfort,52.3283259,-3.9844502,fortification,osm
+node/4167364057,Belbury Castle,50.7387571,-3.3111439,fortification,osm
+node/4208029610,Blithewood Moat,52.9262723,-2.0153113,fortification,osm
+node/4229082826,Sidbury Hill Fort,51.2530369,-1.6917653,fortification,osm
+node/4253302568,Bryn Castell,53.2302194,-3.8211478,fortification,osm
+node/4283809015,Castell-y-Gaer,51.8497391,-4.4064913,fortification,osm
+node/4346997545,Tourner Bury,50.7937108,-0.9630693,fortification,osm
+node/4349008494,Berry Ring Hill Fort,52.7880255,-2.1683568,fortification,osm
+node/4692217406,Caer Engan Hillfort,53.048993,-4.2738714,fortification,osm
+node/4722740748,Dinas Melin-y-wig Hillfort,53.0314424,-3.4192739,fortification,osm
+node/4722975083,Mynydd Rhyd-Ddu Enclosure,53.0189235,-3.4102823,fortification,osm
+node/4734593626,Fort James,50.8033425,-1.1210004,fortification,osm
+node/4895638507,Conger Hill,51.9495786,-0.5298416,fortification,osm
+node/4909646536,node/4909646536,52.510782,-3.3981335,fortification,osm
+node/4962640867,Motte castrale,49.7793096,1.3346397,fortification,osm
+node/5058067735,node/5058067735,50.6500007,-3.5227404,fortification,osm
+node/5314990289,Elworthy Barrows,51.0952485,-3.3288789,fortification,osm
+node/5426912766,Pen-y-Gaer hillfort,52.8545003,-4.491381,fortification,osm
+node/5426925128,Nant-y-Castell contour fort,52.8541981,-4.4940937,fortification,osm
+node/5642285159,Castle Hill (Time Team),50.8937228,-2.8257717,fortification,osm
+node/5749652921,Castell Bach,52.1962442,-4.4010759,fortification,osm
+node/5871512282,node/5871512282,52.0157683,-4.5586074,fortification,osm
+node/5916310007,node/5916310007,51.132032,-1.0629602,fortification,osm
+node/5916310008,node/5916310008,51.1669562,-1.0789834,fortification,osm
+node/6005720280,Hill Fort at Felday,51.1916651,-0.4150296,fortification,osm
+node/6015311901,Kemerton Camp Hillfort,52.0600727,-2.0611015,fortification,osm
+node/6090142449,Higham Gobion Castle,51.9868756,-0.3913933,fortification,osm
+node/6161076171,Watch Hill Castle,53.370295,-2.3809411,fortification,osm
+node/6260101013,Caer Dane,50.3276541,-5.1238463,fortification,osm
+node/6378672552,Onnen Deg Defended Settlement,52.0609281,-4.5786666,fortification,osm
+node/6483801176,Hafod Camp,51.8726681,-4.5896261,fortification,osm
+node/6495472209,Pen Gaer Promontary Fort,51.8861948,-4.6421432,fortification,osm
+node/6495528739,Gelli Diogyn,51.8620645,-4.6172754,fortification,osm
+node/6495873795,Lan Enclosure,51.8550393,-4.5918508,fortification,osm
+node/6502270438,node/6502270438,51.9964207,-4.782317,fortification,osm
+node/6532338781,Tre-Gynon Camp,51.9750025,-4.8367098,fortification,osm
+node/6727621186,Gadlys,53.0973907,-4.2705514,fortification,osm
+node/6762154086,Twyn y gaer Hill Fort,51.8916768,-3.0278789,fortification,osm
+node/6786068643,Butte Henri IV,49.5972308,0.7669267,fortification,osm
+node/6797440177,High Peak Camp,50.666335,-3.2701427,fortification,osm
+node/6897119389,Penydarren Roman fort,51.7517844,-3.3778152,fortification,osm
+node/6920056669,Broxtowe Roman fort,52.9808287,-1.2165064,fortification,osm
+node/6925810792,Credenhill Camp,52.0976016,-2.8025059,fortification,osm
+node/6935339099,Lake Farm Roman fort,50.7927564,-2.0007409,fortification,osm
+node/7403855619,Brompton Roman fort,52.5332642,-3.1140662,fortification,osm
+node/7455264985,"Bastion 5, Hilsea Lines",50.8328041,-1.0565838,fortification,osm
+node/7564958787,The Earthworks,51.3685545,0.0081603,fortification,osm
+node/7685818713,Caer Pwntan,52.1163023,-4.4965323,fortification,osm
+node/7689115956,node/7689115956,50.8868229,0.2817222,fortification,osm
+node/7689115957,WW2 Shelter,50.8918287,0.2805327,fortification,osm
+node/7875070366,Camp Green,53.3335725,-1.6491416,fortification,osm
+node/8124265471,node/8124265471,51.397877,-0.5259705,fortification,osm
+node/8420409341,Banc Du Defended Enclosure,51.975825,-4.8010737,fortification,osm
+node/8421757868,Carningli Hillfort Middle Enclosure,51.9989395,-4.8248366,fortification,osm
+node/8421758095,Carningli Hillfort Upper Platform,52.0002807,-4.8228962,fortification,osm
+node/8422545178,Carn Ffoi Hillfort,52.005453,-4.844785,fortification,osm
+node/8485418413,Berry Mound Camp Iron Age Fort,52.3988906,-1.8613994,fortification,osm
+node/8619146248,node/8619146248,51.3674962,-1.6112263,fortification,osm
+node/8786482151,Brackenbury Ditches Hillfort,51.6517739,-2.3669768,fortification,osm
+node/8883094445,Wain's Hill,51.4316483,-2.8774424,fortification,osm
+node/8904764611,Roman Fortlet,53.2958946,-3.2246685,fortification,osm
+node/8905672764,Moat,51.0837219,-0.4135368,fortification,osm
+node/9070626292,Castle Hill,53.3881441,-1.225532,fortification,osm
+node/9091494197,Castle Hill,53.4936966,-1.2706416,fortification,osm
+node/9118789342,Castell Allt-goch,52.1315983,-4.0566037,fortification,osm
+node/9293176985,Queenborough Castle,51.4162469,0.7486696,fortification,osm
+node/9583869584,Roman city gate,53.2358419,-0.5423331,fortification,osm
+node/9632106253,Camp du Castel,49.527255,-1.8829011,fortification,osm
+node/9632237749,Eperon barré d'Octeville l'Avenel,49.5503967,-1.3814671,fortification,osm
+node/9643167776,Motte Féodale dit la Butte du Diable,49.5536698,0.7213452,fortification,osm
+node/9643167779,Butte Henri IV,49.5701383,0.734987,fortification,osm
+node/9643167798,Mottes d'Etoutteville,49.6673327,0.7853293,fortification,osm
+node/9643311558,Château de Bellencombre,49.7059519,1.2253565,fortification,osm
+node/9643311560,Motte castrale du Petit-Besle,49.5786931,1.3404165,fortification,osm
+node/9643311561,Fortification médiévale du Grand-Besle,49.5771478,1.3461631,fortification,osm
+node/9643354437,Motte de Crétot,49.6553303,0.3496125,fortification,osm
+node/9655529010,Top Castle,51.7388117,-4.6163114,fortification,osm
+node/9759366459,Embury Beacon,50.9472175,-4.5398555,fortification,osm
+node/9850238536,Coed-y-Gaer Hillfort,51.9087938,-3.1988445,fortification,osm
+node/9871674047,Penstowe Castle,50.876953,-4.4988719,fortification,osm
+node/9952295439,Tidbury Rings,51.1834172,-1.3393077,fortification,osm
+node/9989177870,Ely Castle,52.3960729,0.2629723,fortification,osm
+node/10036295782,Moat,50.9678547,-0.3322887,fortification,osm
+node/10049894036,Bryngaer Nanttle,53.0590103,-4.2009502,fortification,osm
+node/10069295857,Moat,50.9829009,-0.3327507,fortification,osm
+node/10598510924,Motte de Belhof,50.8403914,2.3540225,fortification,osm
+node/10702968104,Moat,50.9449804,-0.4016504,fortification,osm
+node/10832535552,Malwood Castle Hillfort,50.90798,-1.6071573,fortification,osm
+node/10840312626,Cainhoe Castle Hill,52.024146,-0.4016628,fortification,osm
+node/10898940723,node/10898940723,52.3285971,-2.9287287,fortification,osm
+node/10898968769,node/10898968769,52.3563116,-2.842456,fortification,osm
+node/10898968771,node/10898968771,52.352874,-2.8396815,fortification,osm
+node/11034213359,Tudor Artillery Battery,50.8187043,0.332801,fortification,osm
+node/11181341159,Byrllysg Promontory Fort,52.7961346,-4.0839896,fortification,osm
+node/11549689761,Pollshone Fort,52.6170661,-6.2224218,fortification,osm
+node/11973870432,node/11973870432,51.5045231,-3.3547429,fortification,osm
+node/12138817830,The Mount,52.4381509,1.4836612,fortification,osm
+node/12157771878,Giant's Castle,49.9116716,-6.2853545,fortification,osm
+node/12161634398,Castle Yard,52.3068616,1.5237307,fortification,osm
+node/12162168284,Bury Hill Camp,51.5099931,-2.5023403,fortification,osm
+node/12181084039,node/12181084039,51.0748592,1.1250992,fortification,osm
+node/12181124606,Great Bricett moated site,52.1169205,0.973206,fortification,osm
+node/12218768313,"Court-y-Gaer Hillfort, Felin-Fach",51.965053,-3.285311,fortification,osm
+node/12250487302,Craig y Dorth Hillfort,51.775478,-2.7492821,fortification,osm
+node/12250500069,node/12250500069,51.610105,-2.8326254,fortification,osm
+node/12480715893,Ancien château des ducs de Luynes ou Chatellenie,49.9649039,1.9395961,fortification,osm
+node/12635907747,Beckbury Camp,51.9679406,-1.9091944,fortification,osm
+node/12759066301,Dingerein Castle,50.1999161,-4.9694501,fortification,osm
+node/13100250020,Motte,51.0992847,-0.4622953,fortification,osm
+node/13315347547,Motte castral,50.8257482,2.2371144,fortification,osm
+node/13357744232,Littlehampton Redoubt,50.8011761,-0.54399,fortification,osm
+node/13358805083,Strutt's Park Roman fort,52.9335353,-1.4823226,fortification,osm
+node/13375059439,Littlehampton Battery (destroyed),50.8026524,-0.5417331,fortification,osm
+node/13477813867,Tote Copse Castle (mound),50.8351335,-0.6908853,fortification,osm
+node/13620835600,Dragon's Teeth,51.2382296,-0.2069574,fortification,osm
+node/13717371262,Moat,50.957183,-0.2770511,fortification,osm
+way/4725589,Hod Hill,50.8951101,-2.2048907,fortification,osm
+way/8152985,Hambledon Hill,50.9135114,-2.2227444,fortification,osm
+way/26901737,Gaer Fort,51.5737688,-3.026662,fortification,osm
+way/30695765,Yarnbury Castle,51.1627488,-1.9507886,fortification,osm
+way/31482520,Crickley Hill Camp,51.843385,-2.1077012,fortification,osm
+way/31887148,Nottingham Camp,51.9547734,-2.0254602,fortification,osm
+way/34905981,Clearbury Ring,51.0188626,-1.7839774,fortification,osm
+way/35540703,Norbury Camp,51.8334825,-2.0155722,fortification,osm
+way/36908189,Casterley Camp,51.281001,-1.8352626,fortification,osm
+way/37575009,Meon Hill Multivallate Hillfort,52.1061427,-1.7434283,fortification,osm
+way/37898126,Bishops Wood Hillfort,50.2984519,-5.0494482,fortification,osm
+way/37898128,Penventinnie Round,50.2729546,-5.0975041,fortification,osm
+way/37898129,Bosvisack Round,50.2745699,-5.1130666,fortification,osm
+way/39176266,The Mount,51.9975535,-0.5048746,fortification,osm
+way/39951440,Rainsborough Camp,52.0095712,-1.2348857,fortification,osm
+way/41589970,Cholesbury Camp,51.7561457,-0.6539833,fortification,osm
+way/45411244,Gaer Fawr,51.684934,-2.8094218,fortification,osm
+way/48542257,Weatherby Castle,50.7654538,-2.2747903,fortification,osm
+way/49190758,way/49190758,51.3895271,-2.7732347,fortification,osm
+way/56004716,Chichester Castle,50.8397846,-0.7757288,fortification,osm
+way/68153013,Le Tumulus,49.5051839,0.5803098,fortification,osm
+way/76178772,Lower Camp,52.6446468,-2.8753859,fortification,osm
+way/78493174,Holmbury Camp,51.1754901,-0.421252,fortification,osm
+way/87236340,Hill fort,51.4682016,-3.246043,fortification,osm
+way/90144574,Oliver Cromwell's Battery,51.0483049,-1.3466675,fortification,osm
+way/94648050,Quarley Hill Fort,51.1797525,-1.6261796,fortification,osm
+way/94819142,Bury Ditches,52.447384,-2.9911391,fortification,osm
+way/103482643,The Mount,51.8933468,0.4080388,fortification,osm
+way/103666693,Danebury Hill Fort,51.1374459,-1.5383967,fortification,osm
+way/104716092,Cissbury Ring,50.8605199,-0.3832534,fortification,osm
+way/112409014,St. Catherine's Hill Hillfort,51.0460202,-1.3108361,fortification,osm
+way/124429837,Lower Lines,51.3953907,0.5415737,fortification,osm
+way/125300582,Oliver's Castle,51.3812269,-2.0000092,fortification,osm
+way/136433601,Castle an Dinas,50.4251268,-4.8938081,fortification,osm
+way/138956963,John o'Gaunt's House,52.0883638,-0.0675386,fortification,osm
+way/145203572,way/145203572,50.589483,-4.0605237,fortification,osm
+way/145209389,Double Dykes,50.7179917,-1.7677503,fortification,osm
+way/145859564,Bwrdd Arthur Hillfort,53.3112518,-4.1233706,fortification,osm
+way/146411874,Maiden Castle,50.6947863,-2.4700492,fortification,osm
+way/152664904,Vespasian's Camp,51.174792,-1.7917142,fortification,osm
+way/155791758,Belsar's Hill,52.3122719,0.086144,fortification,osm
+way/164573975,Castle Dore,50.3627,-4.6677969,fortification,osm
+way/164574385,Bury Down Hillfort,50.4071701,-4.5509549,fortification,osm
+way/169098720,Castle Hill,52.5952357,-0.7469058,fortification,osm
+way/171061701,Caesar's Camp,51.2434953,-0.8044913,fortification,osm
+way/178453534,Castle Hill,51.61928,-1.775424,fortification,osm
+way/178550120,Allabury,50.5661275,-4.462017,fortification,osm
+way/182348879,Honington Camp,52.9698971,-0.5807297,fortification,osm
+way/186004250,Pen Dinas Hill Fort,52.4030777,-4.0823652,fortification,osm
+way/188683032,way/188683032,50.808224,-2.8352835,fortification,osm
+way/190696351,Folkingham Castle,52.8883181,-0.4044995,fortification,osm
+way/193772324,Holne Chase Castle,50.532984,-3.8011594,fortification,osm
+way/194925533,Buckenham Castle,52.4718976,1.0671034,fortification,osm
+way/204120257,Cherbury Camp,51.6639907,-1.4601458,fortification,osm
+way/204306025,White Sheet Castle,51.1103896,-2.2808712,fortification,osm
+way/205061197,Mamucium,53.4751397,-2.2546343,fortification,osm
+way/210945327,Bury Bank Hillfort,52.9206458,-2.1766065,fortification,osm
+way/214280847,Maiden Castle,53.0707663,-2.7509745,fortification,osm
+way/214450609,The Large Fort - Garn Goch,51.9018194,-3.9037707,fortification,osm
+way/214450613,The Small Fort - Garn Goch,51.9013039,-3.9119263,fortification,osm
+way/220458310,Castles,51.0119809,-3.3449554,fortification,osm
+way/223680291,Hen Gaer,52.4402664,-4.0126736,fortification,osm
+way/223681180,Castell Bwa-Drain,52.3980265,-3.8929249,fortification,osm
+way/232190541,Warbstow Bury,50.6885018,-4.5477545,fortification,osm
+way/232490930,Duffield Castle,52.9927375,-1.4899658,fortification,osm
+way/236029256,Maes Knoll,51.3916184,-2.5761285,fortification,osm
+way/236032082,"Oldberry Castle, Somerset",51.0430326,-3.5571066,fortification,osm
+way/236033342,Bratton Castle,51.2636117,-2.1431492,fortification,osm
+way/237273727,Cadbury Camp,51.4486002,-2.7870098,fortification,osm
+way/246961946,Flower's Barrow,50.6247946,-2.1941248,fortification,osm
+way/249646098,Castell Tomen-y-Mor,52.9298267,-3.9273205,fortification,osm
+way/257156063,Richborough Fort,51.292968,1.3320315,fortification,osm
+way/258538890,Shotwick Castle,53.2271577,-2.9760254,fortification,osm
+way/265102338,Ham Hill Hillfort,50.9517088,-2.7451819,fortification,osm
+way/270458821,Castell Odo,52.8231713,-4.6920683,fortification,osm
+way/289242367,way/289242367,50.792478,-3.4491121,fortification,osm
+way/303607040,Motte and Bailey,52.614406,-2.8543487,fortification,osm
+way/307545294,Old Ox,53.072106,-1.0549765,fortification,osm
+way/330870794,Nordy Bank,52.4586654,-2.6257775,fortification,osm
+way/331560714,Gallants Bower Fort (ruin),50.3410889,-3.5695214,fortification,osm
+way/347946619,Llanmelin Hill Fort,51.6291516,-2.7795115,fortification,osm
+way/349613845,Segsbury or Letcombe Castle (iron age fort),51.5578739,-1.4459851,fortification,osm
+way/351669886,Liddington Castle,51.5158645,-1.7003591,fortification,osm
+way/351968333,Caer Bran,50.1046113,-5.6269798,fortification,osm
+way/352055750,Fosbury Iron Age Hill Fort,51.3065652,-1.542885,fortification,osm
+way/360770681,Anstiebury (Hill Fort),51.1836008,-0.3511168,fortification,osm
+way/362396267,Moat,53.1706899,-2.8502417,fortification,osm
+way/367391326,Coed y Bwnydd Hill Fort,51.7565966,-2.9200788,fortification,osm
+way/373826796,Chennelsbrook Castle,51.0860902,-0.3046049,fortification,osm
+way/376426832,Wem Castle Motte,52.8546546,-2.7265014,fortification,osm
+way/378019259,Pilsbury Castle,53.1716376,-1.8309675,fortification,osm
+way/389737085,Domen Fawr,52.6100743,-3.6393473,fortification,osm
+way/391380696,Pen-y-Castell,52.4455205,-3.9296587,fortification,osm
+way/391385772,Camp,52.4291605,-3.9444611,fortification,osm
+way/391525559,Pen y Ffrwd-Llwyd,52.3019346,-3.8946686,fortification,osm
+way/391932654,Y Gaer Roman Fort,51.9417438,-3.470808,fortification,osm
+way/407932836,Caer Penrhôs,52.3051442,-4.1248954,fortification,osm
+way/408198696,Hen Domen,52.5744316,-3.1615402,fortification,osm
+way/408230386,way/408230386,52.6450736,-3.0352914,fortification,osm
+way/415343450,Leicester Castle Motte,52.6317105,-1.1407123,fortification,osm
+way/421057503,Moat,52.8574574,-1.9893556,fortification,osm
+way/421057504,Moat,52.8643864,-1.9407882,fortification,osm
+way/453539397,way/453539397,53.365387,-6.4612583,fortification,osm
+way/462864348,way/462864348,52.8281936,-6.4429645,fortification,osm
+way/465120100,Ballymoty Motte,52.5055751,-6.4615006,fortification,osm
+way/480238896,Maiden Bower,51.8919983,-0.5531508,fortification,osm
+way/480504305,The Mound,52.1162386,-0.9194456,fortification,osm
+way/495816611,way/495816611,52.8344221,-6.3518411,fortification,osm
+way/506814615,Barbury Castle,51.4853478,-1.7865263,fortification,osm
+way/510304395,Knocksedan,53.4581587,-6.2666059,fortification,osm
+way/550011641,The Bulwark,51.6120794,-4.2496161,fortification,osm
+way/550515057,way/550515057,53.2631408,-6.3516288,fortification,osm
+way/556520808,Squerries Park Camp,51.2513711,0.0655881,fortification,osm
+way/569378853,Pen-y-Castell Iron Age Hill Fort,51.6115079,-3.7510684,fortification,osm
+way/575538477,Ffridd Faldwyn,52.5644804,-3.1570076,fortification,osm
+way/579570680,way/579570680,50.8923801,-0.7539718,fortification,osm
+way/580556668,Holwell Castle Motte and Bailey,51.1850633,-3.9048109,fortification,osm
+way/589251325,Bramber Castle,50.8838571,-0.3164104,fortification,osm
+way/590284469,way/590284469,53.0311598,-6.1295133,fortification,osm
+way/597869081,Lavendon Castle (site of),52.1802227,-0.6607346,fortification,osm
+way/613149967,Craig Y Gwbert,52.1194835,-4.6910567,fortification,osm
+way/623819832,The Rath,53.2287321,-6.1522252,fortification,osm
+way/626987063,way/626987063,52.2089479,-6.3812315,fortification,osm
+way/630221648,Bladon Camp,51.821239,-1.3382958,fortification,osm
+way/631655402,way/631655402,51.5287814,-3.7306327,fortification,osm
+way/640646934,Castell Pen-yr-Allt,52.0461074,-4.6878006,fortification,osm
+way/640667524,Castell Felin-Ganol,52.0480892,-4.6787152,fortification,osm
+way/642986254,Castell Eglwyswrw,52.0127437,-4.713313,fortification,osm
+way/643123301,Court Moated Site,52.0215412,-4.7193904,fortification,osm
+way/643143717,Castell Henllys,52.0178347,-4.7453189,fortification,osm
+way/643179518,Castell Mawr,52.006392,-4.7422877,fortification,osm
+way/643196689,Cwm-Pen-y-Benglog,52.0021732,-4.7419189,fortification,osm
+way/643457561,Castell Llwyd,52.0052036,-4.7513528,fortification,osm
+way/653997525,Pantdaniel Defended Enclosure,52.0992608,-4.49203,fortification,osm
+way/660704906,way/660704906,52.1290914,-4.4243063,fortification,osm
+way/661218161,Pendinaslochdyn,52.166214,-4.4642486,fortification,osm
+way/661247511,Ynys Lochtyn Defended Enclosure,52.1707933,-4.4664154,fortification,osm
+way/669176820,way/669176820,52.1731616,-4.4058833,fortification,osm
+way/669180099,Castell Caer Wedros,52.1761933,-4.3761073,fortification,osm
+way/670931597,way/670931597,52.9128562,-6.4311874,fortification,osm
+way/677322448,Castell Crychydd,51.9841694,-4.5332674,fortification,osm
+way/679327065,way/679327065,51.4717967,-2.8065961,fortification,osm
+way/680527127,Caer Pwllglas,52.4607395,-4.0126821,fortification,osm
+way/680527128,Caer Allt goch,52.4763768,-4.0024134,fortification,osm
+way/680527129,Caer Llety llwyd,52.4753297,-3.9878039,fortification,osm
+way/680748661,Castle Ring,52.7130994,-1.9357764,fortification,osm
+way/681156450,Llwynduris Castle Mound,52.060223,-4.5719427,fortification,osm
+way/681161969,Llandygwydd Defended Enclosure,52.0601364,-4.5605616,fortification,osm
+way/685076971,way/685076971,52.2494856,-6.488163,fortification,osm
+way/685076972,way/685076972,52.2719342,-6.4814681,fortification,osm
+way/685076974,way/685076974,52.2362952,-6.4977516,fortification,osm
+way/685076976,Ballytrent Rath,52.2186294,-6.3439726,fortification,osm
+way/685077170,way/685077170,53.212865,-6.1884111,fortification,osm
+way/685077171,way/685077171,53.1922874,-6.2025339,fortification,osm
+way/690827682,Castell Mawr (motte),51.8780403,-4.5887768,fortification,osm
+way/695648787,Castell Pengenin,51.9733271,-4.8561511,fortification,osm
+way/697496106,Castell Nonni,52.0366885,-4.1958319,fortification,osm
+way/700002878,British Camp,52.0581463,-2.3512427,fortification,osm
+way/703121050,Craig Gwrtheyrn,52.0387798,-4.2858381,fortification,osm
+way/707081135,Mint Wall (Roman fortifications),53.2361071,-0.5393631,fortification,osm
+way/710581050,Moat,51.5811858,-2.5817662,fortification,osm
+way/714942605,High Pennard Camp,51.5720826,-4.1165977,fortification,osm
+way/718484247,Château Motte d'Aplemont,49.5046459,0.1515268,fortification,osm
+way/722948178,Pen Coed-Foel Camp,52.0609623,-4.29916,fortification,osm
+way/722954639,Castell Gwynionydd,52.0543285,-4.3003085,fortification,osm
+way/733879971,Tomen Rhyd-Owen,52.0789301,-4.2722019,fortification,osm
+way/735266896,Castell Hywel,52.1051432,-4.2789096,fortification,osm
+way/741771663,Castell Nadolig,52.1255391,-4.4867377,fortification,osm
+way/747114295,Llandyfriog Castle Mound,52.0715982,-4.4173705,fortification,osm
+way/749196289,Crug-y-Balog,52.0806863,-4.4213607,fortification,osm
+way/751351821,Castell Talwrn,52.2943138,-4.048227,fortification,osm
+way/751401660,Tre-coll Hillfort,52.2419705,-3.9907784,fortification,osm
+way/759059545,Totternhoe Castle,51.8887512,-0.5788824,fortification,osm
+way/780534647,Uffington Castle,51.5749854,-1.5691761,fortification,osm
+way/789196169,Church Norton Mound,50.7543641,-0.7649547,fortification,osm
+way/790160241,Adpar Castle Mound,52.0409311,-4.4663705,fortification,osm
+way/794556564,Newtown Hall Castle Mound,52.5133497,-3.3171453,fortification,osm
+way/797595613,Domen Seba,52.0063266,-4.4409425,fortification,osm
+way/797682270,Caerau,52.0358133,-4.3950489,fortification,osm
+way/799215274,way/799215274,53.4171726,-6.1468703,fortification,osm
+way/800730386,Henfeddau Fawr,51.9546462,-4.5484013,fortification,osm
+way/801630924,Parc-y-Domen,52.0440793,-4.5252724,fortification,osm
+way/805128769,South Mimms Castle,51.7078724,-0.2207017,fortification,osm
+way/807783938,way/807783938,52.1959059,-6.4937053,fortification,osm
+way/810512952,Nant Barre Caerau,52.118641,-4.3964812,fortification,osm
+way/812812858,Knowle Hill Castle,51.1242882,-4.1608521,fortification,osm
+way/813445971,Dinas Cerdin,52.097592,-4.3582438,fortification,osm
+way/828232289,Foel Drygarn Camp,51.9703223,-4.6832085,fortification,osm
+way/832041649,Castell Manian Fawr,52.0987395,-4.7010673,fortification,osm
+way/836870496,The Frith,51.3632831,-1.100995,fortification,osm
+way/840167509,Castell Caer Seion,53.2829565,-3.8611778,fortification,osm
+way/846992782,way/846992782,52.2350863,-6.4412525,fortification,osm
+way/846992784,way/846992784,52.2195411,-6.4678144,fortification,osm
+way/848455213,way/848455213,53.1427429,-6.1835589,fortification,osm
+way/848455214,way/848455214,53.1555309,-6.1123197,fortification,osm
+way/849904222,Old Castle Mound,52.0853902,-4.6807603,fortification,osm
+way/849933522,way/849933522,53.2257516,-6.2131896,fortification,osm
+way/858096944,Cardinham Castle,50.4823416,-4.6430902,fortification,osm
+way/863527642,way/863527642,53.2148885,-6.180834,fortification,osm
+way/865473865,way/865473865,53.3655621,-6.4041881,fortification,osm
+way/868388253,way/868388253,51.8706634,-2.0036791,fortification,osm
+way/890161871,Castell Henllys,52.0409014,-4.4200861,fortification,osm
+way/893924387,Castell,52.0438663,-4.4051488,fortification,osm
+way/894728839,Maesbury Castle,51.2222967,-2.5599209,fortification,osm
+way/895662741,Castell Cas-wis,51.8267948,-4.8713308,fortification,osm
+way/902361757,Castle Hill Motte,52.0581591,-1.5527925,fortification,osm
+way/905898562,way/905898562,53.4193535,-6.3251044,fortification,osm
+way/911555148,Miserden Castle,51.7819083,-2.0826839,fortification,osm
+way/912794904,Bury Camp,52.6475029,-1.2650587,fortification,osm
+way/920175790,Glandwr Isaf Camp,52.0692777,-4.7362086,fortification,osm
+way/920270030,Caerau,52.0756291,-4.73865,fortification,osm
+way/922784075,Castell Treruffydd,52.0696968,-4.7730976,fortification,osm
+way/927099450,Twmbarlwm Fort,51.6271176,-3.0958973,fortification,osm
+way/929128481,Hascombe Hill,51.1384422,-0.5650452,fortification,osm
+way/931710038,Motte in Staunton on Arrow,52.2348518,-2.9243687,fortification,osm
+way/931978156,Lidgate castle,52.1951203,0.5167647,fortification,osm
+way/932037971,Castell y Garn Defended Enclosure,52.0487689,-4.8041659,fortification,osm
+way/934315958,Pen Castell Promontory Fort,52.0795576,-4.7591025,fortification,osm
+way/945097132,Pen y Gaer,52.9903531,-4.107283,fortification,osm
+way/948728560,Waun Twmpath Motte,51.7007018,-4.2216259,fortification,osm
+way/962929396,Roman Fort,53.1677126,-2.8592106,fortification,osm
+way/963008135,Site of Roman Fortlet,53.2881238,-2.8281604,fortification,osm
+way/963178512,Roman Fort Complex,51.8829084,-4.0112093,fortification,osm
+way/963199077,Leucarum Roman Fort,51.6622316,-4.0783195,fortification,osm
+way/977345879,Beacon Hill Hillfort,51.3125368,-1.3447476,fortification,osm
+way/978167536,Othona Saxon Shore Fort,51.7355033,0.9400114,fortification,osm
+way/979866372,way/979866372,53.3554242,-6.3315411,fortification,osm
+way/989179412,Trelessy Defended Enclosure,51.7394892,-4.6449404,fortification,osm
+way/995322522,Kelly Rounds,50.5294551,-4.797204,fortification,osm
+way/1004592498,Castle Hill,51.6313509,-0.7485553,fortification,osm
+way/1005604086,Desborough Castle,51.6324671,-0.7777394,fortification,osm
+way/1009158003,Tomen Cefn Coch,52.8264519,-3.3300796,fortification,osm
+way/1021731726,Bindon Hill Camp,50.6211884,-2.2341985,fortification,osm
+way/1021734132,Blackbury Camp,50.7251651,-3.1525588,fortification,osm
+way/1023923130,Blaenllynfi Castle,51.8981326,-3.244405,fortification,osm
+way/1031712865,Bury Hill Fort,51.1901869,-1.506868,fortification,osm
+way/1036814247,Carn Fadryn Hillfort,52.8874608,-4.5576438,fortification,osm
+way/1049312061,Motte castrale de Beaunay,49.7445239,1.0207529,fortification,osm
+way/1049312062,Motte féodale d'Angiens,49.8282084,0.7886747,fortification,osm
+way/1049336516,Motte féodale de Gonfreville-Caillot,49.651031,0.4359618,fortification,osm
+way/1062127204,Bury Castle,51.0322812,-3.5152507,fortification,osm
+way/1062392812,Harding's Down West Camp,51.5940296,-4.2612024,fortification,osm
+way/1063408156,way/1063408156,52.6933491,-3.3049579,fortification,osm
+way/1064299213,Dam Close Roman Camp (site of),53.2223448,0.1985363,fortification,osm
+way/1066137240,Portus Lemanis,51.0684265,1.0211047,fortification,osm
+way/1070600085,Mam Tor Hillfort,53.3503123,-1.8098862,fortification,osm
+way/1075535914,Moel Arthur Hillfort,53.1846378,-3.2807232,fortification,osm
+way/1077048344,Penycloddiau Hill Fort,53.1984312,-3.3056355,fortification,osm
+way/1077049414,Pen y gaer Hillfort,53.2062781,-3.8735093,fortification,osm
+way/1078018057,Queen's Sconce,53.0687683,-0.8215612,fortification,osm
+way/1078274033,The Rumps Cliff Castle,50.5929307,-4.9213183,fortification,osm
+way/1087903570,Grovely Castle,51.1210489,-1.9323569,fortification,osm
+way/1088637979,Helsby Hillfort,53.2732937,-2.7624438,fortification,osm
+way/1095340531,Lockerley Camp Hillfort,51.0318037,-1.5674923,fortification,osm
+way/1105326575,"Breedon Hill, Leicestershire",52.8054003,-1.4001431,fortification,osm
+way/1108963936,Tump Wood Camp,51.884991,-3.2905475,fortification,osm
+way/1111206508,Sharpenhoe Clappers,51.9603663,-0.4490484,fortification,osm
+way/1112453083,way/1112453083,53.3002024,-6.2198991,fortification,osm
+way/1125366202,way/1125366202,52.507723,-6.2938573,fortification,osm
+way/1125366203,way/1125366203,52.5181432,-6.3213111,fortification,osm
+way/1125366204,way/1125366204,52.4328373,-6.4318088,fortification,osm
+way/1125366205,way/1125366205,52.5162957,-6.2610069,fortification,osm
+way/1125366206,way/1125366206,52.536044,-6.2477805,fortification,osm
+way/1125366207,way/1125366207,52.4177056,-6.4288835,fortification,osm
+way/1125366208,way/1125366208,52.4558665,-6.3417399,fortification,osm
+way/1125366209,way/1125366209,52.4851952,-6.2703824,fortification,osm
+way/1173006221,Brandon Camp,52.3465185,-2.882036,fortification,osm
+way/1183506014,way/1183506014,51.5305584,-3.7298824,fortification,osm
+way/1183506024,way/1183506024,51.5300509,-3.7288878,fortification,osm
+way/1183506031,way/1183506031,51.528995,-3.7289395,fortification,osm
+way/1187423930,Alfred's Castle,51.5383513,-1.6014724,fortification,osm
+way/1200922679,Stokeleigh Camp,51.4571276,-2.6351376,fortification,osm
+way/1200923420,Clifton Down Camp,51.456926,-2.6267642,fortification,osm
+way/1209159737,way/1209159737,53.4723224,-6.3865797,fortification,osm
+way/1209159738,way/1209159738,53.4708687,-6.3802109,fortification,osm
+way/1209383243,way/1209383243,53.458767,-6.4300461,fortification,osm
+way/1218367570,Bincknoll Castle,51.5119287,-1.8455826,fortification,osm
+way/1225745796,way/1225745796,53.4256611,-6.3196224,fortification,osm
+way/1228092989,Battle Ring,50.6003551,-4.3768548,fortification,osm
+way/1230382531,way/1230382531,53.4329724,-6.3384872,fortification,osm
+way/1232281726,way/1232281726,52.2238317,-6.4599731,fortification,osm
+way/1232281727,way/1232281727,52.2202046,-6.45498,fortification,osm
+way/1253308267,Brimpsfield Castle,51.8135042,-2.0876387,fortification,osm
+way/1255248478,Castell Meurig,51.9315822,-3.878839,fortification,osm
+way/1266275132,way/1266275132,52.2348246,-6.3479435,fortification,osm
+way/1266287198,way/1266287198,52.2276959,-6.4219611,fortification,osm
+way/1266287199,way/1266287199,52.2257728,-6.4312945,fortification,osm
+way/1266287200,way/1266287200,52.2293284,-6.4287935,fortification,osm
+way/1266846039,Ashton Keynes Castle,51.6492919,-1.9306451,fortification,osm
+way/1275310031,way/1275310031,52.5208877,-3.2934076,fortification,osm
+way/1285234841,way/1285234841,52.7853828,-6.4293711,fortification,osm
+way/1293302527,way/1293302527,53.3120844,-6.4493753,fortification,osm
+way/1301857308,Badbury Rings,50.8263834,-2.0523396,fortification,osm
+way/1319287325,Bretby Castle,52.8051994,-1.5659427,fortification,osm
+way/1330412969,Castle Mound,51.7959947,-0.0802423,fortification,osm
+way/1330504066,way/1330504066,53.3682065,-6.3699018,fortification,osm
+way/1337209301,Castell Rhyfel,52.2224645,-3.8575825,fortification,osm
+way/1340139014,way/1340139014,52.5967776,-6.377888,fortification,osm
+way/1346052542,Lower Lines,51.3942785,0.5386028,fortification,osm
+way/1346388834,Old Sodbury Camp,51.5416224,-2.3461278,fortification,osm
+way/1354036527,Tintagel Castle,50.6686625,-4.7610746,fortification,osm
+way/1357056865,way/1357056865,52.5440149,-0.9976062,fortification,osm
+way/1362365888,Cefn y Castell,52.7133735,-3.0297159,fortification,osm
+way/1362945865,way/1362945865,52.6958224,-6.4726048,fortification,osm
+way/1374215086,Welshpool Motte & Bailey,52.6589144,-3.139642,fortification,osm
+way/1374216265,Weobley Castle,52.1573891,-2.8733347,fortification,osm
+way/1422756133,Castell (camp),52.4110315,-3.9013414,fortification,osm
+way/1422811378,camp,52.4376441,-3.9753342,fortification,osm
+way/1422811379,Camp,52.4710676,-3.9487615,fortification,osm
+way/1422827566,way/1422827566,52.3222634,-3.2539996,fortification,osm
+way/1425068904,Tap's Combe Camp,51.4005043,-2.751861,fortification,osm
+way/1436906040,King's Hill,53.0563946,0.1077421,fortification,osm
+way/1463257472,Wern Camp,51.9348395,-4.8844957,fortification,osm
+way/1463257473,Castell Mound,51.9241883,-4.8785881,fortification,osm
+way/1463257474,Castell-y-Fuwch,51.9254487,-4.8745072,fortification,osm
+way/1463257490,Castell Mael,51.9306728,-4.8960453,fortification,osm
+way/1463257506,Summerton Camp,51.9337812,-4.9248468,fortification,osm
+way/1467897170,Danesborough Camp,52.0042543,-0.6600131,fortification,osm
+way/1474858848,Sibbertoft,52.4419285,-0.9853289,fortification,osm
+way/1476249574,Hope motte,53.3474054,-1.7438256,fortification,osm
+way/1485711610,way/1485711610,52.0137864,-2.6171087,fortification,osm
+way/1492226687,Burhill Fort,52.0246465,-1.878585,fortification,osm
+way/1493746524,Ancient Fort,51.6158017,-4.9320534,fortification,osm
+way/1493774981,Allt yr Esgair Hillfort,51.9120167,-3.2726035,fortification,osm
+way/1500198718,Pound Piece,50.8394408,0.3440564,fortification,osm
+relation/7133002,Devils Dyke Hillfort,50.8855434,-0.2103772,fortification,osm
+relation/8223776,Burpham Camp,50.8670375,-0.5242973,fortification,osm
+relation/10179380,Castell Gwithian,52.1108588,-4.5342448,fortification,osm
+relation/10358974,Banc Pwlldrainllwyn Enclosure,52.3053762,-4.0278142,fortification,osm
+relation/11152077,relation/11152077,51.482676,-3.1818992,fortification,osm
+relation/11266346,Cleeve Cloud,51.927771,-2.0233163,fortification,osm
+relation/12555899,Oxford Castle Motte,51.7522009,-1.2629276,fortification,osm
+relation/13307935,Ashley Castle,51.0755573,-1.4518807,fortification,osm
+relation/13338306,Figsbury Ring,51.1034283,-1.7323633,fortification,osm
+relation/14785089,Frankenbury Hillfort,50.9363048,-1.763143,fortification,osm
+relation/15318028,relation/15318028,51.2422311,-0.8053866,fortification,osm
+relation/15349353,Chiselbury Hill Fort,51.052395,-1.9757371,fortification,osm
+relation/17554918,Hague-Dick,49.6714824,-1.8407517,fortification,osm
+relation/17844833,Chipping Norton Castle,51.9447034,-1.5482781,fortification,osm
+relation/17845622,Chastleton Barrow,51.9519507,-1.6252397,fortification,osm
+relation/17846399,Deddington Castle,51.980476,-1.3140214,fortification,osm
+relation/17868014,Castle Hill,51.6279315,-1.1787064,fortification,osm
+relation/19368832,Badbury Camp,51.6501617,-1.6239869,fortification,osm

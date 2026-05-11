@@ -1,0 +1,451 @@
+id,name,lat,lon,type,source
+node/101397008,Dolmen / Cromlech,51.998967,-4.7700299,megalith,osm
+node/255116831,Kit's Coty House,51.3198925,0.5030031,megalith,osm
+node/273466332,Stone Circle,51.3143821,-1.1560708,megalith,osm
+node/293683834,Wet Withens,53.3074405,-1.6631184,megalith,osm
+node/303571498,Doll Tor Stone Circle,53.1624837,-1.6449916,megalith,osm
+node/303571761,Arbor Low,53.16893,-1.7615222,megalith,osm
+node/311290122,Ballybrack Dolmen,53.2451122,-6.1223247,megalith,osm
+node/316422583,Aideen's Dolmen,53.3795544,-6.0822313,megalith,osm
+node/318364784,Killakee Wedge Tomb,53.2473832,-6.3169898,megalith,osm
+node/326239457,Hoar Stone,51.7588743,-2.0506431,standing_stone,osm
+node/330256623,Yellow Mead Stone Circle,50.492864,-4.0105187,megalith,osm
+node/330279711,Stone Circle,50.6801861,-3.9129366,megalith,osm
+node/330314786,node/330314786,50.5425034,-3.9213536,megalith,osm
+node/332792502,Five Wells,53.2362851,-1.8158866,megalith,osm
+node/361130854,Hordron Edge Stone Circle,53.3781117,-1.6779289,megalith,osm
+node/370206805,West Kennet Long Barrow,51.4086455,-1.8504375,megalith,osm
+node/381103202,Bluestone Pillar,51.9405985,-4.7142093,standing_stone,osm
+node/410615488,The Coffin Stone,53.132483,-6.2498197,megalith,osm
+node/411934242,The Camp Long Barrow,51.7799607,-2.1263887,megalith,osm
+node/416391268,Coberley Long Barrow,51.839317,-2.0660954,megalith,osm
+node/416851692,node/416851692,51.696322,-2.1698533,megalith,osm
+node/420302716,node/420302716,51.7579818,-2.0520507,megalith,osm
+node/420302718,node/420302718,51.7559044,-2.1006309,megalith,osm
+node/420302721,node/420302721,51.7655041,-2.1305435,megalith,osm
+node/420302725,The Giants Stone,51.7541511,-2.1203719,standing_stone,osm
+node/420302727,Jack Barrow,51.7632815,-2.0629188,megalith,osm
+node/429199891,Standing Stone,50.5878593,-4.5258739,standing_stone,osm
+node/429218326,node/429218326,50.6632732,-4.6444055,megalith,osm
+node/429237001,Slay Barrow,51.2595222,-1.8761663,megalith,osm
+node/429890631,node/429890631,51.2190737,-1.8378224,megalith,osm
+node/429897673,node/429897673,51.2071181,-1.8184178,megalith,osm
+node/429898154,node/429898154,51.2127834,-1.7297187,megalith,osm
+node/430039104,Notgrove Long Barrow,51.8893324,-1.8621354,megalith,osm
+node/431877870,node/431877870,50.4711898,-3.8378748,standing_stone,osm
+node/442351424,node/442351424,51.7738933,-1.9029294,megalith,osm
+node/444767686,Hangman's Barrow,50.1840336,-5.2608155,megalith,osm
+node/445091081,node/445091081,51.2226746,-2.1821429,megalith,osm
+node/445098750,node/445098750,51.2706145,-2.0889096,megalith,osm
+node/445098755,node/445098755,51.220027,-2.0844419,megalith,osm
+node/445098758,node/445098758,51.1969185,-2.109101,megalith,osm
+node/445363162,node/445363162,51.1697841,-1.8524754,megalith,osm
+node/445416451,node/445416451,51.1886067,-1.7866988,megalith,osm
+node/445416452,node/445416452,51.1864189,-1.7671866,megalith,osm
+node/447584459,Neale's Barrow,51.0586669,-1.8831807,megalith,osm
+node/447584460,Lyons Borrow,51.0624137,-1.9062227,megalith,osm
+node/466485123,node/466485123,51.6790827,-2.2029769,megalith,osm
+node/479591220,node/479591220,51.9574144,-1.807199,megalith,osm
+node/481194732,node/481194732,51.7476891,-2.0939447,megalith,osm
+node/485354347,Westwood Long Barrow,51.7461184,-2.0937861,megalith,osm
+node/486819820,node/486819820,51.8376005,-1.8217507,megalith,osm
+node/486819821,Burn Ground,51.842771,-1.8501607,megalith,osm
+node/486819822,node/486819822,51.8414453,-1.8770686,megalith,osm
+node/495560714,Whispering Knights,51.9752632,-1.5655811,megalith,osm
+node/503697602,Porth Hellick Down Burial Chamber,49.9186812,-6.280577,megalith,osm
+node/524633920,Long Barrow,51.3894765,-1.7759409,megalith,osm
+node/524635641,East Kennett Long Barrow,51.4006157,-1.8342199,megalith,osm
+node/540354546,Druids' Circle,53.2963874,-2.2112836,megalith,osm
+node/558421702,node/558421702,50.4339171,-3.8967114,standing_stone,osm
+node/558421721,node/558421721,50.4372719,-3.8985261,standing_stone,osm
+node/558421778,node/558421778,50.4390787,-3.8994659,standing_stone,osm
+node/560123612,Standing Stone,50.485219,-3.9929703,megalith,osm
+node/564975034,Allée couverte de Bretteville,49.6469611,-1.5100449,megalith,osm
+node/568478319,Three Boys,50.6536374,-3.8969785,megalith,osm
+node/568478338,Grey Wethers,50.6319583,-3.9262008,megalith,osm
+node/568478366,Cosdon Hill Multiple Stone Rows,50.708073,-3.922664,megalith,osm
+node/571597955,Cairn circle,50.7108882,-3.9718473,megalith,osm
+node/571598054,Merrivale Standing Stone,50.5531397,-4.0432097,megalith,osm
+node/571622983,Harold's Stones,51.742772,-2.7265844,megalith,osm
+node/571719632,Buttington Stone,51.6346396,-2.6549617,standing_stone,osm
+node/600199459,Bow Henge,50.7995153,-3.8353901,henge,osm
+node/600206371,Lanyon Quoit,50.147356,-5.5990624,megalith,osm
+node/635108442,Hampton Down Stone Circle,50.6767943,-2.5730097,megalith,osm
+node/642994328,Mên Scryfa,50.1617386,-5.6041098,megalith,osm
+node/659578655,Beardown Man,50.5994616,-3.9850724,megalith,osm
+node/688008027,node/688008027,51.2890122,-2.8482165,megalith,osm
+node/694309185,Ryedown Stone,50.5518627,-4.6657268,megalith,osm
+node/694426889,Penmaen Burrows Megalith Chamber (Pen-y-crug),51.5727772,-4.120342,megalith,osm
+node/706117861,Devil's Stone,50.9559781,-3.0472697,standing_stone,osm
+node/721573432,Living Rock,51.1430166,-2.7025977,megalith,osm
+node/736707380,node/736707380,50.9658741,-3.7638908,megalith,osm
+node/812166158,Parc le Breos,51.5883747,-4.1127037,megalith,osm
+node/943248937,Loughtor Man,50.5625886,-3.9043439,megalith,osm
+node/976576666,node/976576666,52.0890996,-3.1993873,standing_stone,osm
+node/1109457338,T62 stone circle,53.1696322,-1.6284072,megalith,osm
+node/1119648572,Cist,50.5544116,-4.0432851,megalith,osm
+node/1119649454,Cist,50.5547564,-4.0420981,megalith,osm
+node/1119651132,T-A Boundary Stone,50.5545,-4.0388866,megalith,osm
+node/1180785466,node/1180785466,53.2422417,-6.1515832,megalith,osm
+node/1194033366,Kiltiernan Portal Tomb,53.2388225,-6.2071451,megalith,osm
+node/1252377591,Llanfihangel Rogiet,51.5859704,-2.8021422,megalith,osm
+node/1272397137,The Devil's Den,51.4256845,-1.7826358,megalith,osm
+node/1300740774,Kilmashogue Wedge Tomb,53.2576987,-6.2755741,megalith,osm
+node/1312850744,node/1312850744,50.6899613,-3.9371971,standing_stone,osm
+node/1312850759,White Moor Stone,50.6889589,-3.9357886,standing_stone,osm
+node/1335812396,Spinsters' Rock,50.702122,-3.8409521,megalith,osm
+node/1415828235,Chûn Quoit,50.1485947,-5.6377411,megalith,osm
+node/1531892315,node/1531892315,49.5987601,-1.6508858,megalith,osm
+node/1533263901,Maen Mawr,51.8724768,-3.670099,megalith,osm
+node/1609572713,King Stone,51.9762533,-1.5701616,megalith,osm
+node/1702267468,node/1702267468,53.0285993,-2.1947857,megalith,osm
+node/1744578890,Maen Llia,51.8608672,-3.5636846,megalith,osm
+node/1801645751,Cockett Standing Stone,51.6350835,-3.9877696,megalith,osm
+node/1835078356,Allée couverte dite des Pierres Pouquelées,49.6498832,-1.8541295,megalith,osm
+node/1869348224,Tinkenswood Burial Chamber,51.4514791,-3.3077923,megalith,osm
+node/1892390630,Croes-faen,52.5935509,-4.0728354,megalith,osm
+node/1997398726,node/1997398726,50.5170606,-4.4578845,megalith,osm
+node/2001777163,node/2001777163,50.4856825,-3.987062,megalith,osm
+node/2001777165,node/2001777165,50.4858119,-3.9859638,megalith,osm
+node/2080375366,Stone Rows,50.6585377,-3.8978041,megalith,osm
+node/2080390085,Quintin's Man (Cairn),50.638115,-3.9514749,megalith,osm
+node/2150848970,Trethevy Quoit,50.4931814,-4.4554281,megalith,osm
+node/2164678888,Froggatt Edge Stone Circle,53.2875037,-1.6270569,megalith,osm
+node/2252937583,Dolmen de la Pierre-au-Reye,49.5222556,-1.8824042,megalith,osm
+node/2283981136,La Grande Pierre,49.6549915,-1.4890596,megalith,osm
+node/2325324258,Carreg Llwyd,52.4324566,-4.0220271,megalith,osm
+node/2325324266,Carreg Llwyd,52.432542,-4.0239671,megalith,osm
+node/2376602274,node/2376602274,50.1823291,-5.4680791,standing_stone,osm
+node/2381210578,Beddrod Siambr Dyffryn Ardudwy,52.7846417,-4.0942611,megalith,osm
+node/2412270422,Gray Hill Stone Circle,51.6376404,-2.8133514,megalith,osm
+node/2470539757,node/2470539757,51.136788,-0.5570475,megalith,osm
+node/2495627942,The Long Rock,49.9319284,-6.3023347,megalith,osm
+node/2499934264,Arthur's Stone,51.5935199,-4.1793616,megalith,osm
+node/2510081268,Polissoir de Penin,50.3290246,2.4826348,megalith,osm
+node/2535237729,Langstone Man (Standing Stone),50.5902782,-4.0495785,megalith,osm
+node/2559962452,Queen Stone,51.8608207,-2.6387398,standing_stone,osm
+node/2600533435,King Doniert’s Stone,50.492795,-4.4881659,megalith,osm
+node/2696871186,Lanhill Barrow,51.4713039,-2.177916,megalith,osm
+node/2798262550,Cuckoo Stone,51.1891399,-1.7916343,megalith,osm
+node/2919219588,Stone Circle,52.7713856,-4.0523016,megalith,osm
+node/2923843180,Pont Scethin A Standing Stones,52.7926217,-4.0362572,megalith,osm
+node/2927386464,Cerrig Arthur Stone Circle,52.7500728,-4.0287022,megalith,osm
+node/2928411387,Fonllech Cairn Circles,52.8716345,-4.0661431,megalith,osm
+node/2963354128,Fonllech Menhir 8,52.8610289,-4.0788303,megalith,osm
+node/3008523417,node/3008523417,50.5785741,-3.9120992,megalith,osm
+node/3008523834,node/3008523834,50.5805255,-3.9121715,megalith,osm
+node/3008528485,node/3008528485,50.582405,-3.9153464,megalith,osm
+node/3008537669,node/3008537669,50.5830432,-3.9186561,megalith,osm
+node/3008657846,Cairn,50.5708631,-3.8827091,megalith,osm
+node/3067697216,node/3067697216,52.6814383,-4.0470026,megalith,osm
+node/3067697301,node/3067697301,52.6860744,-4.0341823,megalith,osm
+node/3071031616,node/3071031616,50.51592,-4.4597928,megalith,osm
+node/3071462066,Carwynnen Quoit,50.1882457,-5.2933647,megalith,osm
+node/3071485102,Devil's Quoit,50.420605,-4.9247085,megalith,osm
+node/3073528646,Zennor Quoit,50.1879434,-5.5474223,megalith,osm
+node/3075536495,Tolmen,50.6678277,-3.9047094,megalith,osm
+node/3086681547,node/3086681547,50.4845424,-3.9881037,megalith,osm
+node/3189843667,Tottington Stone,51.3145113,0.4980044,megalith,osm
+node/3189871488,Avebury Down,51.4403029,-1.8369577,megalith,osm
+node/3203787845,node/3203787845,53.1309978,-4.2063555,megalith,osm
+node/3203787846,node/3203787846,53.1380154,-4.2087346,megalith,osm
+node/3203787847,node/3203787847,53.1420088,-4.2133582,megalith,osm
+node/3203787848,node/3203787848,53.1416722,-4.2214083,megalith,osm
+node/3290829368,Stone Circle,50.6757005,-3.7459211,megalith,osm
+node/3329280007,Maen y Bardd (Dolmen),53.228159,-3.8880286,megalith,osm
+node/3329280078,Cae Coch Standing Stone,53.2268031,-3.8956414,megalith,osm
+node/3524337784,Fonllech Menhir 6,52.8676871,-4.0713343,megalith,osm
+node/3527167060,Fonllech Menhir 4,52.8690178,-4.0691235,megalith,osm
+node/3630025889,The Three Brothers of Crugith,50.0360362,-5.1271604,megalith,osm
+node/3634675971,Dry Tree Menhir,50.0470595,-5.1781949,megalith,osm
+node/3808366652,node/3808366652,51.2441504,-1.9159998,megalith,osm
+node/3834804357,Standing Stone,50.0918149,-5.6156657,megalith,osm
+node/3894925003,Glendruid Dolmen,53.2538137,-6.1587463,megalith,osm
+node/3955463594,Bamford Moor Circle,53.3571994,-1.6691956,megalith,osm
+node/3985876648,Standing Stone,53.283055,-4.2491876,megalith,osm
+node/4098288054,Stone Circle,53.3726084,-1.5965537,megalith,osm
+node/4101917839,Cairn,50.6624836,-3.9581113,megalith,osm
+node/4218298171,Nine stones,50.712161,-2.5526344,megalith,osm
+node/4218308707,Hell stone,50.6786121,-2.5592238,megalith,osm
+node/4229082818,node/4229082818,51.2156601,-1.6908115,megalith,osm
+node/4229082824,node/4229082824,51.2248303,-1.7098058,megalith,osm
+node/4237711958,node/4237711958,51.1612783,-1.7971329,megalith,osm
+node/4365477360,node/4365477360,50.5197671,-4.4717785,megalith,osm
+node/4404642103,Standing Stone (Menhir),53.2945591,-4.1505685,megalith,osm
+node/4793207456,node/4793207456,51.4242561,-1.8149748,megalith,osm
+node/4862255877,Stonetor Hill Cairn Circle,50.6522716,-3.9082226,megalith,osm
+node/4866233236,Fernworthy Circle,50.6411577,-3.9037878,megalith,osm
+node/4992423641,Triscombe Stone,51.1165487,-3.1962496,megalith,osm
+node/5042854751,Carreg Samson,51.9583314,-5.1329629,megalith,osm
+node/5120502898,node/5120502898,50.5543528,-4.1991203,megalith,osm
+node/5125046590,Pixies Cross,50.5434415,-4.1163634,megalith,osm
+node/5134103389,Moel Tŷ Uchaf Stone Circle,52.9236533,-3.4054615,megalith,osm
+node/5339592701,Mulfra Quoit,50.1633334,-5.5693207,megalith,osm
+node/5358888648,Carreg Wen,52.482268,-3.7254648,megalith,osm
+node/5745481722,node/5745481722,53.2553672,-1.5931013,megalith,osm
+node/5868897976,Maen Hir Tregwehelydd,53.3195163,-4.4926223,megalith,osm
+node/6063658368,Pen Feidr Coedan,51.9978803,-4.7705704,megalith,osm
+node/6088497171,Meacombe burial chamber,50.6676301,-3.805689,megalith,osm
+node/6147152156,The Long Stone,52.1893252,-6.3677473,megalith,osm
+node/6166768001,St. Vauk's Stone,52.1743472,-6.3608841,megalith,osm
+node/6185665852,Maen Hir Tŷ Mawr,53.2967529,-4.6214217,megalith,osm
+node/6218565028,Long Barrow,53.3214614,-0.0578392,megalith,osm
+node/6465606538,Gwâl y Filiast Burial Chamber,51.8992492,-4.6604503,megalith,osm
+node/6532321432,Trefach Standing Stone,51.9800893,-4.8203991,megalith,osm
+node/6532340164,Banc Du Standing Stone,51.9745547,-4.8236337,megalith,osm
+node/6537367538,Parc Maenhir,51.9830271,-4.9032884,megalith,osm
+node/6537400791,Trellwyn Fawr Standing Stone,51.984668,-4.9119114,megalith,osm
+node/6537412713,Parc-y-Meirw,51.9855146,-4.9155963,megalith,osm
+node/6689894173,Chestnuts Long Barrow,51.307624,0.3695878,megalith,osm
+node/6689906414,Addington Long Barrow,51.3070062,0.3707749,megalith,osm
+node/6727549323,node/6727549323,53.0999695,-4.2524559,megalith,osm
+node/7089847741,Maen Cleddau,53.0937545,-3.5022829,megalith,osm
+node/7091789476,Bryn Beddau Stone Circle,53.0666441,-3.41771,megalith,osm
+node/7108210170,Maen Huail,53.114377,-3.3107421,megalith,osm
+node/7233501327,node/7233501327,53.2463908,-6.474626,megalith,osm
+node/7233501328,node/7233501328,53.2467849,-6.4775836,megalith,osm
+node/7252924378,Carn Wen - The Druid's circle,52.2840872,-3.4866657,megalith,osm
+node/7297164912,Roundhill Barrow,52.1814424,-0.3212472,megalith,osm
+node/7352248995,Tolvan Holed Stone,50.10509,-5.2091238,megalith,osm
+node/7352249030,Mawgan in Meneage,50.0795947,-5.2061554,megalith,osm
+node/7395444148,Knapp Down Standing Stone,51.2040818,-4.0024161,megalith,osm
+node/7470378026,Giant's Quoits,50.052613,-5.0679374,megalith,osm
+node/7529718002,node/7529718002,52.0541507,-4.3012199,megalith,osm
+node/7530217208,Blackquarries Hill Long Barrow,51.6374624,-2.3262657,megalith,osm
+node/7657984519,node/7657984519,50.1924631,2.1790052,megalith,osm
+node/7795379642,Rillaton Cist,50.5210619,-4.4555663,megalith,osm
+node/7828873587,The Druid Stone,53.0966635,-1.1357868,megalith,osm
+node/8039453999,node/8039453999,53.0539729,-1.1631078,megalith,osm
+node/8280549602,Long Tom Standing Stone,51.4404246,-1.7944623,megalith,osm
+node/8411712387,Knockmaree Dolmen,53.3509252,-6.3406986,megalith,osm
+node/8416927133,Waun Mawn Standing Stone,51.9717011,-4.7911056,megalith,osm
+node/8422533535,Standing Stone,52.0048113,-4.8250555,megalith,osm
+node/8433998078,Menhir de la Bergerie des Etennevaux,49.7209888,-1.927514,megalith,osm
+node/8439073571,Menhir dit la Pierre Plantée,49.6927251,-1.4004392,megalith,osm
+node/8448884490,Menhir dit la Pierre d'Oblicamp,49.9899055,2.4727519,megalith,osm
+node/8450274432,Menhir dit la Haute Pierre,49.6802283,-1.3905199,megalith,osm
+node/8529188814,The Kings Stone,53.1678295,-1.6293347,megalith,osm
+node/8592502610,Gûn Rith Menhir,50.0647498,-5.5933575,megalith,osm
+node/8592548513,Boscawen-Ros West,50.0596398,-5.5954283,megalith,osm
+node/8592861683,Carreg Bica Stone,51.6793957,-3.8457021,megalith,osm
+node/8602352242,Stalldown Cairn Circle,50.4456133,-3.927515,megalith,osm
+node/8618173380,Dolgamfa cairn,52.3961245,-3.8448812,megalith,osm
+node/8638727031,Trefaes Ganol Standing Stone,52.052867,-4.7481412,megalith,osm
+node/8651041180,Rempstone Stone Circle,50.6383159,-2.0089796,megalith,osm
+node/8750094569,Stone Circle,50.4583058,-4.0068129,megalith,osm
+node/8791102890,node/8791102890,50.1746942,-5.58025,megalith,osm
+node/8798925254,The Polisher,51.4424009,-1.8167198,megalith,osm
+node/8807384348,Innisidgen Lower,49.935077,-6.2922787,megalith,osm
+node/8807384349,Innisidgen Upper,49.9345449,-6.2911979,megalith,osm
+node/8811584249,Careg Pumsaint,52.045332,-3.9504832,megalith,osm
+node/8922647999,"Stone Circle and Round Cairns, Hirnant",52.4389854,-3.8352591,megalith,osm
+node/8930348264,Bodvoc's Stone,51.585794,-3.689202,megalith,osm
+node/8986769392,Fonllech Menhir 9,52.8579178,-4.0825184,megalith,osm
+node/8987915610,Fonllech Menhir 2,52.8700114,-4.0675054,megalith,osm
+node/8987918733,Fonllech Menhir 7,52.8644441,-4.0746521,megalith,osm
+node/8991371227,Stone Row,52.8966945,-4.0157244,megalith,osm
+node/8999535465,Standing Stone,52.8979802,-4.015639,megalith,osm
+node/9004238072,Standing Stone,52.8929495,-4.0179221,megalith,osm
+node/9006213833,node/9006213833,52.9021283,-4.039414,megalith,osm
+node/9007880162,Gwern Einion Standing Stone 2,52.8360408,-4.0943832,megalith,osm
+node/9007880229,Gwern Einion Standing Stone 1,52.8361871,-4.0953183,megalith,osm
+node/9084024601,Beaples Standing Stone,50.9826222,-3.6754686,megalith,osm
+node/9129813518,Long Burgh long barrow,50.8104558,0.1421459,megalith,osm
+node/9157946836,Chyenhal Standing Stone,50.0957357,-5.5783517,megalith,osm
+node/9367313786,Llecheiddior Stone Circle,52.7754218,-4.0601808,megalith,osm
+node/9373742487,Pont Scethin B Standing Stone,52.7928181,-4.0348128,megalith,osm
+node/9376147915,Stone Circle,52.80326,-4.0590992,megalith,osm
+node/9633111256,Cromlech de Vasteville,49.6010102,-1.7994786,megalith,osm
+node/9633120103,Les Pierres Tournantes,49.584087,-1.7435568,megalith,osm
+node/9633272624,Allée couverte de Fort Joret,49.6968812,-1.439838,megalith,osm
+node/9633480563,Menhir dit La Longue Pierre,49.676451,-1.405414,megalith,osm
+node/9649788031,Harold Stone,51.6247182,-4.9374334,megalith,osm
+node/9682498596,Nine Maidens Stone Circle,50.1834584,-5.2468893,megalith,osm
+node/9689739001,Mayne Stone Circle,50.6826666,-2.3933915,megalith,osm
+node/9691664420,Winterbourne Bassett Stone Circle,51.4785892,-1.8665672,megalith,osm
+node/9705065888,Dun's Stone,51.0880123,-3.4034254,megalith,osm
+node/9915762004,Maen-serth,52.3169328,-3.5518977,megalith,osm
+node/9960038502,Manton Circle,51.4417511,-1.7730244,stone_circle,osm
+node/10052118454,node/10052118454,53.112326,-1.6885401,megalith,osm
+node/10082315850,Maen Llwyd,52.5908186,-3.8422818,megalith,osm
+node/10089197976,The Deer Stone,53.0094708,-6.3273941,megalith,osm
+node/10112299784,Bwlch Standing Stone,51.8896117,-3.2359247,megalith,osm
+node/10112299785,Maen Pyscodyn(Fish Stone),51.8712259,-3.1881623,megalith,osm
+node/10112299786,Gliffaes Stone(Llwyn-Y-Fedwen),51.8755675,-3.2273132,megalith,osm
+node/10112299787,Castle Farm Stone,51.8688132,-3.2349048,megalith,osm
+node/10112299788,Gilestone,51.9051759,-3.2853307,megalith,osm
+node/10239822580,Carrickgollogan dolmen/wedge tomb,53.2152866,-6.154889,megalith,osm
+node/10309405911,node/10309405911,52.729218,-3.9303267,megalith,osm
+node/10587608508,Glencullen Standing Stone,53.2197723,-6.2173859,megalith,osm
+node/10629915059,node/10629915059,49.9185381,-6.3069597,megalith,osm
+node/10814173820,Brennanstown Standing Stone,53.2580505,-6.156864,megalith,osm
+node/10941905269,node/10941905269,51.7350922,-3.8895615,megalith,osm
+node/10941905271,node/10941905271,51.7368396,-3.8888118,megalith,osm
+node/11022186967,node/11022186967,53.1204131,-3.0471007,stone_circle,osm
+node/11025759521,Llandegai Henge Complex North Henge,53.2195686,-4.1068955,megalith,osm
+node/11190598462,The Dipping Stone,53.3323216,-2.008077,megalith,osm
+node/11190640939,Murder Stone,53.3266665,-2.024657,megalith,osm
+node/11422932373,Garreg Ateb,53.2732656,-3.1978138,megalith,osm
+node/11888768651,Clogau Standing Stone,52.5605648,-3.4556767,megalith,osm
+node/11888768652,Llyn Mawr South Standing Stone,52.5629996,-3.4730999,megalith,osm
+node/12043956860,Hawk Stone,51.9094368,-1.5082597,megalith,osm
+node/12118981252,node/12118981252,51.9660628,-3.6994456,stone_circle,osm
+node/12133778279,Bachwen Dolmen,53.0189594,-4.3752728,megalith,osm
+node/12189908267,Carreg Samson,52.3170644,-3.8478028,megalith,osm
+node/12218340867,"Y Das, Tomen",51.987399,-3.1667251,megalith,osm
+node/12218340871,node/12218340871,52.024463,-3.1106587,megalith,osm
+node/12218768305,"Tarren Yr Esgob, Stone Spread",51.973115,-3.0933744,megalith,osm
+node/12218768309,"Waun Goch, Stone",51.977321,-3.1060853,megalith,osm
+node/12218768317,node/12218768317,51.98766,-3.1138253,megalith,osm
+node/12218768318,node/12218768318,51.999964,-3.1888584,megalith,osm
+node/12369406651,Maen hir Nant y Maen Menhir,52.2089988,-3.8136399,megalith,osm
+node/12393696606,Maenhir Nant y Gorlan Stone,52.2204167,-3.7082715,megalith,osm
+node/12393703678,Maenhir Pen maen Wern Stone,52.244587,-3.6647783,megalith,osm
+node/12459072691,node/12459072691,53.2359227,-4.4823843,megalith,osm
+node/13086555501,Coetan Arthur,52.8792332,-4.6320945,megalith,osm
+node/13276294147,node/13276294147,52.8235554,-3.2993462,megalith,osm
+node/13276294148,node/13276294148,52.8257507,-3.303735,megalith,osm
+node/13422302045,Standing stone,51.9329551,-4.9227749,megalith,osm
+node/13464794690,Abney Moor stone circle,53.3200285,-1.6971091,megalith,osm
+node/13470702842,Arthog Stones,52.7062205,-3.9954872,megalith,osm
+node/13481775445,node/13481775445,53.3056913,-1.6528048,megalith,osm
+node/13481775446,node/13481775446,53.3067404,-1.6538601,megalith,osm
+node/13482423536,White Edge Cairn,53.2950644,-1.5988735,megalith,osm
+node/13482423538,Highshaw Clough Stone,53.3884056,-1.6895438,megalith,osm
+node/13482423539,Barbrook 4=,53.2766857,-1.5669524,megalith,osm
+node/13484000221,Llech Gron,52.2624597,-4.137139,megalith,osm
+node/13525088843,Harrod Low,53.3221753,-1.8536494,megalith,osm
+way/29895259,way/29895259,50.4273076,-3.9201277,megalith,osm
+way/30003317,Fernworthy Stone Row,50.6421814,-3.9034278,megalith,osm
+way/36908191,way/36908191,51.2637776,-1.7165802,megalith,osm
+way/36908199,Twin Barrows,51.26723,-1.7549033,megalith,osm
+way/36970076,Woodhenge,51.1893844,-1.7857749,henge,osm
+way/37118074,Stonehenge,51.1788293,-1.8260749,megalith,osm
+way/40807860,The Sanctuary,51.4111127,-1.8312991,megalith,osm
+way/56208942,way/56208942,51.5484824,-1.5354439,megalith,osm
+way/60879866,Fenacre Stone Circle,50.5899927,-4.6224432,megalith,osm
+way/97401381,Tregeseal East Stone Circle,50.1337144,-5.6585816,megalith,osm
+way/108079583,Fairy Castle,53.2391322,-6.2450922,megalith,osm
+way/118846317,Stannon Stone Circle,50.5896998,-4.6493052,megalith,osm
+way/158678341,Nine Stones Close,53.1604574,-1.6644406,megalith,osm
+way/188806074,Mitchell's Fold,52.5787063,-3.0281852,megalith,osm
+way/189547431,Scorhill Stone Circle,50.670596,-3.9053641,megalith,osm
+way/189590562,Double Stone row - Remains of pinion arm,50.4960143,-3.9790104,megalith,osm
+way/223349150,way/223349150,50.4341718,-3.9194008,megalith,osm
+way/223353058,way/223353058,50.4724602,-3.9168689,megalith,osm
+way/223353060,way/223353060,50.4625495,-3.9229601,megalith,osm
+way/223353063,way/223353063,50.4704267,-3.917314,megalith,osm
+way/223356811,way/223356811,50.4247627,-3.9192755,megalith,osm
+way/233466304,Roger's Tower,50.1612777,-5.5225137,megalith,osm
+way/238806680,Hoarstones Stone Circle,52.5927715,-2.9992721,megalith,osm
+way/240225106,Sousson's Stone Circle,50.5928827,-3.8731577,megalith,osm
+way/240225246,Down Ridge stone circle,50.5328947,-3.899151,megalith,osm
+way/240227246,Langstone stone circle,50.5856074,-4.0406621,megalith,osm
+way/240342854,The Trippet Stones,50.5449565,-4.6391728,megalith,osm
+way/241013671,way/241013671,51.4294826,-1.8536985,megalith,osm
+way/241014711,way/241014711,51.4271089,-1.8538395,megalith,osm
+way/241014715,way/241014715,51.4284807,-1.8514126,megalith,osm
+way/241014717,way/241014717,51.4271855,-1.8547526,megalith,osm
+way/241014723,way/241014723,51.4296432,-1.8520279,megalith,osm
+way/241020429,way/241020429,51.4241267,-1.8492924,megalith,osm
+way/241020430,way/241020430,51.4214841,-1.846983,megalith,osm
+way/241020433,way/241020433,51.4231917,-1.8484167,megalith,osm
+way/241020436,way/241020436,51.4249721,-1.8507904,megalith,osm
+way/241020551,way/241020551,51.4208175,-1.8460376,megalith,osm
+way/258506976,Long Barrow,51.2120069,-1.8454299,megalith,osm
+way/297013325,way/297013325,50.5811341,-3.9172116,megalith,osm
+way/297016430,Kraps Ring,50.5872461,-3.9163828,megalith,osm
+way/297016439,way/297016439,50.5838266,-3.9173902,megalith,osm
+way/301802425,Boscawen-Un Stone Circle,50.0898325,-5.6193222,megalith,osm
+way/301806408,Nine Maidens Stone Circle,50.7185834,-3.9671951,megalith,osm
+way/302807759,Duloe stone circle,50.3981118,-4.4835745,megalith,osm
+way/302817147,Goodaver stone circle,50.5485977,-4.5298422,megalith,osm
+way/302849197,Little Kit's Coty House,51.3159649,0.5013804,megalith,osm
+way/302868054,Nine Maidens Stone Row,50.4716777,-4.9092964,megalith,osm
+way/303120932,Brisworthy stone circle,50.4715904,-4.024062,megalith,osm
+way/303961126,way/303961126,50.5828361,-3.9169976,megalith,osm
+way/313060066,Coffin Stone,51.3178625,0.4957429,megalith,osm
+way/314919793,Meini Hirion,53.2534987,-3.9157392,megalith,osm
+way/333503730,Belas Knap Longbarrow,51.9274051,-1.9709999,megalith,osm
+way/349634594,Wayland's Smithy,51.566718,-1.5960865,megalith,osm
+way/356751199,Bryn Cader Faner,52.8982271,-4.011377,megalith,osm
+way/375129654,way/375129654,53.2539453,-3.9242166,megalith,osm
+way/390207428,Boskednan stone circle,50.1605418,-5.5937032,megalith,osm
+way/390207429,Mên-an-Tol,50.1585599,-5.6044972,megalith,osm
+way/399061617,way/399061617,50.58345,-4.0393805,megalith,osm
+way/425722873,Kingston Russell Stone Circle,50.6885328,-2.598947,megalith,osm
+way/455776634,The Hurlers: Southern circle,50.5157789,-4.4583703,megalith,osm
+way/462834598,Adam,51.4226939,-1.8734399,megalith,osm
+way/515358158,Gorseinon Gorsedd Circle,51.6683072,-4.0428264,megalith,osm
+way/538353502,Plas Newydd Burial Chamber,53.2039363,-4.2174813,megalith,osm
+way/548688210,Tibradden Chambered Cairn,53.238616,-6.2803154,megalith,osm
+way/553117991,Watch Croft,50.1652152,-5.6132245,megalith,osm
+way/565104868,Stall Moor stone circle,50.463793,-3.9243958,megalith,osm
+way/577738138,Withypool Stone Circle,51.0963122,-3.6604247,megalith,osm
+way/579375610,way/579375610,50.893738,-0.3764969,megalith,osm
+way/621816481,Castilly Henge,50.4314583,-4.7736553,henge,osm
+way/637622392,Cylch cerrig Gors Fawr,51.9315452,-4.7146422,megalith,osm
+way/684117284,way/684117284,50.4788805,-3.9235564,megalith,osm
+way/731131434,Gorsedd Stone Circle,51.6904715,-4.1611766,megalith,osm
+way/758053061,Stanton Drew Circle South-west,51.3652785,-2.5771229,megalith,osm
+way/758053062,Stanton Drew Great Circle,51.3671152,-2.5760633,megalith,osm
+way/758053063,Stanton Drew Circle North-east,51.3677457,-2.5746967,megalith,osm
+way/759535632,way/759535632,51.4296927,-1.855772,megalith,osm
+way/759536215,way/759536215,51.4280761,-1.8562494,megalith,osm
+way/759536228,way/759536228,51.4280403,-1.853391,megalith,osm
+way/800018773,Nine Stones,50.576296,-4.492672,megalith,osm
+way/808838883,way/808838883,50.5080109,-3.9882222,megalith,osm
+way/808838884,Down Tor Stone Row,50.5066384,-3.9918103,megalith,osm
+way/808838885,Down Tor Stone Circle,50.5060539,-3.9941539,megalith,osm
+way/820214823,way/820214823,51.5542939,0.0015892,megalith,osm
+way/825188277,Llech-y-Tribedd,52.0545403,-4.7717402,megalith,osm
+way/854484225,Gorsedd Circle,51.9964608,-4.9749055,megalith,osm
+way/868388256,Windmill Tump,51.6744671,-2.0989461,megalith,osm
+way/897916956,Bowl Barrow,51.4106683,-1.8303642,megalith,osm
+way/900913268,Emblance Downs Stone Circles,50.5674741,-4.6351556,megalith,osm
+way/900913269,Leaze Stone Circle,50.5655876,-4.632423,megalith,osm
+way/901745746,Leskernick Stone Row,50.5905098,-4.5606646,megalith,osm
+way/901745748,Leskernick South Stone Circle,50.5881464,-4.5609512,megalith,osm
+way/901745749,Leskernick North Stone Circle,50.5908425,-4.5643848,megalith,osm
+way/904576751,Hazleton long barrows,51.8680437,-1.8968861,megalith,osm
+way/904576753,Hazleton long barrows,51.8686871,-1.8958008,megalith,osm
+way/905954802,Wood Barrow,51.8090616,-1.9039091,megalith,osm
+way/905954805,Crickley long barrow,51.8045108,-1.8542465,megalith,osm
+way/905954806,Withington long barrow,51.8260436,-1.9571546,megalith,osm
+way/906412106,Troed-y-Rhiw Stone Row,51.9873067,-4.7854547,megalith,osm
+way/907751783,Stone Circle,53.2129179,-1.5815195,megalith,osm
+way/949729986,way/949729986,51.7924153,-1.8272927,megalith,osm
+way/957493192,Stoney Littleton Long Barrow,51.3133612,-2.3817017,megalith,osm
+way/967995562,Stripple Stones,50.5471672,-4.6216882,megalith,osm
+way/976357708,Stone Row,50.4284258,-3.8914374,megalith,osm
+way/1001049455,Sittaford Tor stone circle,50.6288376,-3.9381917,megalith,osm
+way/1041545235,Hart Tor North stone rows cairn,50.5278293,-4.0088196,megalith,osm
+way/1053644177,way/1053644177,51.1895297,-3.6540342,megalith,osm
+way/1054408788,The Louden Stone Circle,50.5852038,-4.6399909,megalith,osm
+way/1054410842,way/1054410842,51.1882857,-3.7405885,megalith,osm
+way/1054411653,Langdean Stone Circle,51.3905683,-1.831797,megalith,osm
+way/1054412917,Day House Lane Stone Circle,51.5400943,-1.7394508,megalith,osm
+way/1054415527,way/1054415527,53.380462,-1.7238303,megalith,osm
+way/1054484866,Ringmoor Down Stone Circle,50.4743757,-4.0260516,megalith,osm
+way/1054488748,way/1054488748,50.4523833,-4.0379371,megalith,osm
+way/1054489139,way/1054489139,50.4701982,-3.845337,megalith,osm
+way/1054490537,way/1054490537,50.6846432,-2.572331,megalith,osm
+way/1063218071,way/1063218071,50.6513068,-2.3619156,megalith,osm
+way/1063222847,way/1063222847,50.4137238,-3.892588,megalith,osm
+way/1092964511,Seven Lords' Lands,50.5722091,-3.7789854,megalith,osm
+way/1113049349,way/1113049349,50.5307459,-3.869224,megalith,osm
+way/1118868420,way/1118868420,50.2134303,-5.5234476,megalith,osm
+way/1120419171,way/1120419171,51.0912992,-3.0564288,megalith,osm
+way/1125397109,way/1125397109,51.4127268,-1.8282741,megalith,osm
+way/1231768412,way/1231768412,51.596088,-0.9286155,stone_circle,osm
+way/1316057796,Mardon Down Stone Circle,50.6713437,-3.745383,megalith,osm
+way/1332451933,Standing Stone,52.1140803,-3.6298044,megalith,osm
+way/1380026744,Saucer barrow,52.7847122,-2.0361011,megalith,osm
+way/1383516911,way/1383516911,53.2533229,-3.9170831,megalith,osm
+way/1470105302,Barbrook Three,53.2917882,-1.5763255,megalith,osm
+way/1482246931,Lamborough Banks Long Barrow,51.7833483,-1.8453617,megalith,osm
+way/1493746552,Waun Mawn W,51.9697488,-4.7951601,megalith,osm
+relation/10452682,Rollright Stones,51.9757582,-1.5683078,megalith,osm
+relation/12240643,The Merry Maidens Stone Circle,50.0651283,-5.5887746,megalith,osm
+relation/12555859,Devil's Quoits,51.7400237,-1.405883,megalith,osm
+relation/13405399,Tafarn-y-Bwlch,51.9685245,-4.7944488,megalith,osm
