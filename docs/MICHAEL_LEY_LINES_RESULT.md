@@ -1,5 +1,7 @@
 # Michael Ley Line — Population-Level Corridor Test Results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20307501.svg)](https://doi.org/10.5281/zenodo.20307501)
+
 **Status.** Four concentric statistical tests of progressively increasing rigor have been run against the canonical Michael ley line corridor. The corridor is significant against all four, with the headline result surviving Bonferroni correction at the 50 km width across all three independent reference catalogs jointly.
 
 **One-line summary.** The canonical Michael corridor in southern Britain over-populates three independent reference catalogs of culturally significant sites (Christian dedications, prehistoric monuments, and broad archaeology), simultaneously and at population scale, beyond what would be expected from random great circles through the UK or from random great circles oriented along the British landmass diagonal. The result is statistical and geographic; it does not establish any proposed mechanism, and the corridor is not the unique or maximal alignment of sites in the region.

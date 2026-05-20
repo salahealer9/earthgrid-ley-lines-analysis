@@ -26,3 +26,7 @@ keywords:
   - ley lines
   - great circle
   - Monte Carlo
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20307501"
+    description: "v0.1.0 release archived on Zenodo"

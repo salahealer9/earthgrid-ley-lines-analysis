@@ -1,5 +1,7 @@
 # Earth Grid Ley Lines Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20307501.svg)](https://doi.org/10.5281/zenodo.20307501)
+
 A population-level statistical framework for testing great-circle alignment claims about cultural sites, demonstrated on the canonical St Michael ley line in southern Britain.
 
 ## What this is
@@ -91,7 +93,9 @@ results_corridor/                Test outputs (JSON summaries + logs)
 
 ## Citation
 
-If you use this methodology or the catalogs, please cite the Zenodo deposit (DOI added on release).
+If you use this methodology or the catalogs, please cite:
+
+> Gherbi, S.-E. (2026). *Earth Grid Ley Lines Analysis: Population-level corridor test for the Michael ley line in southern Britain* (Version 0.1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20307501
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 
