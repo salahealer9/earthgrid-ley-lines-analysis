@@ -1,0 +1,28 @@
+# CITATION.cff
+cff-version: 1.2.0
+title: "Population-level corridor test for the Michael ley line in southern Britain"
+message: "If you use this software or methodology, please cite as below."
+type: software
+authors:
+  - given-names: Salah-Eddin
+    family-names: "Gherbi"
+    orcid: https://orcid.org/0009-0005-4017-1095
+version: 0.1.0
+date-released: "2026-05-20"
+license: Apache-2.0
+repository-code: "https://github.com/salahealer9/earthgrid-ley-lines-analysis"
+abstract: >-
+  A four-concentric-tests framework for evaluating great-circle alignment
+  claims at population scale. Tests the canonical Michael ley line corridor
+  in southern Britain against independent OSM-derived reference catalogs of
+  Christian dedications, prehistoric monuments, and broad archaeology.
+  Reports joint conjunction p = 0.0002 at the 50 km width, robust to
+  orientation restriction and pole-definition sensitivity. A separate UNESCO
+  global sanity check rules out global ley-line interpretation.
+keywords:
+  - statistical archaeology
+  - corridor alignment
+  - population-level testing
+  - ley lines
+  - great circle
+  - Monte Carlo
