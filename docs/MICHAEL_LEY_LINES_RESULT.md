@@ -42,6 +42,16 @@ Lat ∈ [49.5°, 53.5°], lon ∈ [−6.5°, +2.5°]. Contains the entire canoni
 
 Test statistic: K(w; corridor) = number of catalog sites within w km of the great circle (perpendicular spherical distance), w ∈ {5, 10, 20, 50, 100} km. Trials per null: T = 10,000. p-value (one-sided): (#{K_null ≥ K_real} + 1) / (T + 1). Significance threshold: per-width p < Bonferroni-corrected 0.01 (family-wise α = 0.05 over 5 widths).
 
+### Sensitivity to corridor pole definition
+
+The canonical 130-site pole is the great-circle pair (St Cleer Well, Throwleigh) that best captures the 130 KML waypoints at w = 5 km. To confirm the result is not specific to this particular pole definition, we also performed a least-squares great-circle fit (SVD of unit vectors) to:
+
+- the Michael "current" LineString from the source KML (3947 points);
+- the Mary "current" LineString from the same KML (4945 points); and
+- the union of both currents (8892 points).
+
+The fitted poles lie 13.6 to 43.7 km from the canonical 130-site pole, with RMS residuals of 2.95 to 3.76 km against the source LineStrings. The straight-line abstraction is therefore an empirical summary of the meandering currents, not merely a stylistic convention. Each fitted pole was then run through the full population test (Tests 2 and 4); results are reported in §[Sensitivity table].
+
 ---
 
 ## Results
@@ -118,6 +128,21 @@ The 50 km width is the strongest cell. The 5, 10, and 20 km widths show consiste
 
 The conjunction p_joint is markedly smaller than the strongest individual marginal (0.0002 vs 0.0004 for B1 alone), **even given the high correlation between B1 and B2**. This is informative: the corridor's joint over-population is not a trivial consequence of the catalogs being correlated. If it were, p_joint would equal max(marginals); instead it is ~2× smaller. The corridor is doing real conjunctive work.
 
+### Test 5 — Robustness to canonical pole definition
+
+The joint conjunction test (Test 4) was repeated for four different canonical poles: the conventional 130-site canonical, the best-fit to the Michael current LineString, the best-fit to the Mary current LineString, and the best-fit to the combined currents.
+
+| Canonical pole | Pole offset (km) | p_joint (w=50km, isotropic) | n / 10,000 |
+|---|---|---|---|
+| 130-site (reference) | 0 | 0.0002 | 1 |
+| Michael current fit (n = 3947 points) | 30.9 | 0.0001 | 0 |
+| Mary current fit (n = 4945 points) | 43.7 | 0.0002 | 1 |
+| Combined currents fit (n = 8892 points) | 13.6 | 0.0004 | 3 |
+
+All four pole definitions give equivalent joint significance — within Monte Carlo noise of one another, and all crossing the per-width Bonferroni threshold at w = 50 km. The per-catalog z-scores match the canonical run to within ±0.05 across all five widths. **The result is robust to the exact corridor definition.**
+
+This rules out the methodological concern that the canonical 130-site straight line is a curatorially-chosen abstraction unfaithful to the underlying tradition's meandering "currents." When the great circle is fit *directly* to the currents the tradition actually posits, with thousands of points rather than 130 waypoints, the same population-level significance emerges.
+
 ### Cross-pole stability
 
 The 12-site canonical pole (+33.465°, −147.811°) and the 130-site canonical pole (+33.330°, −147.354°) are about 50 km apart. Tested against B1, both give nearly identical results (p = 0.0001 vs 0.0004 at w = 50 km, K_real differing by 6%). The test is stable to small perturbations of the canonical pole, indicating the result reflects a corridor *region* and not a brittle line definition.
@@ -167,6 +192,23 @@ B1 (strict prehistoric) and B2 (broad archaeological) give qualitatively similar
 
 (1) is the more parsimonious reading given the magnitude of the effect across both B1 and B2; (2) cannot be fully excluded without a non-OSM control catalog.
 
+### Global-scale sanity check (UNESCO)
+
+The canonical Michael great circle, when extended around the Earth, passes near several internationally recognizable sites (Nazca lines, Alice Springs, Moncong Lompobattang, the Isles of Scilly). To quantify this observation, we ran a separate test: counting UNESCO World Heritage Sites (n = 1154) within a fixed half-width of (a) the canonical Michael corridor, (b) the optimized red corridor from trial 1583, and (c) 10,000 random great circles uniform on S² (no bbox restriction — global).
+
+| Corridor | K @ 100 km | Percentile | K @ 50 km | Percentile |
+|---|---|---|---|---|
+| Random GC (mean ± std) | 17.9 ± 15.4 | — | 9.0 ± 8.1 | — |
+| Theoretical N·sin(w/R) | 18.1 | — | 9.1 | — |
+| Michael canonical | 41 | 90.4% | 19 | 88.2% |
+| Optimized red | 40 | 90.1% | 27 | 94.8% |
+
+The closed-form expected count (N·sin(w/R), the spherical-band area fraction of a great-circle corridor) matches the empirical null mean to within 1%, validating the test.
+
+The Michael Line captures more UNESCO sites than a median random great circle — about 2× the expected count at both widths — but lands at the ~90th percentile of random global corridors, not at the tail: 963/10,000 random great circles match or exceed K = 41 at 100 km, giving an effective p ≈ 0.10. The famous-places observation, when quantified, **does not survive as a significant global signal**. The modest elevation is parsimoniously explained by the corridor's geometric conditioning on passing through the UK and continental Europe, both UNESCO-dense regions — a random great circle restricted to those latitudes would land in a comparable percentile.
+
+The 90th-percentile elevation is not nothing, and the corridor's globally-extended trajectory is interesting enough that future work could examine whether *specific* segments (e.g., the Mont-Saint-Michel ↔ Skellig Michael continuation, or the Mediterranean approach to Mount Carmel) show region-specific significance. But within the scope of the current claim — the southern-British corridor over-populating reference catalogs — the global UNESCO result functions as a negative control: the corridor's significance is **regional, not global**, and any "earth-grid" reading should be rejected on the basis of this test.
+
 ### On the trial-1583 "best corridor" finding
 
 A diagnostic exploration after the main analysis found a single trial (trial 1583 in the isotropic null) that simultaneously beats the canonical corridor on all three catalogs at w = 5 km — by a wide margin (B1 = 436 vs 199, A = 44 vs 38, B2 = 666 vs 368, summed-z 17.95). This is not a separate finding; it is the single sample that defined the upper tail of the joint null distribution and therefore drove the p_joint = 0.0002 number.
@@ -183,6 +225,7 @@ The corridor optimized through trial 1583 cannot be re-tested for significance w
 - **Bbox specificity.** Results are conditional on the southern-Britain bbox. Extending beyond Britain (e.g., to the continental Michael axis through Mont-Saint-Michel and Skellig Michael) would require a different bbox, different reference catalogs, and is reserved for future work.
 - **No mechanism.** The test establishes statistical and geographic significance only. It is silent on causation.
 - **Single canonical pole.** The result is reported for one canonical corridor (130-site pair 12,19) with stability checked against the 12-site canonical. A more thorough analysis would scan over the corridor parameterization to map the full significance landscape.
+- **Single canonical pole.** Resolved in Test 5: results are robust to four independent pole definitions (130-site, Michael current fit, Mary current fit, combined fit) spanning a 44 km pole-offset range. A more thorough analysis would scan continuously over the corridor parameterization to map the full significance landscape, but the four-point sensitivity test confirms the canonical pole is within the equivalent-result region.
 
 ## Files
 
@@ -190,6 +233,7 @@ Catalogs:
 - `data/population/catalog_A_michael.csv`        754 St Michael place-of-worship records (OSM)
 - `data/population/catalog_B1_strict.csv`       2422 strict prehistoric monuments (OSM)
 - `data/population/catalog_B2_broad.csv`        5500 broad archaeological records (OSM)
+- `data/unesco/whc-sites-2021.csv`              cached UNESCO World Heritage Sites catalog
 
 Canonical corridor source:
 - `data/ley_lines/michael_ley_line/st_michaels_all_130.csv` — 130 sites extracted from the public KML
@@ -200,6 +244,9 @@ Scripts:
 - `scripts_geophys/population_corridor_test.py`      Tests 2 and 3 (with `--bearing-tolerance`)
 - `scripts_geophys/triple_corridor_test.py`          Test 4 (joint conjunction)
 - `scripts_geophys/corridor_null_test.py`            Test 1 (internal nulls)
+- `scripts_geophys/unesco_global_sanity_check.py`    global sanity check (UNESCO null)
+- `scripts_geophys/extract_kml_coordinates.py`       Extract Michael/Mary current vertices from KML LineStrings for great-circle fitting
+- `scripts_geophys/best_fit_great_circle.py`         SVD fit of great circle to point catalog
 
 Results:
 - `results_corridor/population/B1_canonical130*.json`         B1 isotropic + 30°, 15°, 5° tolerances
@@ -207,6 +254,9 @@ Results:
 - `results_corridor/population/B2_canonical130*.json`         B2 isotropic + 15° tolerance
 - `results_corridor/population/B1_canonical12.json`           B1 cross-pole stability check
 - `results_corridor/population/triple_canonical130_*.{json,trials.csv}`   joint conjunction across all 3 catalogs
+- `results_corridor/unesco_sanity_check_{50,100}km.json`   global UNESCO sanity check results
+- `results_corridor/best_fit_{michael,mary,combined}_current.{json,kml}`   pole-fit outputs
+- `results_corridor/population/triple_{michael,mary,combined}_pole.{json,trials.csv}`   sensitivity-test population results
 
 ## Conclusion
 

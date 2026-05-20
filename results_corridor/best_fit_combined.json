@@ -1,0 +1,36 @@
+{
+  "n_points": 8892,
+  "input_files": [
+    "data/ley_lines/michael_ley_line/michael_current_points.csv",
+    "data/ley_lines/michael_ley_line/mary_current_points.csv"
+  ],
+  "label": "Best-fit GC to combined currents",
+  "fitted_pole_lat_lon": [
+    33.27557828622877,
+    -147.2232858544155
+  ],
+  "fitted_pole_xyz": [
+    -0.702932399728634,
+    -0.4526047918772893,
+    0.5486665141791138
+  ],
+  "residuals_km": {
+    "rms": 3.54534684065261,
+    "median": 2.3074092919570637,
+    "p95": 7.092494819965828,
+    "max": 11.286588669680054
+  },
+  "comparison_to_canonical": {
+    "canonical_pole_lat_lon": [
+      33.33,
+      -147.354
+    ],
+    "fitted_pole_lat_lon": [
+      33.27557828622877,
+      -147.2232858544155
+    ],
+    "pole_offset_km": 13.571668369819431,
+    "pole_offset_deg": 0.12205294593342451
+  },
+  "timestamp_utc": "2026-05-20T08:32:20.690582+00:00"
+}
