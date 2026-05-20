@@ -7,7 +7,7 @@ authors:
   - given-names: Salah-Eddin
     family-names: "Gherbi"
     orcid: https://orcid.org/0009-0005-4017-1095
-version: 0.1.0
+version: 0.1.1
 date-released: "2026-05-20"
 license: Apache-2.0
 repository-code: "https://github.com/salahealer9/earthgrid-ley-lines-analysis"
@@ -28,8 +28,17 @@ keywords:
   - Monte Carlo
 identifiers:
   - type: doi
+    value: "10.5281/zenodo.20307500"
+    description: "Concept DOI (always points to latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20312153"
+    description: "v0.1.1 release archived on Zenodo"
+  - type: doi
     value: "10.5281/zenodo.20307501"
-    description: "Zenodo archive of v0.1.0"
+    description: "v0.1.0 release archived on Zenodo"
   - type: swh
     value: "swh:1:dir:eacb8ff55520d38a30109b759eb302e2e43a9eaa"
-    description: "Software Heritage long-term archive of v0.1.0"
+    description: "Software Heritage archive of v0.1.0"
+  - type: swh
+    value: "swh:1:dir:1eec10540d387eca676125c63664ae85bd344280"
+    description: "Software Heritage archive of v0.1.1"
