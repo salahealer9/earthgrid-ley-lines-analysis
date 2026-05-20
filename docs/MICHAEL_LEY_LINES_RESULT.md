@@ -1,6 +1,8 @@
 # Michael Ley Line — Population-Level Corridor Test Results
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20307501.svg)](https://doi.org/10.5281/zenodo.20307501)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Status.** Four concentric statistical tests of progressively increasing rigor have been run against the canonical Michael ley line corridor. The corridor is significant against all four, with the headline result surviving Bonferroni correction at the 50 km width across all three independent reference catalogs jointly.
 

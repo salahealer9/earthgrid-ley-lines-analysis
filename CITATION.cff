@@ -29,4 +29,7 @@ keywords:
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20307501"
-    description: "v0.1.0 release archived on Zenodo"
+    description: "Zenodo archive of v0.1.0"
+  - type: swh
+    value: "swh:1:dir:eacb8ff55520d38a30109b759eb302e2e43a9eaa"
+    description: "Software Heritage long-term archive of v0.1.0"
