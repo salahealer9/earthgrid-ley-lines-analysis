@@ -1,0 +1,155 @@
+{
+  "catalogs": [
+    {
+      "label": "B2",
+      "path": "data/population/catalog_B2_broad.csv",
+      "N": 5500
+    }
+  ],
+  "canonical_pole_lat_lon": [
+    33.33,
+    -147.354
+  ],
+  "canonical_bearing_at_bbox_center_deg": 61.713006643467644,
+  "bearing_tolerance_deg": 30.0,
+  "null_mode": "bearing_restricted",
+  "bbox_swne": [
+    49.5,
+    -6.5,
+    53.5,
+    2.5
+  ],
+  "bbox_radius_km": 382.73304371056895,
+  "trials": 10000,
+  "seed": 42,
+  "widths_km": [
+    5.0,
+    10.0,
+    20.0,
+    50.0,
+    100.0
+  ],
+  "K_real_by_catalog": {
+    "B2": [
+      368,
+      634,
+      1304,
+      2635,
+      3505
+    ]
+  },
+  "marginals": {
+    "B2": [
+      {
+        "width_km": 5.0,
+        "K_real": 368,
+        "K_null_mean": 71.4345,
+        "K_null_std": 92.28129664103122,
+        "K_null_min": 0,
+        "K_null_max": 666,
+        "k_null_ge_real": 171,
+        "p_oneside": 0.017198280171982803,
+        "z_score": 3.2137118874003496
+      },
+      {
+        "width_km": 10.0,
+        "K_real": 634,
+        "K_null_mean": 142.5568,
+        "K_null_std": 174.2749309962853,
+        "K_null_min": 0,
+        "K_null_max": 988,
+        "k_null_ge_real": 252,
+        "p_oneside": 0.025297470252974703,
+        "z_score": 2.8199305384345568
+      },
+      {
+        "width_km": 20.0,
+        "K_real": 1304,
+        "K_null_mean": 284.6203,
+        "K_null_std": 329.2664943900457,
+        "K_null_min": 0,
+        "K_null_max": 1583,
+        "k_null_ge_real": 93,
+        "p_oneside": 0.0093990600939906,
+        "z_score": 3.095910811965135
+      },
+      {
+        "width_km": 50.0,
+        "K_real": 2635,
+        "K_null_mean": 709.526,
+        "K_null_std": 732.2116489950157,
+        "K_null_min": 0,
+        "K_null_max": 2668,
+        "k_null_ge_real": 8,
+        "p_oneside": 0.0008999100089991,
+        "z_score": 2.6296686246972114
+      },
+      {
+        "width_km": 100.0,
+        "K_real": 3505,
+        "K_null_mean": 1414.7369,
+        "K_null_std": 1229.996717994967,
+        "K_null_min": 0,
+        "K_null_max": 3655,
+        "k_null_ge_real": 479,
+        "p_oneside": 0.047995200479952004,
+        "z_score": 1.699405428826968
+      }
+    ]
+  },
+  "conjunction": [
+    {
+      "width_km": 5.0,
+      "thresholds": {
+        "B2": 368
+      },
+      "n_joint_ge_real_all": 171,
+      "p_joint_all": 0.017198280171982803,
+      "pairwise": {}
+    },
+    {
+      "width_km": 10.0,
+      "thresholds": {
+        "B2": 634
+      },
+      "n_joint_ge_real_all": 252,
+      "p_joint_all": 0.025297470252974703,
+      "pairwise": {}
+    },
+    {
+      "width_km": 20.0,
+      "thresholds": {
+        "B2": 1304
+      },
+      "n_joint_ge_real_all": 93,
+      "p_joint_all": 0.0093990600939906,
+      "pairwise": {}
+    },
+    {
+      "width_km": 50.0,
+      "thresholds": {
+        "B2": 2635
+      },
+      "n_joint_ge_real_all": 8,
+      "p_joint_all": 0.0008999100089991,
+      "pairwise": {}
+    },
+    {
+      "width_km": 100.0,
+      "thresholds": {
+        "B2": 3505
+      },
+      "n_joint_ge_real_all": 479,
+      "p_joint_all": 0.047995200479952004,
+      "pairwise": {}
+    }
+  ],
+  "correlations": {
+    "w_5.0": {},
+    "w_10.0": {},
+    "w_20.0": {},
+    "w_50.0": {},
+    "w_100.0": {}
+  },
+  "timestamp_utc": "2026-05-20T14:30:13.292419+00:00"
+}
