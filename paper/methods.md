@@ -36,7 +36,7 @@ For the global sanity check (Section 2.5.6), a fourth catalog of N = 1154 UNESCO
 
 ## 2.3 Canonical corridor
 
-The canonical Michael corridor is defined by the great circle through the pair (St Cleer Well, Throwleigh), the optimal site pair from a 130-site KML extraction of the alignment as published in the Miller–Broadhurst tradition (*The Sun and the Serpent*, 1989). The corresponding pole is
+The canonical Michael corridor is defined by the great circle through the pair (St Cleer Well, Throwleigh), the optimal site pair from a 130-site KML extraction of the alignment. The KML is the public St Michael Line in UK Google My Maps document (Anonymous 2017), which traces the Miller–Broadhurst tradition (The Sun and the Serpent, 1989) and contains the alignment as a straight blue layer, the Mary current (green) and Michael current (red) as meandering LineStrings, and 130 named placemarkers. The corresponding pole is
 
 > **n**_canonical = (+33.330°, −147.354°),
 
@@ -86,7 +86,7 @@ The Pearson correlation of K across trials between each catalog pair is also rec
 
 ### 2.5.5 Test 5 — Pole sensitivity
 
-The canonical 130-site pole is a curatorial choice: the KML on which it is based contains both the alignment (the straight line) and two meandering "current" LineStrings (the Mary and Michael currents in the Miller–Broadhurst tradition). To verify that the result is not specific to the straight-line abstraction, we fit a great circle directly to:
+The canonical 130-site pole is a curatorial choice: the KML on which it is based (Anonymous 2017) contains both the alignment (the straight line) and two meandering "current" LineStrings (the Mary and Michael currents in the Miller–Broadhurst tradition). To verify that the result is not specific to the straight-line abstraction, we fit a great circle directly to:
 
 - the Michael current LineString (3947 vertices);
 - the Mary current LineString (4945 vertices);
