@@ -44,11 +44,13 @@ with a bearing of 61.7° at the bounding-box center. The 130-site catalog is cur
 
 For cross-pole stability, a second canonical pole (+33.465°, −147.811°), defined by the equivalent best-pair search on the older 12-site catalog, was tested in parallel.
 
+Both poles give equivalent population significance to within Monte Carlo noise (p_joint at w=50km differing by less than a factor of 2), establishing a cross-pole stability envelope of approximately 50 km within which the corridor's significance is robust.
+
 ## 2.4 Bounding box
 
 Tests were conducted within a fixed bounding box covering southern Britain:
 
-> latitude ∈ [49.5°, 53.5°] N, longitude ∈ [6.5°, 2.5°] W to E (i.e. [−6.5°, +2.5°]).
+> latitude ∈ [49.5°, 53.5°] N, longitude ∈ [6.5° W, 2.5° E].
 
 The box contains the entire Cornwall-to-East-Anglia stretch of the canonical alignment with > 100 km margin on all sides, and excludes Scotland, Ireland, and continental Europe. The bounding-box center is (51.5° N, 2.0° W) and its half-diagonal is approximately 383 km, used in Section 2.5.2 as the rejection-sampling tolerance for random corridors required to pass through the data region.
 

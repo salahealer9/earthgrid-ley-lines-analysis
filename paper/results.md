@@ -80,13 +80,13 @@ The 5, 10, and 20 km widths showed consistent joint significance below 0.005 but
 
 The upper tail of the joint null distribution at w = 5 km was driven by a single trial (trial 1583) that simultaneously beat the canonical corridor on all three catalogs: K_t^{B1} = 436, K_t^A = 44, K_t^{B2} = 666 (vs. K_real of 199, 38, 368 respectively). Trial 1583 is reported here as a diagnostic — the upper tail of a properly-calibrated null distribution should contain at least a handful of such trials, and finding zero would indicate the test had lost statistical resolution. Its high K count does not constitute a discovered alignment and is treated further in Section 4.
 
-Pearson correlation of K across the 10,000 trials, w = 50 km:
+Pearson correlation of K across the 10,000 trials by width:
 
-| Catalog pair | r |
-|---|---|
-| B1, B2 | +0.972 |
-| A,  B2 | +0.865 |
-| B1, A  | +0.796 |
+| Catalog pair | w = 5 km | w = 10 km | w = 20 km | w = 50 km | w = 100 km |
+|---|---|---|---|---|---|
+| B1, B2 | +0.930 | +0.937 | +0.949 | +0.972 | +0.990 |
+| A,  B2 | +0.681 | +0.728 | +0.784 | +0.865 | +0.923 |
+| B1, A  | +0.538 | +0.594 | +0.665 | +0.796 | +0.895 |
 
 The conjunction p-value (0.0002 isotropic at 50 km) was smaller than the strongest individual marginal in the same row (B1 isotropic at 50 km: 0.0004), with the difference holding under all four bearing-tolerance conditions.
 
