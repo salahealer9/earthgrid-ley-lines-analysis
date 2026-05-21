@@ -25,6 +25,13 @@ A separate UNESCO global sanity check confirms the signal is **regional, not glo
 
 The finding is statistical and geographic. It establishes that the canonical Michael Line corridor exists at population scale and is not explained by curation, density, orientation, or chance alignment with the British landmass. It does not establish any proposed mechanism (geophysical, energetic, or otherwise) and does not validate the broader ley-line tradition's interpretive claims.
 
+## Paper draft
+
+The manuscript is in `paper/`:
+- `abstract.md`, `introduction.md`, `methods.md`, `results.md`, `discussion.md`
+- `references.bib` (BibTeX)
+- `figures/` (Figures 1–3 as PNG/PDF)
+
 ## Methodology
 
 | Test | Question | Status |
