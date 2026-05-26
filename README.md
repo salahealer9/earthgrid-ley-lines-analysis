@@ -4,20 +4,29 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-A population-level statistical framework for testing great-circle alignment claims about cultural sites, demonstrated on the canonical St Michael ley line in southern Britain.
+A six-concentric-tests statistical framework for evaluating great-circle alignment claims about cultural sites at population scale. Worked examples: the **Michael Line** in southern Britain (analysis complete) and the **Belinus Line** across full Britain (pre-registered protocol; data extraction and analysis in progress).
 
 ## What this is
 
-This repository implements a four-concentric-tests methodology for evaluating whether a hypothesized corridor of aligned sites is statistically exceptional, beyond what could be explained by:
+This repository implements a six-concentric-tests methodology for evaluating whether a hypothesized corridor of aligned sites is statistically exceptional, beyond what could be explained by:
 
 1. **Catalog curation** — the sites tested were chosen *because* they appear aligned
 2. **Background site density** — the underlying landscape is so site-rich that almost any line catches sites
 3. **Orientation effects** — corridors oriented along a landmass diagonal trivially catch more sites than perpendicular ones
 4. **Multiple-comparison artifacts** — passing one test out of several does not establish significance
+5. **Definition sensitivity** — small changes in how the corridor is defined shouldn't dramatically change the result
+6. **Scale of claim** — regional significance shouldn't be confused with planet-wide significance
 
-The framework is portable to any corridor-alignment claim. It is applied here to the Michael ley line as a worked example.
+The framework is portable to any corridor-alignment claim. It is currently applied to two case studies: the Michael Line (worked example of a passing alignment) and the Belinus Line (in-progress second worked example, pre-registered).
 
-## Headline result
+## Project status
+
+| Case study | Status | Source |
+|---|---|---|
+| Michael Line (southern Britain) | Analysis complete (v0.1.0 / v0.1.1). Six-test results in [`docs/MICHAEL_LEY_LINES_RESULT.md`](docs/MICHAEL_LEY_LINES_RESULT.md). | Anonymous (2017) Google My Maps |
+| Belinus Line (full Britain) | Protocol pre-registered (v0.2.0). Data extraction in progress. | Biltcliffe and Hoare (2012), *The Spine of Albion* |
+
+## Headline result — Michael Line
 
 The canonical Michael corridor in southern Britain over-populates three independent reference catalogs (754 Christian dedications, 2422 prehistoric monuments, 5500 broad archaeological sites) simultaneously at the 50 km width, with joint conjunction p = 0.0002 (one-sided, 10,000 trials). The result survives Bonferroni correction across five widths, orientation restriction to ±5° of the canonical bearing, and sensitivity to four independent pole definitions (canonical 130-site, Michael current fit, Mary current fit, combined currents fit).
 
@@ -25,14 +34,25 @@ A separate UNESCO global sanity check confirms the signal is **regional, not glo
 
 The finding is statistical and geographic. It establishes that the canonical Michael Line corridor exists at population scale and is not explained by curation, density, orientation, or chance alignment with the British landmass. It does not establish any proposed mechanism (geophysical, energetic, or otherwise) and does not validate the broader ley-line tradition's interpretive claims.
 
+## Pre-registered second case study — Belinus Line
+
+A pre-registered protocol for the Belinus Line is committed at v0.2.0. The Belinus Line is canonically defined by Biltcliffe and Hoare (2012), runs approximately north-south from Balnakeil (Scotland) to the Isle of Wight, and is structurally analogous to the Michael Line tradition (central straight-line alignment plus two meandering "currents"). The protocol specifies a mathematically-defined canonical pole (great circle through St Oswald's Church, Widford, Oxfordshire at 345.8° true-north), an independent reference Catalog A of OSM Christian churches, and three alternative anchor points for the Test 5 sensitivity analysis.
+
+Pre-committed reporting applies: results will appear in the manuscript regardless of outcome. If the Belinus Line passes the same tests as the Michael Line, the framework's value is in identifying real population-level alignments. If it fails one or more tests, the framework's value is in actively discriminating between curated and population-level patterns — equally informative methodologically.
+
+Full Belinus protocol in [`docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md`](docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md).
+
 ## Paper draft
 
 The manuscript is in `paper/`:
+
 - `abstract.md`, `introduction.md`, `methods.md`, `results.md`, `discussion.md`
 - `references.bib` (BibTeX)
 - `figures/` (Figures 1–3 as PNG/PDF)
 
-## Methodology
+The current draft covers the Michael Line case study. A second worked-example section for the Belinus Line will be added once data extraction and analysis are complete.
+
+## Methodology (Michael Line — six-test results)
 
 | Test | Question | Status |
 |---|---|---|
@@ -43,9 +63,9 @@ The manuscript is in `paper/`:
 | 5. Pole sensitivity | Robust to the exact corridor definition? | yes, 4 fits within MC noise |
 | 6. UNESCO global | Significant at planetary scale? | no, 90th percentile only |
 
-Full methodology in [`docs/POPULATION_CORRIDOR_PROTOCOL_V2.md`](docs/POPULATION_CORRIDOR_PROTOCOL_V2.md). Results in [`docs/MICHAEL_LEY_LINES_RESULT.md`](docs/MICHAEL_LEY_LINES_RESULT.md).
+Full Michael Line methodology in [`docs/POPULATION_CORRIDOR_PROTOCOL_V2.md`](docs/POPULATION_CORRIDOR_PROTOCOL_V2.md). Full Belinus Line pre-registered protocol in [`docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md`](docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md).
 
-## Reproducing the results
+## Reproducing the Michael Line results
 
 Requirements: Python 3.10+, numpy. No other dependencies — all data fetching uses the standard library.
 
@@ -74,12 +94,15 @@ python scripts/unesco_global_sanity_check.py \
   --out results_corridor/unesco_sanity_check_100km.json
 ```
 
+The Belinus Line analysis follows the same scripts with different inputs (new bounding box, new catalogs, Widford-anchored canonical pole). Reproduction instructions will be added when the analysis is complete.
+
 ## Repository layout
 
 ```
 data/
   population/         Reference catalogs (A, B1, B2) and UNESCO
-  ley_lines/          Canonical 130-site and current LineString extractions
+  ley_lines/          Canonical 130-site and current LineString extractions (Michael)
+  belinus/            Belinus Line data: per-map nodes and (optional) traced current vertices
 scripts/
   build_population_catalogs.py    OSM Overpass + Wikidata catalog builder
   corridor_null_test.py           Test 1: internal nulls
@@ -89,22 +112,30 @@ scripts/
   extract_kml_coordinates.py      Mary/Michael current vertex extraction
   unesco_global_sanity_check.py   Test 6: global null
 docs/
-  POPULATION_CORRIDOR_PROTOCOL_V2.md   Pre-registered protocol
-  MICHAEL_LEY_LINES_RESULT.md          Full results writeup
+  POPULATION_CORRIDOR_PROTOCOL_V2.md         Michael Line pre-registered protocol
+  POPULATION_CORRIDOR_PROTOCOL_BELINUS.md    Belinus Line pre-registered protocol
+  MICHAEL_LEY_LINES_RESULT.md                Michael Line full results writeup
 results_corridor/                Test outputs (JSON summaries + logs)
+paper/                           Manuscript draft (abstract, sections, figures)
 ```
 
 ## Limitations
 
 - **OSM coverage variability.** Reference catalogs are drawn from OpenStreetMap, which has uneven mapping density across the bbox.
-- **Bbox specificity.** Results are conditional on the southern-Britain bbox (lat 49.5–53.5°N, lon -6.5–+2.5°E). The continental extension through Mont-Saint-Michel and Skellig Michael is future work.
+- **Bbox specificity.** Michael Line results are conditional on the southern-Britain bbox (lat 49.5–53.5°N, lon -6.5–+2.5°E). The Belinus Line uses a different bbox (50.0–59.0°N, 5.5°W–1.5°E) covering full Britain. The Michael Line continental extension through Mont-Saint-Michel and Skellig Michael is future work.
 - **No mechanism.** The methodology establishes statistical significance only. It is silent on causation.
 
 ## Citation
 
-If you use this methodology or the catalogs, please cite:
+If you use this methodology or the catalogs, please cite the latest release via the concept DOI (which always points to the most recent version):
 
-> Gherbi, S.-E. (2026). *Population-level corridor test for the Michael ley line in southern Britain* (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.20307501
+> Gherbi, S.-E. (2026). *Six-concentric-tests framework for ley-line corridor claims: case studies of the Michael and Belinus Lines in Britain*. Zenodo. https://doi.org/10.5281/zenodo.20307500
+
+For citing a specific version:
+
+- v0.2.0 (Belinus Line protocol pre-registered): [10.5281/zenodo.20386489](https://doi.org/10.5281/zenodo.20386489)
+- v0.1.1 (Michael Line analysis, B2 matrix complete): [10.5281/zenodo.20312153](https://doi.org/10.5281/zenodo.20312153)
+- v0.1.0 (Michael Line initial release): [10.5281/zenodo.20307501](https://doi.org/10.5281/zenodo.20307501)
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 
@@ -113,8 +144,10 @@ See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 Code: Apache-2.0 (see [`LICENSE`](LICENSE)).
 Data and documentation: CC-BY-4.0.
 
-Reference catalogs derived from OpenStreetMap are © OpenStreetMap contributors under the [ODbL](https://www.openstreetmap.org/copyright). UNESCO World Heritage Sites data is © UNESCO / World Heritage Centre.
+Reference catalogs derived from OpenStreetMap are © OpenStreetMap contributors under the [ODbL](https://www.openstreetmap.org/copyright). UNESCO World Heritage Sites data is © UNESCO / World Heritage Centre. The Belinus Line canonical alignment is sourced from Biltcliffe and Hoare (2012), *The Spine of Albion*; see Section 13 of the Belinus protocol for data-availability and third-party copyright handling.
 
 ## Acknowledgments
 
-The 130-site Michael alignment KML was extracted from a publicly published Google My Maps document (2017). The methodology engages with — and is in part motivated by — Matthew Johnson's critique that dense archaeological landscapes render naive site-counting along alignments uninformative; this framework is designed to address that critique directly.
+The 130-site Michael alignment KML was extracted from a publicly published Google My Maps document (2017). The Belinus Line is canonically defined by Biltcliffe and Hoare's *The Spine of Albion* (Sacred Lands Publishing, 2012, revised ePub edition 2020/2021); the author thanks Gary Biltcliffe for correspondence regarding the methodology and case-study handling.
+
+The methodology engages with — and is in part motivated by — Matthew Johnson's critique that dense archaeological landscapes render naive site-counting along alignments uninformative; this framework is designed to address that critique directly.

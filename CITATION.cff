@@ -1,35 +1,47 @@
 # CITATION.cff
 cff-version: 1.2.0
-title: "Population-level corridor test for the Michael ley line in southern Britain"
+title: "Six-concentric-tests framework for ley-line corridor claims: case studies of the Michael and Belinus Lines in Britain"
 message: "If you use this software or methodology, please cite as below."
 type: software
 authors:
   - given-names: Salah-Eddin
     family-names: "Gherbi"
     orcid: https://orcid.org/0009-0005-4017-1095
-version: 0.1.1
-date-released: "2026-05-20"
+version: 0.2.0
+date-released: "2026-05-25"
 license: Apache-2.0
 repository-code: "https://github.com/salahealer9/earthgrid-ley-lines-analysis"
 abstract: >-
-  A four-concentric-tests framework for evaluating great-circle alignment
-  claims at population scale. Tests the canonical Michael ley line corridor
-  in southern Britain against independent OSM-derived reference catalogs of
-  Christian dedications, prehistoric monuments, and broad archaeology.
-  Reports joint conjunction p = 0.0002 at the 50 km width, robust to
-  orientation restriction and pole-definition sensitivity. A separate UNESCO
-  global sanity check rules out global ley-line interpretation.
+  A six-concentric-tests methodological framework for evaluating
+  great-circle alignment claims at population scale. The framework
+  applies an internal null, an isotropic population null on independent
+  reference catalogs, a bearing-restricted population null, a joint
+  conjunction across multiple catalogs, a pole-definition sensitivity
+  check, and a global sanity check to distinguish regional from
+  planet-wide significance. Two worked examples in Britain: (i) the
+  Michael Line in southern Britain — analysis complete, joint
+  conjunction p = 0.0002 at 50 km half-width, robust to orientation
+  restriction and pole-definition sensitivity, with a separate UNESCO
+  global sanity check ruling out planet-wide interpretation; and (ii)
+  the Belinus Line across full Britain — pre-registered protocol
+  committed at v0.2.0, data extraction and analysis in progress.
 keywords:
   - statistical archaeology
   - corridor alignment
   - population-level testing
   - ley lines
+  - Michael Line
+  - Belinus Line
   - great circle
   - Monte Carlo
+  - pre-registration
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20307500"
     description: "Concept DOI (always points to latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20386489"
+    description: "v0.2.0 release archived on Zenodo (Belinus Line protocol pre-registered)"
   - type: doi
     value: "10.5281/zenodo.20312153"
     description: "v0.1.1 release archived on Zenodo"
