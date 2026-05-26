@@ -29,3 +29,9 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Traced vertex data (Section 13 of POPULATION_CORRIDOR_PROTOCOL_BELINUS.md):
+# excluded from public deposit by default, pending permission from source authors
+data/belinus/central_line_vertices.csv
+data/belinus/elen_current_vertices.csv
+data/belinus/belinus_current_vertices.csv
