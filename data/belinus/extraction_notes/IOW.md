@@ -1,8 +1,17 @@
-# IOW Extraction Notes (Volume 1, Location 838 and 839 of 2948)
+# IOW Extraction Notes (Volume 1, Location 818, 838 and 839 of 2948)
 
 ## Maps
 
-Two maps are presented: `node_detail` (838 of 2948) and `region_overview` (839 of 2948).
+Three maps are presented: `area_currents` (818 of 2948), `node_detail` (838 of 2948) and `region_overview` (839 of 2948).
+
+### `area_currents` (818 of 2948)
+
+- Shows a map of Binbridge Isle with the Elen and Belinus currents.
+- The entry point of the Belinus current is defined as **Bembridge Down** (Head of the IOW Serpent).
+- The Belinus current passes through the node Yaverland.
+- The entry point of the Elen current is the **Nostril caves at Culver Down**.
+- The Elen current passes through the nodes Bembridge Fort and Centurion's Copse.
+- The node Bembridge Windmill is an auxiliary, and is not a node of any currents.
 
 ### `node_detail` (838 of 2948)
 
@@ -29,7 +38,7 @@ The black central line carries on north-west without passing through any near cl
 
 Eleanor's Grove (a section of the A3054 road between Fishbourne Lane and Quarr Abbey) is also present; central line passes within 1 km; near Elen current.
 
-**Elen current (purple):** Enters at Culver Down (Whitecliff ledge), then passes through:
+**Elen current (purple):** Enters at **Culver Down (The Nostrils caves)** , then passes through:
 - Bembridge Fort
 - Centurion's Copse (Wolverton, site of)
 - Brading
@@ -42,7 +51,7 @@ Eleanor's Grove (a section of the A3054 road between Fishbourne Lane and Quarr A
 - Quarr Abbey (main recent building; 20th-century Benedictine monastery)
 - then carries on beyond the coast
 
-**Belinus current (gold):** Enters at Red Cliff on the coast (a little further down south from Whitecliff ledge), then passes through:
+**Belinus current (gold):** Enters at **Bembridge Down (Head of the IOW Serpent)** , then passes through:
 - Yaverland
 - Brading Roman Fort
 - Devil's Punchbowl (meeting point of the two currents)
@@ -50,3 +59,5 @@ Eleanor's Grove (a section of the A3054 road between Fishbourne Lane and Quarr A
 - Ryde
 - Binstead
 - then carries on beyond the coast
+
+*Note: Red Cliff and Whitecliff Ledge appear on the map but are not the entry points; the entry points are Bembridge Down (Belinus) and Culver Down / The Nostrils (Elen). These nodes are retained as auxiliary (`is_canonical = FALSE`) for completeness.*
