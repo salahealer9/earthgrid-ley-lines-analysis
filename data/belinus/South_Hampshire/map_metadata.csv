@@ -1,0 +1,5 @@
+map_name,map_type,region,ebook_volume,ebook_page,bearing_at_centre_deg,has_central_line,has_elen_current,has_belinus_current,n_nodes,n_central_vertices,n_elen_vertices,n_belinus_vertices,notes
+South_Hampshire_Entry,area_currents,Southern England,1,1008,346.3,TRUE,TRUE,TRUE,10,1,4,4,"Area map of Titchfield. Elen current enters at Great Posbrook Farm and St Peter's Church; Belinus current enters at St Peter's Church. Meeting points: St Peter's Church, Titchfield Abbey."
+South_Hampshire_St_Catherines,node_detail,Southern England,1,1146,346.3,TRUE,TRUE,TRUE,2,1,2,2,"Node detail for St Catherine's Hill. Central line passes through Labyrinth node. Both currents meet at Trees and Labyrinth nodes."
+South_Hampshire_Overview,region_overview,Southern England,1,1147,346.3,TRUE,TRUE,TRUE,27,33,?,?,"Region overview of South Hampshire. Central line passes through Roman Fort Curbridge, Marwell Manor, St Catherine's Hill, Winchester Cathedral within 100m. Nodes on currents as listed in extraction notes."
+
