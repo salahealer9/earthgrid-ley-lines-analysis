@@ -61,7 +61,7 @@ The black central line passes near:
 - St Catherine's Hill
 - Morestead
 
-- **Winchester Cathedral** is a meeting point of Elen and Belinus currents.
+- **Winchester Cathedral**, **St Catherine's Hill**, **St Peter's Church** and **Titchfield Abbey** are meeting points of Elen and Belinus currents.
 
 - **Auxiliary:** Meon Spit, Browndown, Gosport and Fareham
 
