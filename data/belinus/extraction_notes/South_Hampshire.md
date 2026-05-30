@@ -65,7 +65,14 @@ The black central line passes near:
 
 - **Auxiliary:** Meon Spit, Browndown, Gosport and Fareham
 
-Gary Biltcliffe labels both sites simply as "Bishop's Waltham," but they can be effectively distinguished as the Eastern Node at the historic Palace and St. Peter's, and the Western Node at the geologically significant Claylands area.
+### Bishop's Waltham nodes
+
+Biltcliffe's text explicitly mentions the **ruins of the Palace of the Bishops of Winchester** as the eastern node on the Belinus current. The map shows two nodes labelled "Bishop's Waltham":
+
+- **Eastern Node**: the historic Palace of the Bishops of Winchester (explicitly mentioned in text)
+- **Western Node**: the geologically significant Claylands area (shown on map; not mentioned in text)
+
+Both are treated as canonical nodes (`is_canonical = TRUE`) because they appear as marked nodes on the map.
 
 ### Central line inconsistency (Titchfield area)
 
