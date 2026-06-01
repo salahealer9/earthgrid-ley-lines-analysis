@@ -204,7 +204,7 @@ Field definitions:
 
 - `map_name`: name of the eBook map the node appears on (e.g. `IOW`, `Carlisle`, `Scotland_North`)
 - `node_name`: canonical name from the eBook (preserve original spelling)
-- `node_type`: one of `{prehistoric, christian, hillfort, holy_well, cliff, modern_landmark, estate_house, other}`
+- `node_type`: one of `{prehistoric, christian, hillfort, holy_well, cliff, modern_landmark, estate_house, castle, other}`
 - `lat`, `lon`: decimal degrees, WGS84, identified by visual inspection in Google Earth Pro by cross-referencing the eBook map's named feature against the satellite imagery. For features with named OSM records, the Google Earth-identified coordinates are expected to agree with OSM Nominatim to within a few tens of metres; where substantial discrepancies arise, they are documented in the `notes` column.
 - `on_central_line` allows a tolerance of approximately 250 metres at map scale, with the proximity noted in the `notes` column. This generous tolerance reflects the mathematical precision of the central-line definition (Section 2.4) and the eBook's schematic representation of it.
 - `on_belinus_current` and `on_elen_current` are judged visually against the meandering current as drawn in the eBook map: the analyst marks TRUE if the node symbol appears to lie **on** the drawn current line, FALSE if it lies adjacent to but not on the line. No fixed distance threshold is applied, because the currents are schematically drawn and meandering; a node that the analyst judges to be "on" the drawn line is accepted as such even if precise coordinates place it a few hundred metres away. The `notes` field records the judgment (e.g., "on Elen current", "near Elen current but not on the drawn line") and any contextual observations.
