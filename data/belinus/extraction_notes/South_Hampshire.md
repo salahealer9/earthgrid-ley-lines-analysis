@@ -108,7 +108,7 @@ A physical layout conflict exists between the macro-scale overview map and the m
 
 * **The Belinus Current (Gold):** Flows South to North, originating at St. Catherine's Hill and exiting toward Flowerdown Barrow.
 * **Entry Point:** Wolvesey Castle (ruin)
-* **Path:** Winchester Cathedral $\rightarrow$ Former Visitor Centre $\rightarrow$ Former St. Thomas Church $\rightarrow$ Peninsula Barracks $\rightarrow$ Great Hall & Round Table $\rightarrow$ Westgate Museum $\rightarrow$ West Gate $\rightarrow$ Hyde Gate $\rightarrow$ St. Bartholomew's Church.
+* **Path:** Winchester Cathedral $\rightarrow$ Former St. Thomas Church $\rightarrow$ Peninsula Barracks $\rightarrow$ Great Hall & Round Table $\rightarrow$ Westgate Museum $\rightarrow$ West Gate $\rightarrow$ Hyde Gate $\rightarrow$ St. Bartholomew's Church.
 
 
 * **The Elen Current (Purple):** Flows South to North, originating at St. Catherine's Hill and exiting toward Headbourne Worthy.
@@ -117,7 +117,7 @@ A physical layout conflict exists between the macro-scale overview map and the m
 
 
 * **Intersection Point:** The Elen and Belinus currents intersect at a single node: **Winchester Cathedral**.
-* **Auxiliary Nodes:** The Leisure Centre, Guildhall, and Barracks Museums are auxiliary markers and do not lie on any current or line.
+* **Auxiliary Nodes:** The Leisure Centre, Guildhall, Barracks Museums and Vistor Centre are auxiliary markers and do not lie on any current or line.
 
 ---
 
@@ -130,5 +130,8 @@ Two distinct placement differences exist when comparing this layout to Gary's or
 * **Barracks Museums:** The current data places this node in a different position than indicated on Gary's map.
 * **Visitor Centre:** The current data does not match the spatial positioning found on Gary's map.
 
+### Central line discrepancy (Winchester area)
 
+The traced central line from the overview map does not align well with the central line shown on Gary's `area_currents` map (1567) for the Winchester segment. The traced line has been adjusted to follow the `area_currents` map for this locality, as this map provides higher detail. The bearing was adjusted from 346.3° to 346.5° to better match Gary's map.
 
+The discrepancy is noted but does not affect statistical tests, which use the mathematically defined great circle (Widford + bearing).
