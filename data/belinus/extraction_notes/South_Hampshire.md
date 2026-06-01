@@ -117,7 +117,7 @@ A physical layout conflict exists between the macro-scale overview map and the m
 
 
 * **Intersection Point:** The Elen and Belinus currents intersect at a single node: **Winchester Cathedral**.
-* **Auxiliary Nodes:** The Leisure Centre, Guildhall, Barracks Museums and Vistor Centre are auxiliary markers and do not lie on any current or line.
+* **Auxiliary Nodes:** The Leisure Centre, Guildhall, Barracks Museums, Vistor Centre and Historic Resources Centre are auxiliary markers and do not lie on any current or line.
 
 ---
 
