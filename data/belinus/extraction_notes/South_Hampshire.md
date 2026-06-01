@@ -1,88 +1,134 @@
-# South Hampshire Extraction Notes (Volume 1, Location 1008, 1146 and 1147 of 2948)
+# South Hampshire Extraction Notes (Volume 1, Locations 1008, 1146, and 1147 of 2948)
 
-## Maps
+## Maps Overview
 
-Three maps are presented: `area_currents` (1008 of 2948), `node_detail` (1146 of 2948) and `region_overview` (1147 of 2948).
+Three distinct maps are presented in this section:
 
-### `area_currents` (1008 of 2948)
+1. `area_currents` (1008 of 2948)
+2. `node_detail` (1146 of 2948)
+3. `region_overview` (1147 of 2948)
+4. `area_currents` (1567 of 2948)
 
-- Displays a map of Titchfield showing the central line, as well as the Elen and Belinus currents.
-- The central line does not have a precise node of its own but passes very close to several nodes.
-- From south to north, the entry point of the Belinus current is defined as **St Peter's Church**, passing through the canal and the Meon River from the south-east.
-- The Belinus current passes through the node Bugle at "The Square (Site of the Old Market Hall)" before continuing along High Street close to the black central line. Beyond East Street, the Belinus current follows the central black line closely to pass through the node Tithe Barn (~150m), then curves in an approximate quarter-circle from south to east to pass through Titchfield Abbey. The Belinus current exits through the ponds of the Abbey towards the north.
-- The Belinus current passes through four nodes: St Peter's Church, Bugle, Tithe Barn, and Titchfield Abbey.
-- From south to north, the entry point of the Elen current is **Great Posbrook Farm**. Continuing north-east, it passes through St Peter's Church, then continues north along the canal and the Meon River to pass through Old Corn Mill (currently called the Titchfield Mill). Continuing north along the canal and the Meon River, the Elen current then turns left, passing through Anjou Bridge before exiting Titchfield Abbey to the north-west, gradually approaching the black central line.
-- The Elen current passes through four nodes: Great Posbrook Farm, St Peter's Church, Old Corn Mill (now called The Titchfield Mill), and Titchfield Abbey.
-- The two meeting points of the currents are the nodes St Peter's Church and Titchfield Abbey.
-- The nodes Sarsen Stones, St Margaret's Priory, Site of Shakespeare's School, and Fisherman's Rest are auxiliary and are not nodes of any current.
+---
 
-### `node_detail` (1146 of 2948)
+### 1. `area_currents` (1008 of 2948)
 
-- Node detail for St Catherine's Hill.
-- Shows the Belinus alignment (grey central line), which passes through the Labyrinth node on St Catherine's Hill.
-- Two currents meet at the "Trees" node, centered in the Inner Sanctum, and at the "Labyrinth" node.
-- The purple Elen current passes through the "Trees" node at the Inner Sanctum and the center of the "Labyrinth" node.
-- The gold Belinus current passes through the "Trees" node at the Inner Sanctum and the center of the "Labyrinth" node.
+*Displays a detailed map of Titchfield mapping the Central Line, the Belinus Current, and the Elen Current.*
 
-### `region_overview` (1147 of 2948)
+* **The Central Line (Black):** Does not feature a precise node of its own in this view, but passes in close proximity to several local nodes.
+* **The Belinus Current (Gold):** Enters from the southeast, flowing South to North along the canal and the Meon River.
+* **Entry Point:** St. Peter's Church
+* **Path:** Passes through the *Bugle* node at "The Square (Site of the Old Market Hall)", runs north along High Street close to the Central Line, and continues past East Street. It then passes through the *Tithe Barn* node (~150m) before curving in an approximate quarter-circle from south to east to hit *Titchfield Abbey*, exiting via the Abbey ponds toward the north.
+* **Nodes Visited (4):** St. Peter's Church, Bugle, Tithe Barn, Titchfield Abbey.
 
-A much richer map showing many more placemarkers.
 
-**Central line (black):** Passes through Titchfield St Peter's Church, Roman Fort Curbridge, Marwell Manor, St Catherine's Hill and Winchester Cathedral. All of them well within 250 m.
+* **The Elen Current (Purple):** Flows South to North, gradually converging toward the Central Line.
+* **Entry Point:** Great Posbrook Farm
+* **Path:** Heads northeast through *St. Peter's Church*, follows the canal and Meon River north to pass through *Old Corn Mill* (currently named The Titchfield Mill), continues north along the river, turns left through *Anjou Bridge*, and exits *Titchfield Abbey* to the northwest.
+* **Nodes Visited (4):** Great Posbrook Farm, St. Peter's Church, Old Corn Mill (The Titchfield Mill), Titchfield Abbey.
 
-The black central line passes near:
 
-- Hill Head ~550m
-- Titchfield Abbey ~500m (as seen in `area_currents`)
-- Twyford St Mary's Church ~950m
-- St Cross Church ~800m
-- Botley (All Saints Church) ~650m
-- Great Posbrook Farm ~650m
-- Crofton Old Church ~650m
+* **Intersection Points:** The two currents meet at **St. Peter's Church** and **Titchfield Abbey**.
+* **Auxiliary Nodes:** Sarsen Stones, St. Margaret's Priory, Site of Shakespeare's School, and Fisherman's Rest are auxiliary markers and do not lie on either current.
 
-**Elen current (purple):** Enters at **Meon** (through the Meon Spit), then passes through:
-- Great Posbrook Farm
-- Titchfield St Peter's Church
-- Titchfield Abbey
-- Roman Fort Curbridge
-- Botley
-- Bishopstoke Old Church
-- Otterbourne Manor
-- Twyford
-- St Cross
+---
 
-**Belinus current (gold):** Enters at **Alverstoke Motte** (through Browndown), then passes through:
-- Crofton Old Church
-- Titchfield St Peter's Church
-- Titchfield Abbey
-- Wickham
-- Shedfield
-- Bishops Waltham (Eastern and Western nodes)
-- St Catherine's Hill
-- Morestead
+### 2. `node_detail` (1146 of 2948)
 
-- **Winchester Cathedral**, **St Catherine's Hill**, **St Peter's Church** and **Titchfield Abbey** are meeting points of Elen and Belinus currents.
+*Provides localized node data for St. Catherine's Hill.*
 
-- **Auxiliary:** Meon Spit, Browndown, Gosport and Fareham
+* **Belinus Alignment:** The grey central line alignment passes directly through the *Labyrinth* node on St. Catherine's Hill.
+* **Current Intersections:** The purple Elen current and gold Belinus current intersect at two specific nodes in this view:
+1. The **Trees** node (centered within the Inner Sanctum).
+2. The **Labyrinth** node (at its exact center).
 
-### Bishop's Waltham nodes
 
-Biltcliffe's text explicitly mentions the **ruins of the Palace of the Bishops of Winchester** as the eastern node on the Belinus current. The map shows two nodes labelled "Bishop's Waltham":
+---
 
-- **Eastern Node**: the historic Palace of the Bishops of Winchester (explicitly mentioned in text)
-- **Western Node**: the geologically significant Claylands area (shown on map; not mentioned in text)
+### 3. `region_overview` (1147 of 2948)
 
-Both are treated as canonical nodes (`is_canonical = TRUE`) because they appear as marked nodes on the map.
+*A macro-level map displaying regional alignments, tracking data across a much broader area.*
 
-### Central line inconsistency (Titchfield area)
+#### **The Central Line (Black)**
 
-The overview map and the area currents map show the central line in different positions:
+Passes directly through (**within 250m**): Titchfield St. Peter's Church, Roman Fort Curbridge, Marwell Manor, St. Catherine's Hill, and Winchester Cathedral.
 
-- Overview map: if traced from Hill Head northward, the line passes through Great Posbrook Farm.
-- Area currents map: the line passes through St Peter's Church square.
+| Near-Miss Node | Approximate Distance to Central Line |
+| --- | --- |
+| Hill Head | ~550m |
+| Titchfield Abbey | ~500m *(as confirmed in area_currents)* |
+| Great Posbrook Farm | ~650m |
+| Crofton Old Church | ~650m |
+| Botley (All Saints Church) | ~650m |
+| St. Cross Church | ~800m |
+| Twyford St. Mary's Church | ~950m |
 
-The two maps are inconsistent by approximately 650m if we trace from Hill Head. The traced central line follows the **area currents map** for this segment, placing the line through St Peter's Church square. This choice prioritises the local detail map over the overview map for this node.
+#### **Current Tracking Paths**
 
-Consequence: the line is offset from Hill Head by approximately 650m compared to the overview map path.
+* **Elen Current (Purple):** Enters at **Meon** (via Meon Spit) $\rightarrow$ Great Posbrook Farm $\rightarrow$ Titchfield St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Roman Fort Curbridge $\rightarrow$ Botley $\rightarrow$ Bishopstoke Old Church $\rightarrow$ Otterbourne Manor $\rightarrow$ Twyford $\rightarrow$ St. Cross.
+* **Belinus Current (Gold):** Enters at **Alverstoke Motte** (via Browndown) $\rightarrow$ Crofton Old Church $\rightarrow$ Titchfield St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Wickham $\rightarrow$ Shedfield $\rightarrow$ Bishop's Waltham (Eastern & Western nodes) $\rightarrow$ St. Catherine's Hill $\rightarrow$ Morestead.
 
-This discrepancy is noted but does not affect the statistical tests, which use the mathematically defined great circle (Widford + bearing) as the canonical line.
+> **Major Regional Meeting Points:** Winchester Cathedral, St. Catherine's Hill, St. Peter's Church, and Titchfield Abbey serve as major intersections where the Elen and Belinus currents meet.
+
+* **Regional Auxiliaries:** Meon Spit, Browndown, Gosport, and Fareham.
+
+---
+
+## Analytical Notes & Discrepancies
+
+### Bishop's Waltham Nodes
+
+While Biltcliffe's written text explicitly names only the **ruins of the Palace of the Bishops of Winchester** (the Eastern Node) regarding the Belinus current, the overview map marks two distinct points.
+
+* **Eastern Node:** The historic Palace of the Bishops of Winchester (Supported by text & map).
+* **Western Node:** The geologically significant Claylands area (Supported by map only).
+
+**Database Status:** Both are cataloged as canonical nodes (`is_canonical = TRUE`) because both are explicitly designated as markers on the source map.
+
+### Central Line Inconsistency (Titchfield Area)
+
+A physical layout conflict exists between the macro-scale overview map and the micro-scale area currents map:
+
+* **Overview Map:** Traced north from Hill Head, the line is drawn passing through *Great Posbrook Farm*.
+* **Area Currents Map:** The line is drawn passing through *St. Peter's Church square*.
+
+**Resolution:** This tracking prioritizes the high-detail **`area_currents` map** for this specific segment, routing the line through St. Peter's Church square. Consequently, the actual mapped line is offset from Hill Head by roughly 650m compared to the overview map's trajectory.
+
+> **Statistical Impact:** This visual discrepancy is noted for mapping fidelity but does not disrupt statistical data testing. Statistical models strictly utilize the mathematically calculated great circle (Widford + bearing) as the definitive canonical line.
+
+---
+
+### 4. `area_currents` (1567 of 2948)
+
+*Displays a detailed local map of Winchester mapping the Central Line, the Belinus Current, and the Elen Current.*
+
+* **The Central Line (Black):** Originating from the south, it tracks sequentially from South to North through the following nodes:
+* School House $\rightarrow$ Winchester College $\rightarrow$ Cheyney Court $\rightarrow$ St. Swithun's Gate $\rightarrow$ Former Visitor Centre (3 Symonds Street) $\rightarrow$ St. Lawrence's Church $\rightarrow$ Winchester City Museum $\rightarrow$ The Arc Winchester (Library) $\rightarrow$ Theatre Royal.
+
+
+* **The Belinus Current (Gold):** Flows South to North, originating at St. Catherine's Hill and exiting toward Flowerdown Barrow.
+* **Entry Point:** Wolvesey Castle (ruin)
+* **Path:** Winchester Cathedral $\rightarrow$ Former Visitor Centre $\rightarrow$ Former St. Thomas Church $\rightarrow$ Peninsula Barracks $\rightarrow$ Great Hall & Round Table $\rightarrow$ Westgate Museum $\rightarrow$ West Gate $\rightarrow$ Hyde Gate $\rightarrow$ St. Bartholomew's Church.
+
+
+* **The Elen Current (Purple):** Flows South to North, originating at St. Catherine's Hill and exiting toward Headbourne Worthy.
+* **Entry Point:** The Chantry
+* **Path:** Winchester College $\rightarrow$ Pilgrims' School $\rightarrow$ Winchester Cathedral $\rightarrow$ Tower of St. Maurice $\rightarrow$ The Brooks Shopping Centre $\rightarrow$ Hyde Abbey.
+
+
+* **Intersection Point:** The Elen and Belinus currents intersect at a single node: **Winchester Cathedral**.
+* **Auxiliary Nodes:** The Leisure Centre, Guildhall, and Barracks Museums are auxiliary markers and do not lie on any current or line.
+
+---
+
+## Analytical Notes & Discrepancies (Winchester Area)
+
+### Map Discrepancies (vs. Gary's Map)
+
+Two distinct placement differences exist when comparing this layout to Gary's original tracking map:
+
+* **Barracks Museums:** The current data places this node in a different position than indicated on Gary's map.
+* **Visitor Centre:** The current data does not match the spatial positioning found on Gary's map.
+
+
+
