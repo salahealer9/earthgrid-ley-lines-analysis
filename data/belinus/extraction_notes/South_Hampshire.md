@@ -55,13 +55,13 @@ Passes directly through (**within 250m**): Titchfield St. Peter's Church, Roman 
 
 | Near-Miss Node | Approximate Distance to Central Line |
 | --- | --- |
-| Hill Head | ~550m |
-| Titchfield Abbey | ~500m *(as confirmed in area_currents)* |
+| Hill Head | ~700m |
+| Titchfield Abbey | ~400m *(as confirmed in area_currents)* |
 | Great Posbrook Farm | ~650m |
-| Crofton Old Church | ~650m |
-| Botley (All Saints Church) | ~650m |
-| St. Cross Church | ~800m |
-| Twyford St. Mary's Church | ~950m |
+| Crofton Old Church | ~700m |
+| Botley (All Saints Church) | ~1km |
+| St. Cross Church | ~850m |
+| Twyford St. Mary's Church | ~1km |
 
 #### **Current Tracking Paths**
 
