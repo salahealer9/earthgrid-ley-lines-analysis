@@ -104,7 +104,7 @@ A physical layout conflict exists between the macro-scale overview map and the m
 
 * **The Central Line (Black):** Originating from the south, it tracks sequentially from South to North through the following nodes:
 * School House $\rightarrow$ Winchester College $\rightarrow$ Cheyney Court $\rightarrow$ St. Swithun's Gate $\rightarrow$ Former Visitor Centre (3 Symonds Street) $\rightarrow$ St. Lawrence's Church $\rightarrow$ Winchester City Museum $\rightarrow$ The Arc Winchester (Library) $\rightarrow$ Theatre Royal.
-
+* Passes directly through (**within 250m**): Tower of St Maurice's, The Brooks, Hyde Abbey, St Thomas, Hyde Gate, Westgate Museum, Westgate, Visitor Centre and Historic Resources Centre.
 
 * **The Belinus Current (Gold):** Flows South to North, originating at St. Catherine's Hill and exiting toward Flowerdown Barrow.
 * **Entry Point:** Wolvesey Castle (ruin)
