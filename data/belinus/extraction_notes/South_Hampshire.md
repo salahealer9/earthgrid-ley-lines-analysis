@@ -113,8 +113,7 @@ A physical layout conflict exists between the macro-scale overview map and the m
 
 * **The Elen Current (Purple):** Flows South to North, originating at St. Catherine's Hill and exiting toward Headbourne Worthy.
 * **Entry Point:** The Chantry
-* **Path:** Winchester College $\rightarrow$ Pilgrims' School $\rightarrow$ Winchester Cathedral $\rightarrow$ Tower of St. Maurice $\rightarrow$ The Brooks Shopping Centre $\rightarrow$ Hyde Abbey.
-
+* **Path:** Winchester College $\rightarrow$ Church $\rightarrow$ Pilgrims' School $\rightarrow$ Winchester Cathedral $\rightarrow$ Tower of St. Maurice $\rightarrow$ The Brooks Shopping Centre $\rightarrow$ Hyde Abbey.
 
 * **Intersection Point:** The Elen and Belinus currents intersect at a single node: **Winchester Cathedral**.
 * **Auxiliary Nodes:** The Leisure Centre, Guildhall, Barracks Museums, Vistor Centre and Historic Resources Centre are auxiliary markers and do not lie on any current or line.
