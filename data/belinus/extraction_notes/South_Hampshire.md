@@ -51,7 +51,7 @@ Three distinct maps are presented in this section:
 
 #### **The Central Line (Black)**
 
-Passes directly through (**within 250m**): Titchfield St. Peter's Church, Roman Fort Curbridge, Marwell Manor, St. Catherine's Hill, and Winchester Cathedral.
+Passes directly through (**within 250m**): St. Peter's Church, Roman Fort Curbridge, Marwell Manor, St. Catherine's Hill, and Winchester Cathedral.
 
 | Near-Miss Node | Approximate Distance to Central Line |
 | --- | --- |
@@ -65,8 +65,8 @@ Passes directly through (**within 250m**): Titchfield St. Peter's Church, Roman 
 
 #### **Current Tracking Paths**
 
-* **Elen Current (Purple):** Enters at **Meon** (via Meon Spit) $\rightarrow$ Great Posbrook Farm $\rightarrow$ Titchfield St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Roman Fort Curbridge $\rightarrow$ Botley $\rightarrow$ Bishopstoke Old Church $\rightarrow$ Otterbourne Manor $\rightarrow$ Twyford $\rightarrow$ St. Cross.
-* **Belinus Current (Gold):** Enters at **Alverstoke Motte** (via Browndown) $\rightarrow$ Crofton Old Church $\rightarrow$ Titchfield St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Wickham $\rightarrow$ Shedfield $\rightarrow$ Bishop's Waltham (Eastern & Western nodes) $\rightarrow$ St. Catherine's Hill $\rightarrow$ Morestead.
+* **Elen Current (Purple):** Enters at **Meon** (via Meon Spit) $\rightarrow$ Great Posbrook Farm $\rightarrow$ St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Roman Fort Curbridge $\rightarrow$ Botley $\rightarrow$ Bishopstoke Old Church $\rightarrow$ Otterbourne Manor $\rightarrow$ Twyford $\rightarrow$ St. Cross.
+* **Belinus Current (Gold):** Enters at **Alverstoke Motte** (via Browndown) $\rightarrow$ Crofton Old Church $\rightarrow$ St. Peter's Church $\rightarrow$ Titchfield Abbey $\rightarrow$ Wickham $\rightarrow$ Shedfield $\rightarrow$ Bishop's Waltham (Eastern & Western nodes) $\rightarrow$ St. Catherine's Hill $\rightarrow$ Morestead.
 
 > **Major Regional Meeting Points:** Winchester Cathedral, St. Catherine's Hill, St. Peter's Church, and Titchfield Abbey serve as major intersections where the Elen and Belinus currents meet.
 
@@ -134,3 +134,10 @@ Two distinct placement differences exist when comparing this layout to Gary's or
 The traced central line from the overview map does not align well with the central line shown on Gary's `area_currents` map (1567) for the Winchester segment. The traced line has been adjusted to follow the `area_currents` map for this locality, as this map provides higher detail. The bearing was adjusted from 346.3° to 346.5° to better match Gary's map.
 
 The discrepancy is noted but does not affect statistical tests, which use the mathematically defined great circle (Widford + bearing).
+
+
+---
+
+### 5. Map canonical 33 (Vol 3 Loc 211 canonical list)
+
+- There are four nodes: Titchfield Abbey, St Peter's Church, St Catherine's Hill and Winchester Cathedral
