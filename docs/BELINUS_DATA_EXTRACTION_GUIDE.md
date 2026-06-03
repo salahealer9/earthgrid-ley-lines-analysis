@@ -75,10 +75,10 @@ Coordinates of `node` vertices are replaced with the exact values from `nodes.cs
 | Feature | Vertices | Nodes in vertices | File |
 |---------|----------|-------------------|------|
 | Central line | 26 | 0 (nodes recorded separately in `nodes.csv`) | `central_line_vertices.csv` (local only) |
-| Belinus current | 50 | 7 | `belinus_current_vertices.csv` (local only) |
-| Elen current | 99 | 11 | `elen_current_vertices.csv` (local only) |
+| Belinus current | 90 | 7 | `belinus_current_vertices.csv` (local only) |
+| Elen current | 106 | 12 | `elen_current_vertices.csv` (local only) |
 
-**Total vertices traced: 175**
+**Total vertices traced: 222**
 
 ## 4. Google Earth Styling for Placemarks
 
@@ -88,12 +88,13 @@ Coordinates of `node` vertices are replaced with the exact values from `nodes.cs
 
 | Category | Colour | Hex | KML (AABBGGRR) |
 |----------|--------|-----|----------------|
-| Central line node | Red | `#ef5350` | `FF5053EF` |
+| Central line node (~250m) | Red | `#ef5350` | `FF5053EF` |
 | Belinus current node | Gold | `#fbc02d` | `FF2DC0FB` |
 | Elen current node | Purple | `#ab47bc` | `FFBC47AB` |
-| Near central line (within ~250 m) | Orange | `#ffa726` | `FF26A7FF` |
+| Near central line (within ~1 km, not on any current) | Orange | `#ffa726` | `FF26A7FF` |
 | Auxiliary node | Blue | `#0000ff` | `FFFF0000` |
 | Meeting point (two currents) | Magenta (star icon) | `#ff00ff` | `FFFF00FF` |
+| Canonical 33 Nodes | Gold (Star icon) | `#FFD700` | `FF00D7FF` |
 
 ### 4.2 Setting Colours in Google Earth Pro
 
@@ -134,6 +135,10 @@ To apply colours to many placemarks at once:
 ```
 Belinus Line - Isle of Wight
 │
+├── 📁 Canonical 33 Nodes (Gold #FFD700, ⭐ star)
+│   Description: The authoritative 33-node list from Biltcliffe and Hoare (2012), Volume 3, Location 211 of 230.
+│   These are the primary node-points of the Belinus Line tradition. Priority: Canonical 33 > other folders.
+│
 ├── 📁 Central Line (Red #ef5350)
 │   Description: Nodes exactly on or within ~250 m of the straight central alignment (traced from eBook map, bearing ~345.5°)
 │
@@ -143,11 +148,14 @@ Belinus Line - Isle of Wight
 ├── 📁 Elen Current (Purple #ab47bc)
 │   Description: Nodes on the female meandering current (purple on Biltcliffe's map)
 │
+├── 📁 Meeting Points (Magenta #ff00ff, ⭐ star)
+│   Description: Nodes where Belinus and Elen currents meet (only those NOT in Canonical 33)
+│
 ├── 📁 Near Central Line (Orange #ffa726)
-│   Description: Nodes within ~250 m of the central line but not on any current
+│   Description: Nodes within ~1 km of the central line but not on ant current
 │
 └── 📁 Auxiliary (Blue #0000ff)
-    Description: Named places not on any feature (informational only)
+│   Description: Named places not on any feature (informational only)
 ```
 
 ## 6. Map Metadata (Isle of Wight)
@@ -155,7 +163,7 @@ Belinus Line - Isle of Wight
 ### IOW_Overview (region overview)
 
 ```csv
-IOW_Overview,region_overview,Southern England,1,839,345.5,TRUE,TRUE,TRUE,24,26,99,50,"Region overview map of the Isle of Wight. Approximated central line traced from eBook map; vertices every 200–500m; Central line passes through Battery Gardens, Christ Church, St Patrick's Church, Bloodstone Spring (within 250 m), East Ashey Earthworks (within 250 m), Kemphill (within 250 m). Elen current (purple) passes through Culver Down, Bembridge Fort, Centurion's Copse, Brading, Devil's Punchbowl (meeting point), Nunwell House, Bloodstone Spring, East Ashey Earthworks, Ashey, Ruin (medieval abbey ruins), Quarr Abbey. Belinus current (gold) passes through Yaverland, Brading Roman Fort, Devil's Punchbowl (meeting point), Swanmore, Ryde, Binstead. The two currents meet at Devil's Punchbowl."
+IOW_Overview,region_overview,Southern England,1,839,345.5,TRUE,TRUE,TRUE,28,26,106,90,"Region overview map of the Isle of Wight. Approximated central line traced from eBook map; vertices every 200–500m; Central line passes through Battery Gardens, Christ Church, St Patrick's Church, Bloodstone Spring (within 250 m), East Ashey Earthworks (within 250 m), Kemphill (within 250 m). Elen current (purple) passes through Culver Down, Bembridge Fort, Centurion's Copse, Brading, Devil's Punchbowl (meeting point), Nunwell House, Bloodstone Spring, East Ashey Earthworks, Ashey, Ruin (medieval abbey ruins), Quarr Abbey. Belinus current (gold) passes through Bembridge Down (entry point), Yaverland, Brading Roman Fort, Devil's Punchbowl (meeting point), Swanmore, Ryde, then Binstead. The two currents Elen and Belinus meet at Devil's Punchbowl."
 ```
 
 ### IOW_Detail_Bloodstone (node detail)
@@ -168,12 +176,14 @@ IOW_Detail_Bloodstone,node_detail,Southern England,1,838,345.5,TRUE,TRUE,TRUE,5,
 
 | Category | Nodes |
 |----------|-------|
-| Central line | 4 (Battery Gardens, Christ Church, St Patrick's Church, Kemphill) |
-| Belinus current | 7 (Yaverland, Red Cliff, Brading Roman Fort, Devil's Punchbowl, Ryde, Swanmore, Binstead) |
-| Elen current | 11 (Bloodstone Spring, East Ashey Earthworks, Ashey, Whitecliff Ledge, Quarr Abbey, Ruin, Culver Down, Bembridge Fort, Centurions Copse, Brading, Nunwell House) |
+| Canonical 33 (Vol 3, Loc 211) | 1 (Brading Down) |
+| Central line (per-map) | 4 (Battery Gardens, Christ Church, St Patrick's Church, Kemphill) |
+| Belinus current (per-map) | 6 (Yaverland, Brading Roman Fort, Ryde, Swanmore, Binstead, Bembridge Down) |
+| Elen current (per-map) | 11 (Bloodstone Spring, East Ashey Earthworks, Ashey, Quarr Abbey, Ruin, Culver Down, Bembridge Fort, Centurions Copse, Brading, Nunwell House, The Nostrils) |
+| Meeting Points | 1 (Devil's Punchbowl)
 | Near central line | 1 (Upton) |
-| Auxiliary | 1 (Eleanor's Grove) |
-| **Total** | **24** |
+| Auxiliary | 4 (Eleanor's Grove, Red Cliff, Whitecliff Ledge, Bembridge Windmill) |
+| **Total (unique nodes)** | **28** |
 
 ## 8. Copyright and Data Availability
 
@@ -186,4 +196,7 @@ Coordinates of named places (`nodes.csv`) are factual geographic data and are pu
 | Date | Change |
 |------|--------|
 | 2026-05-26 | Initial version; IOW extraction complete (24 nodes, 175 vertices across three traced features). |
+| 2026-05-30 | Final version; IOW extraction complete (27 nodes, 222 vertices across three traced features). |
+| 2026-06-02 | Final version; SH extraction complete (60 nodes, 614 vertices across three traced features). |
+| 2026-06-03 | Added Canonical 33 Nodes folder and colour scheme. Updated IOW node count to 28 (added Brading Down). |
 ```

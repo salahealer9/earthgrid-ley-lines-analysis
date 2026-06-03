@@ -51,9 +51,17 @@ The Belinus alignment, per the eBook, consists of three geometric layers:
 - **Belinus current**: a meandering trace running roughly parallel to the central line, depicted in the eBook in orange/yellow.
 - **Elen current**: a second meandering trace, also roughly parallel, depicted in purple.
 
-**Canonical node-points** are named places that the eBook places on the central alignment. The eBook does not enforce a single canonical count of these node-points across its maps; the public derivative sources (`belinusline.com/sites.php`, `benlovegrove.com/the-spine-of-albion-review/`) disagree on the specific membership of "33 nodes." Rather than committing to a fixed count, this protocol records every named place encountered in the eBook's maps in `nodes.csv` and marks each with a boolean `is_canonical` flag indicating whether the eBook places the named site on the central line.
+**Canonical node-points** are named places that the eBook places on the central alignment. Two complementary definitions of the canonical node set apply to this analysis:
 
-The total count of canonical nodes — i.e. rows in `nodes.csv` with `is_canonical = TRUE` — therefore emerges from the per-map judgment process rather than being pre-committed to 33 or any other specific number. Auxiliary named places (on the currents but not on the central line, or near but not on either) are recorded with `is_canonical = FALSE` for traceability.
+**A. The strict canonical 33-node list (added in v0.3.0)**: Biltcliffe and Hoare (2012, revised ePub edition), Volume 3, Location 211 of 230, contains an explicit map enumerating exactly 33 canonical nodes along the Belinus Line. This enumeration is the authoritative source-derived canonical reference. In `nodes.csv`, membership in this list is flagged by the column `in_canonical_33 = TRUE`. The 33 nodes are listed in `docs/PROTOCOL_AMENDMENT_v0.3.0.md` Section 5.
+
+This canonical-33 enumeration was not visible at v0.2.0 commit time. The protocol is amended in v0.3.0 to incorporate it as the primary canonical reference; see `docs/PROTOCOL_AMENDMENT_v0.3.0.md` for the full discussion.
+
+**B. The broader per-map canonical set (retained from v0.2.0)**: every named place encountered in the eBook's regional and node-detail maps is recorded in `nodes.csv` with a boolean `is_canonical` flag indicating whether the eBook's per-map evidence places the named site as a primary node-point on the central alignment. This flag retains its v0.2.0 semantics (per-map judgment) for continuity with the pre-registration record.
+
+The two flags are not mutually exclusive. A node may be in the strict canonical-33 list, in the broader per-map set, in both, or in neither. The strict canonical-33 list is used for primary reporting in Tests 1 and 5; the broader per-map set is reported alongside for transparency. Tests 2-4 and 6 test the canonical great circle (Section 2.4) and do not depend on either flag.
+
+Auxiliary named places (on the currents but not on the central line, or near but not on either) are recorded with `is_canonical = FALSE` and `in_canonical_33 = FALSE` for traceability.
 
 ### 2.4 Mathematical definition of the central line (canonical)
 
@@ -194,24 +202,29 @@ Five CSV files in `data/belinus/`, all with the schemas locked at the time of th
 
 ### 6.1 `nodes.csv` — the primary analysis catalog
 
-Every named place encountered in the eBook's Belinus Line maps, with a per-row judgment on whether the eBook places it on the central alignment.
+Every named place encountered in the eBook's Belinus Line maps, with per-row judgments on (a) whether the eBook's per-map evidence places it on the central alignment, and (b) whether it appears in the canonical 33-node enumeration at Volume 3, Location 211 of 230.
 
 ```
-map_name, node_name, node_type, lat, lon, on_central_line, on_belinus_current, on_elen_current, is_canonical, notes
+map_name, node_name, node_type, lat, lon, on_central_line, on_belinus_current, on_elen_current, is_canonical, in_canonical_33, notes
 ```
 
 Field definitions:
 
-- `map_name`: name of the eBook map the node appears on (e.g. `IOW`, `Carlisle`, `Scotland_North`)
-- `node_name`: canonical name from the eBook (preserve original spelling)
-- `node_type`: one of `{prehistoric, christian, hillfort, holy_well, cliff, modern_landmark, estate_house, castle, other}`
+- `map_name`: name of the eBook map the node appears on (e.g. `IOW`, `Carlisle`, `Scotland_North`).
+- `node_name`: canonical name from the eBook (preserve original spelling).
+- `node_type`: one of `{prehistoric, christian, hillfort, holy_well, cliff, modern_landmark, estate_house, castle, other}`.
 - `lat`, `lon`: decimal degrees, WGS84, identified by visual inspection in Google Earth Pro by cross-referencing the eBook map's named feature against the satellite imagery. For features with named OSM records, the Google Earth-identified coordinates are expected to agree with OSM Nominatim to within a few tens of metres; where substantial discrepancies arise, they are documented in the `notes` column.
-- `on_central_line` allows a tolerance of approximately 250 metres at map scale, with the proximity noted in the `notes` column. This generous tolerance reflects the mathematical precision of the central-line definition (Section 2.4) and the eBook's schematic representation of it.
-- `on_belinus_current` and `on_elen_current` are judged visually against the meandering current as drawn in the eBook map: the analyst marks TRUE if the node symbol appears to lie **on** the drawn current line, FALSE if it lies adjacent to but not on the line. No fixed distance threshold is applied, because the currents are schematically drawn and meandering; a node that the analyst judges to be "on" the drawn line is accepted as such even if precise coordinates place it a few hundred metres away. The `notes` field records the judgment (e.g., "on Elen current", "near Elen current but not on the drawn line") and any contextual observations.
-- `is_canonical`: TRUE if the node is considered a primary node-point in the Belinus tradition (e.g., it is named as a node in the eBook's descriptions or appears as a prominent node symbol on the maps). FALSE for all other named places (those on the currents and those near the alignment).
-- `notes`: free text
+- `on_central_line`: TRUE if the node lies on the central line (or within ~250 m of it). Generous tolerance reflects the mathematical precision of the central-line definition (Section 2.4) and the eBook's schematic representation of it. The proximity is recorded in the `notes` column.
+- `on_belinus_current` and `on_elen_current`: judged visually against the meandering current as drawn in the eBook map. The analyst marks TRUE if the node symbol appears to lie on the drawn current line, FALSE if it lies adjacent to but not on the line. No fixed distance threshold is applied, because the currents are schematically drawn and meandering; a node that the analyst judges to be "on" the drawn line is accepted as such even if precise coordinates place it a few hundred metres away. The `notes` field records the judgment.
+- `is_canonical`: TRUE if the node is considered a primary node-point in the Belinus tradition per per-map judgment from the eBook's regional and node-detail maps (e.g., it is named as a node in the eBook's descriptions or appears as a prominent node symbol on the maps). FALSE for all other named places (those on the currents and those near the alignment). This flag retains its v0.2.0 semantics.
+- `in_canonical_33`: TRUE if the named place appears in the canonical 33-node map at Volume 3, Location 211 of 230, of Biltcliffe and Hoare (2012). FALSE otherwise. This column is added in v0.3.0; see `docs/PROTOCOL_AMENDMENT_v0.3.0.md` Section 5 for the full canonical 33-node list.
+- `notes`: free text.
 
-The primary analysis catalog for Tests 2–4 is the filtered subset where `is_canonical = TRUE`. The total count of canonical nodes emerges from the per-map judgment process and is not pre-committed to a specific number. Auxiliary nodes (where `is_canonical = FALSE`) are recorded for traceability but are not used in the primary analysis (Tests 2–4, 6) or in the anchor sensitivity tests (Test 5). They may be used for supplementary visualisation or future work.
+The primary canonical set for Tests 1 and 5 is the subset where `in_canonical_33 = TRUE`. The broader per-map canonical set (`is_canonical = TRUE`) is reported alongside for transparency. The two are not mutually exclusive; see Section 2.3 for the interpretation matrix.
+
+Tests 2-4 (population nulls against catalogs A, B1, B2) and Test 6 (UNESCO global) test the mathematical canonical great circle defined in Section 2.4 and do not depend on either canonical-node subset.
+
+Auxiliary nodes (where both `is_canonical` and `in_canonical_33` are FALSE) are recorded for traceability but are not used in the primary analysis or in the anchor sensitivity tests. They may be used for supplementary visualisation or future work.
 
 ### 6.2 `central_line_vertices.csv` — optional traced central line geometry
 
@@ -289,7 +302,7 @@ Structurally identical to POPULATION_CORRIDOR_PROTOCOL_V2.md Section 2.5, with p
 
 ### 7.1 Test 1 — Internal null
 
-The internal null fixes the canonical nodes (`nodes.csv` with `is_canonical = TRUE`) and randomizes the corridor via three rearrangement schemes (`lon_shuffle`, `uniform_sphere`, `lon_uniform`), as in V2 Section 2.5.1. Computed by `scripts/corridor_null_test.py`.
+The internal null fixes the canonical nodes (`nodes.csv` with `in_canonical_33 = TRUE`, the strict canonical-33 subset; secondary report on `is_canonical = TRUE` subset) and randomizes the corridor via three rearrangement schemes (`lon_shuffle`, `uniform_sphere`, `lon_uniform`), as in V2 Section 2.5.1. Computed by `scripts/corridor_null_test.py`.
 
 Expected behaviour: high z-scores indicating internal tightness of the curated canonical nodes against the mathematical canonical pole. Not interpretable as population evidence; reported for completeness and to compare against the Michael Line's internal-null result.
 
@@ -326,6 +339,8 @@ The primary canonical pole is defined in Section 2.4 (Widford Church + 345.5° g
 For each alternative anchor, a new great circle is constructed (anchor + 345.5° grid-north bearing, converted to true-north at that anchor). Tests 2–4 are then run for each alternative great circle. The resulting p_joint values (at w = 50 km) are compared with the primary Widford-anchored p_joint. If all values are within Monte Carlo noise of each other (expected), the choice of anchor is considered robust. Substantial divergence would indicate sensitivity to anchor selection and would be reported as a limitation.
 
 The traced central line, Elen current, and Belinus current vertices are **not** used in this test; the anchor sensitivity framework relies only on Biltcliffe's designated points, not on derived geometries.
+
+The internal-tightness check that anchors the Widford pole's consistency (Section 2.4 geometric consistency check on IOW nodes) is repeated for the canonical-33 subset as a whole once data extraction completes. The expected outcome is that all 33 canonical-list nodes lie within Monte Carlo noise of the canonical great circle; if substantial deviations appear, they are reported in the manuscript as evidence of internal inconsistency in the source claim.
 
 ### 7.6 Test 6 — Global sanity check (UNESCO)
 
@@ -367,7 +382,7 @@ For transparency, the asymmetries between the two case studies are noted here an
 |---|---|---|
 | Canonical source | Google My Maps (Anonymous, 2017) | Biltcliffe and Hoare (2012), revised eBook |
 | Canonical pole definition | SVD fit to 130 KML sites (data-derived) | Mathematical: great circle through St Oswald's Church Widford at 345.8° true-north (= 345.5° grid-north per Biltcliffe 2012) |
-| Canonical waypoint count | 130 sites (fixed by source KML) | Determined per-map by `is_canonical = TRUE`; not fixed in advance |
+| Canonical waypoint count | 130 sites (fixed by source KML) | 33 nodes (Vol 3 Loc 211 canonical list; added in v0.3.0 amendment); broader per-map subset retained as secondary reporting |
 | Catalog A (dedicated) | 754 St Michael churches | All Christian churches via OSM (`amenity=place_of_worship` AND `religion=christian`) |
 | Joint conjunction | three-catalog | three-catalog (parallel to Michael) |
 | Pole sensitivity | 4 SVD-fit poles (130-site SVD, Michael current SVD, Mary current SVD, combined SVD) | 3 alternative anchor points (Great Wolford, Meon Hill, St Catherine's Hillfort) at the same canonical bearing |
