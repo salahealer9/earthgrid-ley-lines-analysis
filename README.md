@@ -24,7 +24,7 @@ The framework is portable to any corridor-alignment claim. It is currently appli
 | Case study | Status | Source |
 |---|---|---|
 | Michael Line (southern Britain) | Analysis complete (v0.1.0 / v0.1.1). Six-test results in [`docs/MICHAEL_LEY_LINES_RESULT.md`](docs/MICHAEL_LEY_LINES_RESULT.md). | Anonymous (2017) Google My Maps |
-| Belinus Line (full Britain) | Protocol pre-registered (v0.2.0). Data extraction in progress. | Biltcliffe and Hoare (2012), *The Spine of Albion* |
+| Belinus Line (full Britain) | Protocol pre-registered (v0.2.0). Amended at v0.3.0 to incorporate the canonical 33-node list from Volume 3, Location 211 of 230 — see [`docs/PROTOCOL_AMENDMENT_v0.3.0.md`](docs/PROTOCOL_AMENDMENT_v0.3.0.md). Data extraction in progress. | Biltcliffe and Hoare (2012), *The Spine of Albion* |
 
 ## Headline result — Michael Line
 
@@ -36,7 +36,9 @@ The finding is statistical and geographic. It establishes that the canonical Mic
 
 ## Pre-registered second case study — Belinus Line
 
-A pre-registered protocol for the Belinus Line is committed at v0.2.0. The Belinus Line is canonically defined by Biltcliffe and Hoare (2012), runs approximately north-south from Balnakeil (Scotland) to the Isle of Wight, and is structurally analogous to the Michael Line tradition (central straight-line alignment plus two meandering "currents"). The protocol specifies a mathematically-defined canonical pole (great circle through St Oswald's Church, Widford, Oxfordshire at 345.8° true-north), an independent reference Catalog A of OSM Christian churches, and three alternative anchor points for the Test 5 sensitivity analysis.
+A pre-registered protocol for the Belinus Line is committed at v0.2.0 and amended at v0.3.0. The Belinus Line is canonically defined by Biltcliffe and Hoare (2012), runs approximately north-south from Balnakeil (Scotland) to the Isle of Wight, and is structurally analogous to the Michael Line tradition (central straight-line alignment plus two meandering "currents"). The protocol specifies a mathematically-defined canonical pole (great circle through St Oswald's Church, Widford, Oxfordshire at 345.8° true-north), an independent reference Catalog A of OSM Christian churches, and three alternative anchor points for the Test 5 sensitivity analysis.
+
+**v0.3.0 amendment**: during data extraction, the analyst identified that Biltcliffe and Hoare (2012) Volume 3, Location 211 of 230, contains an explicit map enumerating exactly 33 canonical nodes along the Belinus Line. This authoritative source-internal enumeration was not visible at v0.2.0 commit time. The protocol is amended in v0.3.0 to incorporate the canonical 33-node list as the primary canonical reference, alongside the broader per-map judgment set retained from v0.2.0 for continuity. See [`docs/PROTOCOL_AMENDMENT_v0.3.0.md`](docs/PROTOCOL_AMENDMENT_v0.3.0.md) for the full record of what changed and why.
 
 Pre-committed reporting applies: results will appear in the manuscript regardless of outcome. If the Belinus Line passes the same tests as the Michael Line, the framework's value is in identifying real population-level alignments. If it fails one or more tests, the framework's value is in actively discriminating between curated and population-level patterns — equally informative methodologically.
 
@@ -63,7 +65,7 @@ The current draft covers the Michael Line case study. A second worked-example se
 | 5. Pole sensitivity | Robust to the exact corridor definition? | yes, 4 fits within MC noise |
 | 6. UNESCO global | Significant at planetary scale? | no, 90th percentile only |
 
-Full Michael Line methodology in [`docs/POPULATION_CORRIDOR_PROTOCOL_V2.md`](docs/POPULATION_CORRIDOR_PROTOCOL_V2.md). Full Belinus Line pre-registered protocol in [`docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md`](docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md).
+Full Michael Line methodology in [`docs/POPULATION_CORRIDOR_PROTOCOL_V2.md`](docs/POPULATION_CORRIDOR_PROTOCOL_V2.md). Full Belinus Line pre-registered protocol in [`docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md`](docs/POPULATION_CORRIDOR_PROTOCOL_BELINUS.md); v0.3.0 amendment in [`docs/PROTOCOL_AMENDMENT_v0.3.0.md`](docs/PROTOCOL_AMENDMENT_v0.3.0.md).
 
 ## Reproducing the Michael Line results
 
@@ -114,6 +116,8 @@ scripts/
 docs/
   POPULATION_CORRIDOR_PROTOCOL_V2.md         Michael Line pre-registered protocol
   POPULATION_CORRIDOR_PROTOCOL_BELINUS.md    Belinus Line pre-registered protocol
+  PROTOCOL_AMENDMENT_v0.3.0.md               Belinus protocol amendment (canonical 33-node list)
+  BELINUS_DATA_EXTRACTION_GUIDE.md           Belinus data extraction workflow guide
   MICHAEL_LEY_LINES_RESULT.md                Michael Line full results writeup
 results_corridor/                Test outputs (JSON summaries + logs)
 paper/                           Manuscript draft (abstract, sections, figures)
@@ -133,6 +137,7 @@ If you use this methodology or the catalogs, please cite the latest release via 
 
 For citing a specific version:
 
+- v0.3.0 (Belinus protocol amended with canonical 33-node list): [10.5281/zenodo.20524063](https://doi.org/10.5281/zenodo.20524063)
 - v0.2.0 (Belinus Line protocol pre-registered): [10.5281/zenodo.20386489](https://doi.org/10.5281/zenodo.20386489)
 - v0.1.1 (Michael Line analysis, B2 matrix complete): [10.5281/zenodo.20312153](https://doi.org/10.5281/zenodo.20312153)
 - v0.1.0 (Michael Line initial release): [10.5281/zenodo.20307501](https://doi.org/10.5281/zenodo.20307501)

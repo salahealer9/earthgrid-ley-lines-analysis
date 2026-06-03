@@ -7,8 +7,8 @@ authors:
   - given-names: Salah-Eddin
     family-names: "Gherbi"
     orcid: https://orcid.org/0009-0005-4017-1095
-version: 0.2.0
-date-released: "2026-05-25"
+version: 0.3.0
+date-released: "2026-06-03"
 license: Apache-2.0
 repository-code: "https://github.com/salahealer9/earthgrid-ley-lines-analysis"
 abstract: >-
@@ -24,7 +24,10 @@ abstract: >-
   restriction and pole-definition sensitivity, with a separate UNESCO
   global sanity check ruling out planet-wide interpretation; and (ii)
   the Belinus Line across full Britain — pre-registered protocol
-  committed at v0.2.0, data extraction and analysis in progress.
+  committed at v0.2.0 and amended at v0.3.0 to incorporate the
+  canonical 33-node enumeration from Biltcliffe and Hoare (2012,
+  Volume 3, Location 211 of 230); data extraction and analysis in
+  progress.
 keywords:
   - statistical archaeology
   - corridor alignment
@@ -39,6 +42,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.20307500"
     description: "Concept DOI (always points to latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20524063"
+    description: "v0.3.0 release archived on Zenodo (Belinus protocol amendment: canonical 33-node list from Vol 3, Loc 211)"
   - type: doi
     value: "10.5281/zenodo.20386489"
     description: "v0.2.0 release archived on Zenodo (Belinus Line protocol pre-registered)"
